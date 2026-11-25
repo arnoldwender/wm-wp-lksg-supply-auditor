@@ -1,0 +1,573 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "ar",
+        "plural-forms": "nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "سجل الموردين لقانون العناية الواجبة في سلاسل الإمداد الألماني (LkSG): درجة مخاطر استدلالية من مستويين، ونموذج إفصاح ذاتي عام، وملخص سنوي لأعداد السجل. لا يُصدر تقريراً إلى BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "ألمانيا"
+      ],
+      "Taiwan": [
+        "تايوان"
+      ],
+      "China": [
+        "الصين"
+      ],
+      "Vietnam": [
+        "فيتنام"
+      ],
+      "Indien": [
+        "الهند"
+      ],
+      "Bangladesch": [
+        "بنغلاديش"
+      ],
+      "IT, Software und Hosting": [
+        "تقنية المعلومات والبرمجيات والاستضافة"
+      ],
+      "Elektronik und Bauteile": [
+        "الإلكترونيات والمكوّنات"
+      ],
+      "Textil und Bekleidung": [
+        "المنسوجات والملابس"
+      ],
+      "Bergbau und Rohstoffe": [
+        "التعدين والمواد الخام"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "الزراعة والأغذية"
+      ],
+      "Kritisch": [
+        "حرج"
+      ],
+      "Hoch": [
+        "مرتفع"
+      ],
+      "Mittel": [
+        "متوسط"
+      ],
+      "Niedrig": [
+        "منخفض"
+      ],
+      "Nicht bewertet": [
+        "غير مقيَّم"
+      ],
+      "Unbekannt": [
+        "غير معروف"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "جدول الموردين مفقود"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "عطّل الإضافة ثم أعد تفعيلها مرة واحدة."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "لا يوجد موردون في السجل بعد"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "سجّل الموردين عبر الحاسبة أو المسار POST /suppliers أو نموذج الإفصاح الذاتي."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d إفصاح ذاتي غير مقيَّم",
+        "%d إفصاح ذاتي غير مقيَّم",
+        "%d إفصاحان ذاتيان غير مقيَّمين",
+        "%d إفصاحات ذاتية غير مقيَّمة",
+        "%d إفصاحًا ذاتيًا غير مقيَّم",
+        "%d إفصاح ذاتي غير مقيَّم"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "الدرجة تقدير استدلالي؛ السجل لا يغني عن تحليل المخاطر."
+      ],
+      "%d Lieferant im Register": [
+        "%d مورد في السجل",
+        "%d مورد في السجل",
+        "%d موردان في السجل",
+        "%d موردين في السجل",
+        "%d موردًا في السجل",
+        "%d مورد في السجل"
+      ],
+      "Lieferanten": [
+        "الموردون"
+      ],
+      "Hoch oder kritisch": [
+        "مرتفع أو حرج"
+      ],
+      "Register öffnen": [
+        "فتح السجل"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "موردو LkSG"
+      ],
+      "Keine Berechtigung.": [
+        "لا توجد صلاحية."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "فشل التحقق الأمني. يرجى إعادة تحميل الصفحة."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "اسم المورد مفقود."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "الدولة مفقودة أو ليست رمز ISO 3166-1 alpha-2 صالحاً (مثل DE أو CN أو BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "يجب أن تكون مرتبة المورد 1 أو 2 أو 3."
+      ],
+      "Register": [
+        "السجل"
+      ],
+      "Rechner": [
+        "الحاسبة"
+      ],
+      "Jahresübersicht": [
+        "الملخص السنوي"
+      ],
+      "Einstellungen": [
+        "الإعدادات"
+      ],
+      "Begriffe": [
+        "المفاهيم"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "سجل موردين بدرجة مخاطر استدلالية ونموذج إفصاح ذاتي وملخص سنوي لأرقام السجل."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "جزء من عائلة إضافات WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "مستقل"
+      ],
+      "Keine externen Anfragen": [
+        "دون طلبات خارجية"
+      ],
+      "Bereiche": [
+        "الأقسام"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "لم تُضف بيانات موردين تجريبية: فهي موجودة بالفعل في السجل."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "تمت إضافة %d مورد تجريبي.",
+        "تمت إضافة %d مورد تجريبي.",
+        "تمت إضافة %d موردين تجريبيين.",
+        "تمت إضافة %d موردين تجريبيين.",
+        "تمت إضافة %d موردًا تجريبيًا.",
+        "تمت إضافة %d مورد تجريبي."
+      ],
+      "Einstellungen gespeichert.": [
+        "تم حفظ الإعدادات."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "لم يتم حفظ السنة: يرجى إدخال سنة بين %1$d و%2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "جدول الموردين مفقود. عطّل الإضافة ثم أعد تفعيلها مرة واحدة."
+      ],
+      "Im Register": [
+        "في السجل"
+      ],
+      "alle Einträge": [
+        "جميع القيود"
+      ],
+      "Bewertet": [
+        "مقيَّمون"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "عبر الحاسبة أو POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "الإفصاحات الذاتية"
+      ],
+      "aktuelle Stufe": [
+        "المستوى الحالي"
+      ],
+      "Lieferantenregister": [
+        "سجل الموردين"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "تظهر الإفصاحات الذاتية غير المقيَّمة في الأعلى. لا يمكن تقييم إفصاح ذاتي قائم في مكانه هنا: التقييم عبر الحاسبة أو POST /suppliers ينشئ قيداً جديداً."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "لا يوجد موردون في السجل بعد."
+      ],
+      "Lieferant": [
+        "المورد"
+      ],
+      "Land": [
+        "الدولة"
+      ],
+      "Branche": [
+        "القطاع"
+      ],
+      "Stufe": [
+        "المرتبة"
+      ],
+      "Punktzahl": [
+        "الدرجة"
+      ],
+      "Einstufung": [
+        "التصنيف"
+      ],
+      "Status": [
+        "الحالة"
+      ],
+      "Seiten des Registers": [
+        "صفحات السجل"
+      ],
+      "Seite %1$d von %2$d": [
+        "الصفحة %1$d من %2$d"
+      ],
+      "Vorherige Seite": [
+        "الصفحة السابقة"
+      ],
+      "Nächste Seite": [
+        "الصفحة التالية"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "إنشاء موردين تجريبيين (أسماء افتراضية ودرجات محسوبة)"
+      ],
+      "Lieferanten bewerten": [
+        "تقييم مورد"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "مستوى مجرد من الدولة والقطاع، ومستوى ملموس من الشدة والاحتمالية والاعتماد على المورد والمساهمة السببية الذاتية مطروحاً منها الشهادات. الأوزان والحدود هي تقديرات استدلالية من WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "اسم المورد"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s)، مستوى الدولة %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (القطاع %2$s، المنتج %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "مرتبة المورد"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (مورد مباشر)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (مورد غير مباشر)"
+      ],
+      "3 oder weiter": [
+        "3 أو أبعد"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "المستوى الملموس، كل عنصر من 0 إلى 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "شدة بمقدار 85 أو أكثر تُعد حرجة بحد ذاتها."
+      ],
+      "Schwere": [
+        "الشدة"
+      ],
+      "Wahrscheinlichkeit": [
+        "الاحتمالية"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "الاعتماد على المورد"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "المساهمة السببية الذاتية"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "شهادات المورد"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (ناقص 10 نقاط في المستوى الملموس)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (ناقص 15 نقطة في المستوى الملموس)"
+      ],
+      "Ergebnis im Register speichern": [
+        "حفظ النتيجة في السجل"
+      ],
+      "Punktzahl berechnen": [
+        "حساب الدرجة"
+      ],
+      "Ergebnis": [
+        "النتيجة"
+      ],
+      "Noch keine Berechnung.": [
+        "لا يوجد حساب بعد."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "المستوى المجرد %1$s (الدولة %2$s، القطاع %3$s، المنتج %4$s) · المستوى الملموس %5$s (الشدة %6$s، الاحتمالية %7$s، الاعتماد %8$s، المساهمة السببية %9$s)"
+      ],
+      "Hinweise:": [
+        "تنبيهات:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "تم الحفظ في السجل مع تسجيل التقييم في السجل التاريخي."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "تم حفظ هذا النموذج مسبقاً (أعيد تحميل الصفحة)؛ لم يُنشأ قيد مكرر."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "لم يُحفظ في السجل. يظهر التقييم لكنه غير مسجل."
+      ],
+      "Einordnung": [
+        "التفسير"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "تذكر المادتان § 3 (2) و§ 5 (2) من قانون LkSG المعايير دون تحديد أوزان. وتقرر المنشأة نفسها التدابير الوقائية أو التصحيحية المناسبة، لا هذا الرقم."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "حرج: درجة من 75 أو شدة من 85. تعيّن الإضافة المشغّل CAPA_REQUIRED. وترتبط التدابير التصحيحية وفق § 7 من LkSG بانتهاك ثابت أو وشيك، لا بدرجة رقمية."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "مرتفع: درجة من 50 إلى أقل من 75. تعيّن الإضافة المشغّل AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "متوسط: درجة من 25 إلى أقل من 50. تعيّن الإضافة المشغّل QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "منخفض: درجة أقل من 25. تعيّن الإضافة المشغّل NO_ACTION. الدرجة المنخفضة لا تثبت انعدام المخاطر؛ فقد تستند كلياً إلى القيم الافتراضية."
+      ],
+      "Unbekannte Stufe.": [
+        "مستوى غير معروف."
+      ],
+      "Jahresübersicht %d": [
+        "الملخص السنوي %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "يحصي محتويات السجل للسنة التقويمية %d (UTC). هذا ليس تقريراً بموجب § 10 (2) من قانون LkSG وليس نموذجاً لجهة BAFA. اضبط السنة من الإعدادات."
+      ],
+      "JSON öffnen": [
+        "فتح JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "لا يتم تسجيل: المسؤولية الداخلية (§ 4 (3) LkSG)، وبيان السياسة (§ 6 (2))، والتدابير الوقائية (§ 6)، والتدابير التصحيحية (§ 7)، وإجراء الشكاوى (§ 8)، وتقييم فعالية التدابير."
+      ],
+      "Jahr der Jahresübersicht": [
+        "سنة الملخص السنوي"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "السنة التقويمية التي يحصيها الملخص السنوي وWP-CLI والمسار /bafa-report عند عدم تمرير سنة. القيمة الافتراضية هي السنة التقويمية السابقة."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "حذف جميع جداول وإعدادات الإضافة نهائياً وبلا رجعة عند حذف الإضافة"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "افتراضياً يتم الاحتفاظ بسجل الموردين وسجل التقييمات والإفصاحات الذاتية عند حذف الإضافة (تنص § 10 (1) من LkSG على حفظ التوثيق سبع سنوات على الأقل). فعّل هذا الخيار فقط إذا أردت إزالة جميع البيانات نهائياً."
+      ],
+      "Speichern": [
+        "حفظ"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "لا يوجد حد مخصص: المستويات تتبع حدوداً ثابتة (حرج من 75 نقطة أو شدة 85، مرتفع من 50، متوسط من 25). لم يكن حقل الحد السابق يُقرأ في أي موضع."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "مستويان وأوزان ثابتة"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "المستوى المجرد: 0.40 × الدولة + 0.40 × القطاع + 0.20 × المنتج. المستوى الملموس: 0.40 × الشدة + 0.40 × الاحتمالية + 0.10 × الاعتماد + 0.10 × المساهمة السببية، ناقص 10 لشهادة ISO 14001 و15 لشهادة SA 8000. الإجمالي: 0.30 × مجرد + 0.70 × ملموس. مستويات الدول (DE 15 إلى BD 85) وملفات القطاعات تقديرات استدلالية من WM Suite وليست مؤشر فساد."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 (2) LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "يتحدد التصرف الملائم وفق طبيعة ونطاق النشاط التجاري، والقدرة على التأثير في المتسبب المباشر، والشدة المتوقعة وقابلية المعالجة واحتمالية الانتهاك، وطبيعة المساهمة السببية. تسأل الحاسبة عن الشدة والاحتمالية والاعتماد والمساهمة السببية؛ ولا تسأل عن نطاق النشاط أو القدرة على التأثير أو قابلية المعالجة."
+      ],
+      "Selbstauskunft": [
+        "الإفصاح الذاتي"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "يحفظ النموذج [wm_lksg_supplier_portal] اسم الشركة والدولة والقطاع والمرتبة والشهادات المحددة والنص المؤكَّد مع توقيع HMAC. لا يتم التحقق من هوية المرسل. ويبقى الإفصاح الذاتي بحالة «غير مقيَّم»."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "يحصي قيود السجل لسنة تقويمية واحدة. وهو ليس تقريراً بموجب § 10 (2) من قانون LkSG وليس نموذجاً لـ BAFA."
+      ],
+      "Aufbewahrung": [
+        "الحفظ"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 (1) LkSG: «يجب الاحتفاظ بالتوثيق لمدة لا تقل عن سبع سنوات من تاريخ إنشائه.» افتراضياً تبقى جميع الجداول والإعدادات محفوظة عند حذف الإضافة ما لم يُفعّل الحذف النهائي صراحةً في الإعدادات."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "عدد الإرسالات من هذا العنوان كبير جداً. يرجى المحاولة لاحقاً."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "تعذر حفظ المورد."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "تعذر تدوين التقييم في السجل التاريخي؛ لذلك لم يُحفظ المورد."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "اسم الشركة مفقود."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "القطاع ليس من بين خيارات النموذج."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "لم يتم تأكيد الإقرار."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "تعذر حفظ الإرسال."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "تم إرسال إفصاحكم الذاتي وحفظه. يتولى الطرف المتعاقد إجراء تقييم المخاطر."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "أقرّ بعدم وجود أي انتهاك لحظر عمل الأطفال والعمل الجبري (§ 2 (2) البنود 1 إلى 3 من LkSG) أو للمحظورات البيئية الواردة في § 2 (3) من LkSG في منشأتنا أو في سلسلة إمدادنا."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "السنة خارج النطاق المسموح به."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "مؤشرات سجل LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "مؤشر سجل LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "يعرض عدداً من سجل موردي LkSG."
+      ],
+      "Kennzahl": [
+        "المؤشر"
+      ],
+      "Fertigung und Produktion": [
+        "التصنيع والإنتاج"
+      ],
+      "Elektronik und Halbleiter": [
+        "الإلكترونيات وأشباه الموصلات"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "صناعة المنسوجات والملابس"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "استخراج المواد الخام والتعدين"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "خدمات تقنية المعلومات والسحابة"
+      ],
+      "Transport und Logistik": [
+        "النقل والخدمات اللوجستية"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "الإفصاح الذاتي للموردين"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "الإفصاح الذاتي للموردين"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "تُرسل بياناتكم إلى مشغّل هذا الموقع وتُحفظ في سجل مورديه كإفصاح ذاتي غير مقيَّم. يتولى الطرف المتعاقد تقييم المخاطر. ولا يترتب على ذلك أي إبلاغ لجهة رسمية."
+      ],
+      "Wird übermittelt …": [
+        "جارٍ الإرسال …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "فشل الإرسال. لم يتم تقديم إقراركم."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "فشل الاتصال. لم يتم تقديم إقراركم."
+      ],
+      "Unternehmensname *": [
+        "اسم الشركة *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "دولة المقر (رمز ISO 3166-1، مثل DE) *"
+      ],
+      "Branche *": [
+        "القطاع *"
+      ],
+      "Lieferantenstufe *": [
+        "مرتبة المورد *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "المرتبة 1 (مورد تعاقدي مباشر)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "المرتبة 2 (مورد فرعي)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "المرتبة 3 أو أبعد (مصدر مواد خام أو مكوّنات)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "الشهادات المتوفرة"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (الإدارة البيئية)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (المعيار الاجتماعي)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (إدارة الصحة والسلامة المهنية)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "إرسال الإفصاح الذاتي"
+      ],
+      "Selbstauskunft übermittelt": [
+        "تم إرسال الإفصاح الذاتي"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "تم حفظ بياناتكم. الرقم المرجعي:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "يتولى الطرف المتعاقد تقييم المخاطر؛ وتشكل بياناتكم أساساً لذلك وتظل حتى حينه غير مقيَّمة في سجل الموردين. ولا يتم أي إبلاغ لجهة BAFA."
+      ],
+      "Formulareinstellungen": [
+        "إعدادات النموذج"
+      ],
+      "Einführungstext anzeigen": [
+        "إظهار النص التمهيدي"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "مرتبة المورد المحددة مسبقاً"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "الإفصاح الذاتي لموردي LkSG"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "نموذج إفصاح ذاتي عام للموردين مع تأكيد إلزامي وتوقيع HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "موردون"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "إفصاح ذاتي"
+      ],
+      "block keyword\u0004register": [
+        "سجل"
+      ]
+    }
+  }
+}

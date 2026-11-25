@@ -1,0 +1,564 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "lv",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Piegādātāju reģistrs Vācijas piegādes ķēdes pienācīgas rūpības likumam (LkSG): divlīmeņu heiristisks riska vērtējums, publiska pašdeklarācijas veidlapa un reģistra gada kopsavilkums. Neveido BAFA pārskatu."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Vācija"
+      ],
+      "Taiwan": [
+        "Taivāna"
+      ],
+      "China": [
+        "Ķīna"
+      ],
+      "Vietnam": [
+        "Vjetnama"
+      ],
+      "Indien": [
+        "Indija"
+      ],
+      "Bangladesch": [
+        "Bangladeša"
+      ],
+      "IT, Software und Hosting": [
+        "IT, programmatūra un mitināšana"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronika un komponentes"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstils un apģērbs"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Kalnrūpniecība un izejvielas"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Lauksaimniecība un pārtika"
+      ],
+      "Kritisch": [
+        "Kritisks"
+      ],
+      "Hoch": [
+        "Augsts"
+      ],
+      "Mittel": [
+        "Vidējs"
+      ],
+      "Niedrig": [
+        "Zems"
+      ],
+      "Nicht bewertet": [
+        "Nav novērtēts"
+      ],
+      "Unbekannt": [
+        "Nezināms"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Trūkst piegādātāju tabulas"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Vienreiz deaktivizējiet un atkal aktivizējiet spraudni."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Reģistrā vēl nav piegādātāju"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Reģistrējiet piegādātājus, izmantojot kalkulatoru, POST /suppliers vai pašdeklarācijas veidlapu."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d pašdeklarācija nav novērtēta",
+        "%d pašdeklarācijas nav novērtētas",
+        "%d pašdeklarāciju nav novērtēts"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Punktu skaits ir heiristika; reģistrs neaizstāj riska analīzi."
+      ],
+      "%d Lieferant im Register": [
+        "%d piegādātājs reģistrā",
+        "%d piegādātāji reģistrā",
+        "%d piegādātāju reģistrā"
+      ],
+      "Lieferanten": [
+        "Piegādātāji"
+      ],
+      "Hoch oder kritisch": [
+        "Augsts vai kritisks"
+      ],
+      "Register öffnen": [
+        "Atvērt reģistru"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG piegādātāji"
+      ],
+      "Keine Berechtigung.": [
+        "Nav pilnvaru."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Drošības pārbaude neizdevās. Lūdzu, pārlādējiet lapu."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Trūkst piegādātāja nosaukuma."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Trūkst valsts vai tas nav ISO 3166-1 alpha-2 kods (piemēram, DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Piegādātāja posmam jābūt 1, 2 vai 3."
+      ],
+      "Register": [
+        "Reģistrs"
+      ],
+      "Rechner": [
+        "Kalkulators"
+      ],
+      "Jahresübersicht": [
+        "Gada kopsavilkums"
+      ],
+      "Einstellungen": [
+        "Iestatījumi"
+      ],
+      "Begriffe": [
+        "Jēdzieni"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Piegādātāju reģistrs ar heiristisku riska punktu skaitu, pašdeklarācijas veidlapu un reģistra skaitļu gada kopsavilkumu."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Daļa no WM Suite spraudņu saimes"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autonoms"
+      ],
+      "Keine externen Anfragen": [
+        "Bez ārējiem pieprasījumiem"
+      ],
+      "Bereiche": [
+        "Sadaļas"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Parauga piegādātāji netika pievienoti: tie jau ir reģistrā."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Pievienots %d parauga piegādātājs.",
+        "Pievienoti %d parauga piegādātāji.",
+        "Pievienots %d parauga piegādātāju."
+      ],
+      "Einstellungen gespeichert.": [
+        "Iestatījumi saglabāti."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Gads netika saglabāts: ievadiet gadu intervālā no %1$d līdz %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Trūkst piegādātāju tabulas. Vienreiz deaktivizējiet un atkal aktivizējiet spraudni."
+      ],
+      "Im Register": [
+        "Reģistrā"
+      ],
+      "alle Einträge": [
+        "visi ieraksti"
+      ],
+      "Bewertet": [
+        "Novērtēti"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "ar kalkulatoru vai POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Pašdeklarācijas"
+      ],
+      "aktuelle Stufe": [
+        "pašreizējais līmenis"
+      ],
+      "Lieferantenregister": [
+        "Piegādātāju reģistrs"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Nenovērtētās pašdeklarācijas atrodas augšgalā. Esošu pašdeklarāciju šeit nevar novērtēt uz vietas: novērtēšana ar kalkulatoru vai POST /suppliers izveido jaunu ierakstu."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Reģistrā vēl nav piegādātāju."
+      ],
+      "Lieferant": [
+        "Piegādātājs"
+      ],
+      "Land": [
+        "Valsts"
+      ],
+      "Branche": [
+        "Nozare"
+      ],
+      "Stufe": [
+        "Posms"
+      ],
+      "Punktzahl": [
+        "Punkti"
+      ],
+      "Einstufung": [
+        "Klasifikācija"
+      ],
+      "Status": [
+        "Statuss"
+      ],
+      "Seiten des Registers": [
+        "Reģistra lapas"
+      ],
+      "Seite %1$d von %2$d": [
+        "%1$d. lapa no %2$d"
+      ],
+      "Vorherige Seite": [
+        "Iepriekšējā lapa"
+      ],
+      "Nächste Seite": [
+        "Nākamā lapa"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Izveidot parauga piegādātājus (izdomāti nosaukumi, aprēķināti punkti)"
+      ],
+      "Lieferanten bewerten": [
+        "Novērtēt piegādātāju"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstraktais līmenis no valsts un nozares, konkrētais līmenis no smaguma, varbūtības, atkarības no piegādātāja un pašu cēloņsakarības ieguldījuma, atskaitot sertifikātus. Svari un robežas ir WM Suite heiristika."
+      ],
+      "Name des Lieferanten": [
+        "Piegādātāja nosaukums"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), valsts līmenis %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektors %2$s, produkts %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Piegādātāja posms"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (tiešais piegādātājs)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (netiešais piegādātājs)"
+      ],
+      "3 oder weiter": [
+        "3 vai tālāk"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkrētais līmenis, katrs no 0 līdz 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Smagums no 85 pats par sevi ir kritisks."
+      ],
+      "Schwere": [
+        "Smagums"
+      ],
+      "Wahrscheinlichkeit": [
+        "Varbūtība"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Atkarība no piegādātāja"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Pašu cēloņsakarības ieguldījums"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Piegādātāja sertifikāti"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (mīnus 10 punkti konkrētajā līmenī)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (mīnus 15 punkti konkrētajā līmenī)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Saglabāt rezultātu reģistrā"
+      ],
+      "Punktzahl berechnen": [
+        "Aprēķināt punktus"
+      ],
+      "Ergebnis": [
+        "Rezultāts"
+      ],
+      "Noch keine Berechnung.": [
+        "Aprēķins vēl nav veikts."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstraktais līmenis %1$s (valsts %2$s, sektors %3$s, produkts %4$s) · konkrētais līmenis %5$s (smagums %6$s, varbūtība %7$s, atkarība %8$s, cēloņsakarība %9$s)"
+      ],
+      "Hinweise:": [
+        "Norādes:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Saglabāts reģistrā ar vērtējumu vēsturē."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Šī veidlapa jau ir saglabāta (lapa tika pārlādēta); otrs ieraksts netika izveidots."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Nav saglabāts reģistrā. Vērtējums ir parādīts, bet nav reģistrēts."
+      ],
+      "Einordnung": [
+        "Skaidrojums"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "LkSG 3. panta 2. daļa un 5. panta 2. daļa nosauc kritērijus, bet ne svarus. Par atbilstošiem profilakses vai novēršanas pasākumiem lemj uzņēmums, nevis šis skaitlis."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritisks: punkti no 75 vai smagums no 85. Spraudnis piešķir izraisītāju CAPA_REQUIRED. Novēršanas pasākumi saskaņā ar LkSG 7. pantu balstās uz konstatētu vai tūlītēju pārkāpumu, nevis punktu skaitu."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Augsts: punkti no 50 līdz zem 75. Spraudnis piešķir izraisītāju AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Vidējs: punkti no 25 līdz zem 50. Spraudnis piešķir izraisītāju QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Zems: punkti zem 25. Spraudnis piešķir izraisītāju NO_ACTION. Zems punktu skaits nepierāda risku neesamību; tas var pilnībā balstīties uz noklusējuma vērtībām."
+      ],
+      "Unbekannte Stufe.": [
+        "Nezināms līmenis."
+      ],
+      "Jahresübersicht %d": [
+        "Gada kopsavilkums %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Saskaita reģistra saturu kalendārajam %d. gadam (UTC). Tas nav pārskats saskaņā ar LkSG 10. panta 2. daļu un nav BAFA veidlapa. Gadu iestatiet sadaļā Iestatījumi."
+      ],
+      "JSON öffnen": [
+        "Atvērt JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Netiek reģistrēts: iekšējā atbildība (LkSG 4. panta 3. daļa), pamatnostādņu deklarācija (6. panta 2. daļa), profilakses pasākumi (6. pants), novēršanas pasākumi (7. pants), sūdzību procedūra (8. pants) un pasākumu efektivitātes novērtējums."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Gada kopsavilkuma gads"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalendārais gads, ko gada kopsavilkums, WP-CLI un maršruts /bafa-report skaita bez gada norādes. Pēc noklusējuma – iepriekšējais kalendārais gads."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Neatgriezeniski dzēst visas spraudņa tabulas un iestatījumus, dzēšot spraudni"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Pēc noklusējuma piegādātāju reģistrs, novērtējumu vēsture un pašdeklarācijas tiek saglabāti, dzēšot spraudni (LkSG 10. panta 1. daļa paredz glabāšanu vismaz septiņus gadus). Iespējojiet tikai tad, ja visi dati jāizdzēš neatgriezeniski."
+      ],
+      "Speichern": [
+        "Saglabāt"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Pielāgota sliekšņa nav: līmeņi seko fiksētām robežām (kritisks no 75 punktiem vai smaguma 85, augsts no 50, vidējs no 25). Agrākais sliekšņa lauks nekur netika lasīts."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Divi līmeņi, fiksēti svari"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstraktais līmenis: 0,40 × valsts + 0,40 × sektors + 0,20 × produkts. Konkrētais līmenis: 0,40 × smagums + 0,40 × varbūtība + 0,10 × atkarība + 0,10 × cēloņsakarība, mīnus 10 par ISO 14001 un 15 par SA 8000. Kopā: 0,30 × abstraktais + 0,70 × konkrētais. Valstu līmeņi (DE 15 līdz BD 85) un nozaru profili ir WM Suite heiristika, nevis korupcijas indekss."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "LkSG 3. panta 2. daļa"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Atbilstoša rīcība ir atkarīga no uzņēmējdarbības veida un apjoma, ietekmes spējas uz tiešo izraisītāju, sagaidāmā smaguma, atgriezeniskuma un varbūtības, kā arī cēloņsakarības ieguldījuma veida. Kalkulators prasa smagumu, varbūtību, atkarību un cēloņsakarību; tas neprasa darbības apjomu, ietekmes spēju vai atgriezeniskumu."
+      ],
+      "Selbstauskunft": [
+        "Pašdeklarācija"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Veidlapa [wm_lksg_supplier_portal] saglabā uzņēmuma nosaukumu, valsti, nozari, posmu, atzīmētos sertifikātus un apstiprināto tekstu ar HMAC parakstu. Iesniedzējs netiek identificēts. Pašdeklarācija paliek statusā „nav novērtēts“."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Saskaita reģistra ierakstus par vienu kalendāro gadu. Tas nav pārskats saskaņā ar LkSG 10. panta 2. daļu un nav BAFA veidlapa."
+      ],
+      "Aufbewahrung": [
+        "Glabāšana"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "LkSG 10. panta 1. daļa: „Dokumentācija jāglabā vismaz septiņus gadus no tās izveidošanas.“ Pēc noklusējuma visas tabulas un iestatījumi tiek saglabāti spraudņa dzēšanas gadījumā, ja vien sadaļā Iestatījumi nav skaidri iespējota neatgriezeniska dzēšana."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Pārāk daudz iesniegumu no šīs adreses. Lūdzu, mēģiniet vēlāk."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Piegādātāju neizdevās saglabāt."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Novērtējumu neizdevās reģistrēt; tādēļ piegādātājs netika saglabāts."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Trūkst uzņēmuma nosaukuma."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Nozare neatbilst nevienai veidlapas izvēlei."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Deklarācija netika apstiprināta."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Iesniegumu neizdevās saglabāt."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Jūsu pašdeklarācija ir nosūtīta un saglabāta. Riska novērtējumu veic pasūtītājs."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Apstiprinu, ka mūsu darbības vietā un piegādes ķēdē nav bērnu darba un piespiedu darba aizliegumu (LkSG 2. panta 2. daļas 1.–3. punkts) un LkSG 2. panta 3. daļas vides aizliegumu pārkāpumu."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Gads ir ārpus atļautā diapazona."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG reģistra rādītāji"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG reģistra rādītājs"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Izvada skaitu no LkSG piegādātāju reģistra."
+      ],
+      "Kennzahl": [
+        "Rādītājs"
+      ],
+      "Fertigung und Produktion": [
+        "Ražošana un apstrāde"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronika un pusvadītāji"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstilrūpniecība un apģērbu ražošana"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Izejvielu ieguve un kalnrūpniecība"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT un mākoņpakalpojumi"
+      ],
+      "Transport und Logistik": [
+        "Transports un loģistika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Piegādātāja pašdeklarācija"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Pašdeklarācija piegādātājiem"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Jūsu dati tiek nosūtīti šīs vietnes uzturētājam un saglabāti tā piegādātāju reģistrā kā nenovērtēta pašdeklarācija. Riska novērtējumu veic pasūtītājs. Ziņošana iestādēm nenotiek."
+      ],
+      "Wird übermittelt …": [
+        "Notiek nosūtīšana …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Nosūtīšana neizdevās. Jūsu deklarācija NETIKA iesniegta."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Savienojums neizdevās. Jūsu deklarācija NETIKA iesniegta."
+      ],
+      "Unternehmensname *": [
+        "Uzņēmuma nosaukums *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Atrašanās valsts (ISO 3166-1 kods, piemēram, DE) *"
+      ],
+      "Branche *": [
+        "Nozare *"
+      ],
+      "Lieferantenstufe *": [
+        "Piegādātāja posms *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "1. posms (tiešais līgumpiegādātājs)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "2. posms (apakšpiegādātājs)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "3. vai tālāks posms (izejvielu vai komponenšu avots)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Esošie sertifikāti"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (vides pārvaldība)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (sociālais standarts)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (arodveselība un darba drošība)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Iesniegt pašdeklarāciju"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Pašdeklarācija iesniegta"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Jūsu dati ir saglabāti. Atsauces numurs:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Riska novērtējumu veic pasūtītājs; jūsu dati kalpo par tā pamatu un līdz tam piegādātāju reģistrā saglabā statusu „nav novērtēts“. Ziņošana BAFA nenotiek."
+      ],
+      "Formulareinstellungen": [
+        "Veidlapas iestatījumi"
+      ],
+      "Einführungstext anzeigen": [
+        "Rādīt ievadtekstu"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Iepriekš atlasītais piegādātāja posms"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG piegādātāja pašdeklarācija"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Publiska piegādātāju pašdeklarācijas veidlapa ar obligātu apstiprinājumu un HMAC parakstu."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "piegādātāji"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "pašdeklarācija"
+      ],
+      "block keyword\u0004register": [
+        "reģistrs"
+      ]
+    }
+  }
+}

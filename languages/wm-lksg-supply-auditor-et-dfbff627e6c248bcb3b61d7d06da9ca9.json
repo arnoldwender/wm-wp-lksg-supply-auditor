@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "et",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Tarnijate register Saksamaa tarneahela hoolsuskohustuse seaduse (LkSG) jaoks: kahetasemeline heuristiline riskiskoor, avalik enesedeklaratsiooni vorm ja registri aastaülevaade. Ei koosta BAFA aruannet."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Saksamaa"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "Hiina"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "India"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, tarkvara ja majutus"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektroonika ja komponendid"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstiil ja rõivad"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Mäetööstus ja toorained"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Põllumajandus ja toiduained"
+      ],
+      "Kritisch": [
+        "Kriitiline"
+      ],
+      "Hoch": [
+        "Kõrge"
+      ],
+      "Mittel": [
+        "Keskmine"
+      ],
+      "Niedrig": [
+        "Madal"
+      ],
+      "Nicht bewertet": [
+        "Hindamata"
+      ],
+      "Unbekannt": [
+        "Teadmata"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Tarnijate tabel puudub"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Lülitage pistikprogramm korraks välja ja uuesti sisse."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Registris ei ole veel tarnijaid"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Lisage tarnijaid kalkulaatori, POST /suppliers või enesedeklaratsiooni vormi kaudu."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d enesedeklaratsioon hindamata",
+        "%d enesedeklaratsiooni hindamata"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Punktisumma on heuristika; register ei asenda riskianalüüsi."
+      ],
+      "%d Lieferant im Register": [
+        "%d tarnija registris",
+        "%d tarnijat registris"
+      ],
+      "Lieferanten": [
+        "Tarnijad"
+      ],
+      "Hoch oder kritisch": [
+        "Kõrge või kriitiline"
+      ],
+      "Register öffnen": [
+        "Ava register"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG tarnijad"
+      ],
+      "Keine Berechtigung.": [
+        "Õigused puuduvad."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Turvakontroll ebaõnnestus. Palun laadige leht uuesti."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Tarnija nimi puudub."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Riik puudub või ei ole ISO 3166-1 alpha-2 kood (näiteks DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Tarnija aste peab olema 1, 2 või 3."
+      ],
+      "Register": [
+        "Register"
+      ],
+      "Rechner": [
+        "Kalkulaator"
+      ],
+      "Jahresübersicht": [
+        "Aastaülevaade"
+      ],
+      "Einstellungen": [
+        "Seaded"
+      ],
+      "Begriffe": [
+        "Mõisted"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Tarnijate register heuristilise riskiskoori, enesedeklaratsiooni vormi ja registriarvude aastaülevaatega."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Osa WM Suite pistikprogrammide perekonnast"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Iseseisev"
+      ],
+      "Keine externen Anfragen": [
+        "Väliseid päringuid ei tehta"
+      ],
+      "Bereiche": [
+        "Jaotised"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Näidistarnijaid ei lisatud: nad on juba registris."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d näidistarnija lisatud.",
+        "%d näidistarnijat lisatud."
+      ],
+      "Einstellungen gespeichert.": [
+        "Seaded salvestatud."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Aastat ei salvestatud: palun sisestage aasta vahemikus %1$d kuni %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Tarnijate tabel puudub. Lülitage pistikprogramm korraks välja ja uuesti sisse."
+      ],
+      "Im Register": [
+        "Registris"
+      ],
+      "alle Einträge": [
+        "kõik kirjed"
+      ],
+      "Bewertet": [
+        "Hinnatud"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "kalkulaatori või POST /suppliers kaudu"
+      ],
+      "Selbstauskünfte": [
+        "Enesedeklaratsioonid"
+      ],
+      "aktuelle Stufe": [
+        "praegune tase"
+      ],
+      "Lieferantenregister": [
+        "Tarnijate register"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Hindamata enesedeklaratsioonid kuvatakse eespool. Enesedeklaratsiooni ei saa siin otse hinnata: hindamine kalkulaatori või POST /suppliers kaudu loob uue kirje."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Registris ei ole veel tarnijaid."
+      ],
+      "Lieferant": [
+        "Tarnija"
+      ],
+      "Land": [
+        "Riik"
+      ],
+      "Branche": [
+        "Valdkond"
+      ],
+      "Stufe": [
+        "Aste"
+      ],
+      "Punktzahl": [
+        "Punktisumma"
+      ],
+      "Einstufung": [
+        "Hinnang"
+      ],
+      "Status": [
+        "Olek"
+      ],
+      "Seiten des Registers": [
+        "Registri leheküljed"
+      ],
+      "Seite %1$d von %2$d": [
+        "Lehekülg %1$d / %2$d"
+      ],
+      "Vorherige Seite": [
+        "Eelmine lehekülg"
+      ],
+      "Nächste Seite": [
+        "Järgmine lehekülg"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Lisa näidistarnijad (väljamõeldud nimed, arvutatud skoorid)"
+      ],
+      "Lieferanten bewerten": [
+        "Hinda tarnijat"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstraktne tase riigi ja valdkonna põhjal, konkreetne tase raskusastme, tõenäosuse, tarnijast sõltuvuse ja oma põhjusliku panuse põhjal miinus sertifikaadid. Kaalud ja piirid on WM Suite heuristika."
+      ],
+      "Name des Lieferanten": [
+        "Tarnija nimi"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), riigi tase %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektor %2$s, toode %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Tarnija aste"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (otsene tarnija)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (kaudne tarnija)"
+      ],
+      "3 oder weiter": [
+        "3 või kaugem"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkreetne tase, igaüks 0 kuni 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Raskusaste alates 85-st on juba üksi kriitiline."
+      ],
+      "Schwere": [
+        "Raskusaste"
+      ],
+      "Wahrscheinlichkeit": [
+        "Tõenäosus"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Sõltuvus tarnijast"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Oma põhjuslik panus"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Tarnija sertifikaadid"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (miinus 10 punkti konkreetsel tasemel)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (miinus 15 punkti konkreetsel tasemel)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Salvesta tulemus registrisse"
+      ],
+      "Punktzahl berechnen": [
+        "Arvuta punktisumma"
+      ],
+      "Ergebnis": [
+        "Tulemus"
+      ],
+      "Noch keine Berechnung.": [
+        "Arvutust pole veel tehtud."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstraktne tase %1$s (riik %2$s, sektor %3$s, toode %4$s) · konkreetne tase %5$s (raskusaste %6$s, tõenäosus %7$s, sõltuvus %8$s, põhjuslik panus %9$s)"
+      ],
+      "Hinweise:": [
+        "Märkused:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Salvestatud registrisse koos hindamisega ajaloos."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "See vorm on juba salvestatud (leht laaditi uuesti); topeltkirjet ei loodud."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Registrisse ei salvestatud. Hinnang kuvatakse, kuid seda ei talletatud."
+      ],
+      "Einordnung": [
+        "Selgitus"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "LkSG § 3 lg 2 ja § 5 lg 2 nimetavad kriteeriume, kuid mitte kaalusid. Millised ennetus- või parandusmeetmed on asjakohased, otsustab ettevõte, mitte see arv."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kriitiline: skoor alates 75-st või raskusaste alates 85-st. Pistikprogramm määrab päästiku CAPA_REQUIRED. LkSG § 7 kohased parandusmeetmed lähtuvad tuvastatud või vahetult eesseisvast rikkumisest, mitte skoorist."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Kõrge: skoor 50 kuni alla 75. Pistikprogramm määrab päästiku AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Keskmine: skoor 25 kuni alla 50. Pistikprogramm määrab päästiku QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Madal: skoor alla 25. Pistikprogramm määrab päästiku NO_ACTION. Madal skoor ei tõenda riskide puudumist; see võib põhineda täielikult vaikeväärtustel."
+      ],
+      "Unbekannte Stufe.": [
+        "Teadmata tase."
+      ],
+      "Jahresübersicht %d": [
+        "Aastaülevaade %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Loendab registri kirjeid kalendriaasta %d (UTC) kohta. See ei ole LkSG § 10 lg 2 kohane aruanne ega BAFA vorm. Aasta saab määrata Seadete all."
+      ],
+      "JSON öffnen": [
+        "Ava JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Ei registreerita: sisemist vastutust (LkSG § 4 lg 3), põhimõttedeklaratsiooni (§ 6 lg 2), ennetusmeetmeid (§ 6), parandusmeetmeid (§ 7), kaebuste menetlust (§ 8) ega meetmete tõhususe hindamist."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Aastaülevaate aasta"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalendriaasta, mida aastaülevaade, WP-CLI ja marsruut /bafa-report ilma aastaparameetrita loendavad. Vaikimisi eelmine kalendriaasta."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Kustuta pistikprogrammi eemaldamisel pöördumatult kõik tabelid ja seaded"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Vaikimisi säilitatakse pistikprogrammi eemaldamisel tarnijate register, hindamisajalugu ja enesedeklaratsioonid (LkSG § 10 lg 1 näeb ette vähemalt seitsmeaastase säilitamiskohustuse). Märkige ainult juhul, kui kõik andmed tuleb lõplikult kustutada."
+      ],
+      "Speichern": [
+        "Salvesta"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Kohandatud lävendit ei ole: tasemed järgivad kindlaid piire (kriitiline alates 75 punktist või raskusastmest 85, kõrge alates 50-st, keskmine alates 25-st). Varasemat lävendivälja ei loetud kusagil."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Kaks taset, kindlad kaalud"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstraktne tase: 0,40 × riik + 0,40 × sektor + 0,20 × toode. Konkreetne tase: 0,40 × raskusaste + 0,40 × tõenäosus + 0,10 × sõltuvus + 0,10 × põhjuslik panus, miinus 10 ISO 14001 ja 15 SA 8000 eest. Kokku: 0,30 × abstraktne + 0,70 × konkreetne. Riigitasemed (DE 15 kuni BD 85) ja sektoriprofiilid on WM Suite heuristika, mitte korruptsiooniindeks."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "LkSG § 3 lg 2"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Asjakohane tegutsemisviis sõltub äritegevuse laadist ja ulatusest, mõjuvõimust otsese põhjustaja üle, eeldatavast raskusastmest, pööratavusest ja tõenäosusest ning põhjusliku panuse laadist. Kalkulaator küsib raskusastet, tõenäosust, sõltuvust ja põhjuslikku panust; mitte äriulatust, mõjuvõimu ega pööratavust."
+      ],
+      "Selbstauskunft": [
+        "Enesedeklaratsioon"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Vorm [wm_lksg_supplier_portal] salvestab ettevõtte nime, riigi, valdkonna, astme, märgitud sertifikaadid ja kinnitatud teksti koos HMAC-allkirjaga. Saatjat ei tuvastata. Enesedeklaratsioon jääb olekusse „hindamata“."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Loendab registri kirjeid ühe kalendriaasta kohta. See ei ole LkSG § 10 lg 2 kohane aruanne ega BAFA vorm."
+      ],
+      "Aufbewahrung": [
+        "Säilitamine"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "LkSG § 10 lg 1: „Dokumentatsiooni tuleb säilitada vähemalt seitse aastat alates selle koostamisest.“ Vaikimisi jäävad pistikprogrammi kustutamisel kõik tabelid ja seaded alles, välja arvatud juhul, kui Seadetes on lõplik kustutamine selgesõnaliselt lubatud."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Liiga palju edastusi sellelt aadressilt. Palun proovige hiljem uuesti."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Tarnijat ei õnnestunud salvestada."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Hindamist ei õnnestunud logida; seetõttu tarnijat ei salvestatud."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Ettevõtte nimi puudub."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Valdkond ei kuulu vormi valikute hulka."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Kinnitus jäi märkimata."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Edastust ei õnnestunud salvestada."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Teie enesedeklaratsioon on edastatud ja salvestatud. Riskihindamise teeb tellija."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Kinnitan, et meie tegevuskohas ja tarneahelas ei esine lapstööjõu ja sunniviisilise töö keeldude (LkSG § 2 lg 2 p 1–3) ega LkSG § 2 lg 3 keskkonnaalaste keeldude rikkumist."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Aasta jääb lubatud vahemikust välja."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG registri näitajad"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG registri näitaja"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Väljastab loenduri LkSG tarnijate registrist."
+      ],
+      "Kennzahl": [
+        "Näitaja"
+      ],
+      "Fertigung und Produktion": [
+        "Tootmine ja töötlev tööstus"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektroonika ja pooljuhid"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstiili- ja rõivatööstus"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Tooraine kaevandamine ja mäetööstus"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT- ja pilveteenused"
+      ],
+      "Transport und Logistik": [
+        "Transport ja logistika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Tarnija enesedeklaratsioon"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Enesedeklaratsioon tarnijatele"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Teie andmed edastatakse selle veebisaidi haldajale ja salvestatakse tema tarnijate registris hindamata enesedeklaratsioonina. Riskihindamise viib läbi tellija. Ühelegi ametiasutusele teadet ei saadeta."
+      ],
+      "Wird übermittelt …": [
+        "Edastamine …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Edastamine ebaõnnestus. Teie deklaratsiooni EI esitatud."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Ühendus ebaõnnestus. Teie deklaratsiooni EI esitatud."
+      ],
+      "Unternehmensname *": [
+        "Ettevõtte nimi *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Asukohariik (ISO 3166-1 kood, näiteks DE) *"
+      ],
+      "Branche *": [
+        "Valdkond *"
+      ],
+      "Lieferantenstufe *": [
+        "Tarnija aste *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Aste 1 (otsene lepingupartner)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Aste 2 (alltarnija)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Aste 3 või kaugem (tooraine- või komponendiallikas)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Olemasolevad sertifikaadid"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (keskkonnajuhtimine)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (sotsiaalne standard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (töötervishoid ja tööohutus)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Esita enesedeklaratsioon"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Enesedeklaratsioon esitatud"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Teie andmed on salvestatud. Viitenumber:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Riskihindamise teeb tellija; teie andmed on selle aluseks ning jäävad seni tarnijate registris hindamata olekusse. BAFA-le teadet ei edastata."
+      ],
+      "Formulareinstellungen": [
+        "Vormi seaded"
+      ],
+      "Einführungstext anzeigen": [
+        "Kuva sissejuhatav tekst"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Eelvalitud tarnija aste"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG tarnija enesedeklaratsioon"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Avalik tarnija enesedeklaratsiooni vorm kohustusliku kinnituse ja HMAC-allkirjaga."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "tarnijad"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "enesedeklaratsioon"
+      ],
+      "block keyword\u0004register": [
+        "register"
+      ]
+    }
+  }
+}

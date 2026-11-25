@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "nl_NL",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Leveranciersregister voor de Duitse ketenzorgvuldigheidswet (LkSG): heuristische risicoscore op twee niveaus, openbaar zelfverklaringsformulier en jaarlijks registeroverzicht. Genereert geen BAFA-rapport."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Duitsland"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "China"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "India"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, software en hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronica en componenten"
+      ],
+      "Textil und Bekleidung": [
+        "Textiel en kleding"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Mijnbouw en grondstoffen"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Landbouw en voeding"
+      ],
+      "Kritisch": [
+        "Kritiek"
+      ],
+      "Hoch": [
+        "Hoog"
+      ],
+      "Mittel": [
+        "Gemiddeld"
+      ],
+      "Niedrig": [
+        "Laag"
+      ],
+      "Nicht bewertet": [
+        "Niet beoordeeld"
+      ],
+      "Unbekannt": [
+        "Onbekend"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "De leverancierstabel ontbreekt"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Deactiveer en activeer de plugin eenmaal opnieuw."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Nog geen leveranciers in het register"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Registreer leveranciers via de calculator, POST /suppliers of het zelfverklaringsformulier."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d zelfverklaring niet beoordeeld",
+        "%d zelfverklaringen niet beoordeeld"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "De score is een heuristiek; het register vervangt geen risicoanalyse."
+      ],
+      "%d Lieferant im Register": [
+        "%d leverancier in het register",
+        "%d leveranciers in het register"
+      ],
+      "Lieferanten": [
+        "Leveranciers"
+      ],
+      "Hoch oder kritisch": [
+        "Hoog of kritiek"
+      ],
+      "Register öffnen": [
+        "Register openen"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG-leveranciers"
+      ],
+      "Keine Berechtigung.": [
+        "Geen bevoegdheid."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "De beveiligingscontrole is mislukt. Laad de pagina opnieuw."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "De naam van de leverancier ontbreekt."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Het land ontbreekt of is geen ISO 3166-1 alpha-2-code (bijvoorbeeld DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Het leveranciersniveau moet 1, 2 of 3 zijn."
+      ],
+      "Register": [
+        "Register"
+      ],
+      "Rechner": [
+        "Calculator"
+      ],
+      "Jahresübersicht": [
+        "Jaaroverzicht"
+      ],
+      "Einstellungen": [
+        "Instellingen"
+      ],
+      "Begriffe": [
+        "Begrippen"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Leveranciersregister met heuristische risicoscore, zelfverklaringsformulier en jaarlijks overzicht van de registeraantallen."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Onderdeel van de WM Suite-pluginfamilie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Zelfstandig"
+      ],
+      "Keine externen Anfragen": [
+        "Geen externe verzoeken"
+      ],
+      "Bereiche": [
+        "Onderdelen"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Geen voorbeeldleveranciers aangemaakt: ze staan al in het register."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d voorbeeldleverancier aangemaakt.",
+        "%d voorbeeldleveranciers aangemaakt."
+      ],
+      "Einstellungen gespeichert.": [
+        "Instellingen opgeslagen."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Het jaar is niet opgeslagen: voer een jaartal tussen %1$d en %2$d in."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "De leverancierstabel ontbreekt. Deactiveer en activeer de plugin eenmaal opnieuw."
+      ],
+      "Im Register": [
+        "In register"
+      ],
+      "alle Einträge": [
+        "alle vermeldingen"
+      ],
+      "Bewertet": [
+        "Beoordeeld"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "via de calculator of POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Zelfverklaringen"
+      ],
+      "aktuelle Stufe": [
+        "huidig niveau"
+      ],
+      "Lieferantenregister": [
+        "Leveranciersregister"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Niet-beoordeelde zelfverklaringen staan bovenaan. Een zelfverklaring kan hier niet ter plekke worden beoordeeld: een beoordeling via de calculator of POST /suppliers maakt een nieuwe vermelding aan."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Nog geen leveranciers in het register."
+      ],
+      "Lieferant": [
+        "Leverancier"
+      ],
+      "Land": [
+        "Land"
+      ],
+      "Branche": [
+        "Sector"
+      ],
+      "Stufe": [
+        "Niveau"
+      ],
+      "Punktzahl": [
+        "Score"
+      ],
+      "Einstufung": [
+        "Indeling"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Seiten des Registers": [
+        "Registerpagina’s"
+      ],
+      "Seite %1$d von %2$d": [
+        "Pagina %1$d van %2$d"
+      ],
+      "Vorherige Seite": [
+        "Vorige pagina"
+      ],
+      "Nächste Seite": [
+        "Volgende pagina"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Voorbeeldleveranciers aanmaken (fictieve namen, berekende scores)"
+      ],
+      "Lieferanten bewerten": [
+        "Leverancier beoordelen"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstract niveau op basis van land en sector, concreet niveau op basis van ernst, waarschijnlijkheid, afhankelijkheid van de leverancier en eigen causale bijdrage, verminderd met certificeringen. Wegingen en grenzen zijn heuristieken van WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Naam van de leverancier"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), landniveau %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sector %2$s, product %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Leveranciersniveau"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (directe toeleverancier)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (indirecte toeleverancier)"
+      ],
+      "3 oder weiter": [
+        "3 of verder"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Concreet niveau, telkens 0 tot 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Een ernst vanaf 85 is op zichzelf al kritiek."
+      ],
+      "Schwere": [
+        "Ernst"
+      ],
+      "Wahrscheinlichkeit": [
+        "Waarschijnlijkheid"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Afhankelijkheid van de leverancier"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Eigen causale bijdrage"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Certificeringen van de leverancier"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (min 10 punten op het concrete niveau)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (min 15 punten op het concrete niveau)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Resultaat opslaan in het register"
+      ],
+      "Punktzahl berechnen": [
+        "Score berekenen"
+      ],
+      "Ergebnis": [
+        "Resultaat"
+      ],
+      "Noch keine Berechnung.": [
+        "Nog geen berekening."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstract niveau %1$s (land %2$s, sector %3$s, product %4$s) · concreet niveau %5$s (ernst %6$s, waarschijnlijkheid %7$s, afhankelijkheid %8$s, causale bijdrage %9$s)"
+      ],
+      "Hinweise:": [
+        "Meldingen:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Opgeslagen in het register, met de beoordeling in de historie."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Dit formulier is al opgeslagen (de pagina is vernieuwd); er is geen tweede vermelding aangemaakt."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Niet opgeslagen in het register. De beoordeling wordt getoond, maar is niet vastgelegd."
+      ],
+      "Einordnung": [
+        "Toelichting"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 lid 2 en § 5 lid 2 LkSG noemen criteria, maar geen wegingen. Welke preventieve of herstelmaatregelen passend zijn, bepaalt de onderneming, niet dit getal."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritiek: score vanaf 75 of ernst vanaf 85. De plugin koppelt hieraan de trigger CAPA_REQUIRED. Herstelmaatregelen volgens § 7 LkSG sluiten aan bij een vastgestelde of dreigende schending, niet bij een score."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Hoog: score 50 tot onder 75. De plugin koppelt hieraan de trigger AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Gemiddeld: score 25 tot onder 50. De plugin koppelt hieraan de trigger QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Laag: score onder 25. De plugin koppelt hieraan de trigger NO_ACTION. Een lage score bewijst niet dat er geen risico’s zijn; zij kan volledig op standaardwaarden berusten."
+      ],
+      "Unbekannte Stufe.": [
+        "Onbekend niveau."
+      ],
+      "Jahresübersicht %d": [
+        "Jaaroverzicht %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Telt wat het register voor kalenderjaar %d bevat (UTC). Dit is geen verslag volgens § 10 lid 2 LkSG en geen BAFA-formulier. Stel het jaar in bij Instellingen."
+      ],
+      "JSON öffnen": [
+        "JSON openen"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Niet vastgelegd worden: de interne verantwoordelijkheid (§ 4 lid 3 LkSG), de beleidsverklaring (§ 6 lid 2), preventiemaatregelen (§ 6), herstelmaatregelen (§ 7), de klachtenprocedure (§ 8) en de beoordeling van de doeltreffendheid."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Jaar van het jaaroverzicht"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalenderjaar dat het jaaroverzicht, WP-CLI en de route /bafa-report zonder jaaropgave tellen. Zonder invoer geldt het voorgaande kalenderjaar."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Alle plugintabellen en instellingen onherroepelijk verwijderen bij het verwijderen van de plugin"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Standaard blijven het leveranciersregister, de beoordelingshistorie en de zelfverklaringen behouden bij het verwijderen van de plugin (§ 10 lid 1 LkSG schrijft een bewaartermijn van ten minste zeven jaar voor). Alleen inschakelen als alle gegevens definitief moeten worden gewist."
+      ],
+      "Speichern": [
+        "Opslaan"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Er is geen eigen drempelwaarde: de niveaus volgen vaste grenzen (kritiek vanaf 75 punten of ernst 85, hoog vanaf 50, gemiddeld vanaf 25). Het vroegere drempelveld werd nergens gelezen."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Twee niveaus, vaste wegingen"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstract niveau: 0,40 × land + 0,40 × sector + 0,20 × product. Concreet niveau: 0,40 × ernst + 0,40 × waarschijnlijkheid + 0,10 × afhankelijkheid + 0,10 × causale bijdrage, min 10 voor ISO 14001 en 15 voor SA 8000. Totaal: 0,30 × abstract + 0,70 × concreet. Landniveaus (DE 15 tot BD 85) en sectorprofielen zijn heuristieken van WM Suite, geen corruptie-index."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 lid 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Passend handelen wordt bepaald naar aard en omvang van de bedrijfsactiviteit, beïnvloedingsvermogen op de directe veroorzaker, typisch te verwachten ernst, omkeerbaarheid en waarschijnlijkheid van de schending alsmede de aard van de causale bijdrage. De calculator vraagt ernst, waarschijnlijkheid, afhankelijkheid en causale bijdrage uit; bedrijfsomvang, invloed en omkeerbaarheid worden niet uitgevraagd."
+      ],
+      "Selbstauskunft": [
+        "Zelfverklaring"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Het formulier [wm_lksg_supplier_portal] slaat bedrijfsnaam, land, sector, niveau, aangevinkte certificeringen en de bevestigde tekst op met een HMAC-handtekening. De indiener wordt niet geïdentificeerd. Een zelfverklaring blijft ‘niet beoordeeld’."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Telt de vermeldingen van het register voor één kalenderjaar. Het is geen verslag volgens § 10 lid 2 LkSG en geen BAFA-formulier."
+      ],
+      "Aufbewahrung": [
+        "Bewaring"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 lid 1 LkSG: ‘De documentatie moet vanaf het opstellen ervan ten minste zeven jaar worden bewaard.’ Standaard blijven alle tabellen en instellingen behouden bij verwijdering van de plugin, tenzij definitieve verwijdering expliciet is ingeschakeld onder Instellingen."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Te veel inzendingen vanaf dit adres. Probeer het later opnieuw."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "De leverancier kon niet worden opgeslagen."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "De beoordeling kon niet worden gelogd; de leverancier is daarom niet opgeslagen."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "De bedrijfsnaam ontbreekt."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "De sector behoort niet tot de keuzemogelijkheden van het formulier."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "De verklaring is niet bevestigd."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "De inzending kon niet worden opgeslagen."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Uw zelfverklaring is verzonden en opgeslagen. De risicobeoordeling wordt uitgevoerd door de opdrachtgever."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Ik bevestig dat er op onze vestiging en in onze toeleveringsketen geen schending plaatsvindt van het verbod op kinderarbeid en dwangarbeid (§ 2 lid 2 nr. 1 t/m 3 LkSG) en van de milieugerelateerde verboden van § 2 lid 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Het jaar valt buiten het toegestane bereik."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG-registerkengetallen"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG-registerkengetal"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Toont een telling uit het LkSG-leveranciersregister."
+      ],
+      "Kennzahl": [
+        "Kengetal"
+      ],
+      "Fertigung und Produktion": [
+        "Productie en fabricage"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronica en halfgeleiders"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Textiel- en kledingindustrie"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Grondstoffenwinning en mijnbouw"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT- en clouddiensten"
+      ],
+      "Transport und Logistik": [
+        "Transport en logistiek"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Leveranciers-zelfverklaring"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Zelfverklaring voor leveranciers"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Uw gegevens gaan naar de exploitant van deze website en worden in diens leveranciersregister opgeslagen als niet-beoordeelde zelfverklaring. De risicobeoordeling wordt uitgevoerd door de opdrachtgever. Er vindt hierdoor geen melding aan een overheidsinstantie plaats."
+      ],
+      "Wird übermittelt …": [
+        "Wordt verzonden …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Het verzenden is mislukt. Uw verklaring is NIET ingediend."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "De verbinding is mislukt. Uw verklaring is NIET ingediend."
+      ],
+      "Unternehmensname *": [
+        "Bedrijfsnaam *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Vestigingsland (ISO 3166-1-code, bijvoorbeeld DE) *"
+      ],
+      "Branche *": [
+        "Sector *"
+      ],
+      "Lieferantenstufe *": [
+        "Leveranciersniveau *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Niveau 1 (directe contractleverancier)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Niveau 2 (toeleverancier)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Niveau 3 of verder (grondstof- of componentenbron)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Aanwezige certificeringen"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (milieumanagement)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (sociale standaard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (arbomanagement)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Zelfverklaring verzenden"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Zelfverklaring verzonden"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Uw gegevens zijn opgeslagen. Referentienummer:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "De risicobeoordeling wordt uitgevoerd door de opdrachtgever; uw gegevens vormen daarvoor de basis en staan tot die tijd als niet-beoordeeld in het leveranciersregister. Er vindt hierdoor geen melding aan het BAFA plaats."
+      ],
+      "Formulareinstellungen": [
+        "Formulierinstellingen"
+      ],
+      "Einführungstext anzeigen": [
+        "Inleidende tekst tonen"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Vooraf geselecteerd leveranciersniveau"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG-leveranciers-zelfverklaring"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Openbaar zelfverklaringsformulier voor leveranciers met verplichte bevestiging en HMAC-handtekening."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "leveranciers"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "zelfverklaring"
+      ],
+      "block keyword\u0004register": [
+        "register"
+      ]
+    }
+  }
+}

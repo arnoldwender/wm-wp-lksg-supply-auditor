@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "fi_FI",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Toimittajarekisteri Saksan toimitusketjun huolellisuusvelvoitelakia (LkSG) varten: kaksitasoinen heuristinen riskipisteytys, julkinen itsearviointilomake ja rekisterin vuosiyhteenveto. Ei tuota BAFA-raporttia."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Saksa"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "Kiina"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "Intia"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, ohjelmistot ja ylläpito"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektroniikka ja komponentit"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstiili ja vaatetus"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Kaivostoiminta ja raaka-aineet"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Maatalous ja elintarvikkeet"
+      ],
+      "Kritisch": [
+        "Kriittinen"
+      ],
+      "Hoch": [
+        "Korkea"
+      ],
+      "Mittel": [
+        "Keskitaso"
+      ],
+      "Niedrig": [
+        "Matala"
+      ],
+      "Nicht bewertet": [
+        "Arvioimaton"
+      ],
+      "Unbekannt": [
+        "Tuntematon"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Toimittajataulu puuttuu"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Poista lisäosa käytöstä ja ota se uudelleen käyttöön kerran."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Rekisterissä ei ole vielä toimittajia"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Lisää toimittajia laskurilla, POST /suppliers -reitillä tai itsearviointilomakkeella."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d itsearviointi arvioimatta",
+        "%d itsearviointia arvioimatta"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Pistemäärä on heuristiikka; rekisteri ei korvaa riskianalyysiä."
+      ],
+      "%d Lieferant im Register": [
+        "%d toimittaja rekisterissä",
+        "%d toimittajaa rekisterissä"
+      ],
+      "Lieferanten": [
+        "Toimittajat"
+      ],
+      "Hoch oder kritisch": [
+        "Korkea tai kriittinen"
+      ],
+      "Register öffnen": [
+        "Avaa rekisteri"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG-toimittajat"
+      ],
+      "Keine Berechtigung.": [
+        "Ei käyttöoikeutta."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Turvatarkistus epäonnistui. Lataa sivu uudelleen."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Toimittajan nimi puuttuu."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Maa puuttuu tai ei ole ISO 3166-1 alpha-2 -koodi (esimerkiksi DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Toimittajaportaan on oltava 1, 2 tai 3."
+      ],
+      "Register": [
+        "Rekisteri"
+      ],
+      "Rechner": [
+        "Laskuri"
+      ],
+      "Jahresübersicht": [
+        "Vuosiyhteenveto"
+      ],
+      "Einstellungen": [
+        "Asetukset"
+      ],
+      "Begriffe": [
+        "Käsitteet"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Toimittajarekisteri heuristisella riskipisteytyksellä, itsearviointilomakkeella ja rekisterilukujen vuosiyhteenvedolla."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Osa WM Suiten lisäosaperhettä"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Itsenäinen"
+      ],
+      "Keine externen Anfragen": [
+        "Ei ulkoisia pyyntöjä"
+      ],
+      "Bereiche": [
+        "Osiot"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Esimerkkitoimittajia ei lisätty: ne ovat jo rekisterissä."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d esimerkkitoimittaja lisätty.",
+        "%d esimerkkitoimittajaa lisätty."
+      ],
+      "Einstellungen gespeichert.": [
+        "Asetukset tallennettu."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Vuotta ei tallennettu: syötä vuosiluku väliltä %1$d–%2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Toimittajataulu puuttuu. Poista lisäosa käytöstä ja ota se uudelleen käyttöön kerran."
+      ],
+      "Im Register": [
+        "Rekisterissä"
+      ],
+      "alle Einträge": [
+        "kaikki merkinnät"
+      ],
+      "Bewertet": [
+        "Arvioitu"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "laskurilla tai POST /suppliers -reitillä"
+      ],
+      "Selbstauskünfte": [
+        "Itsearvioinnit"
+      ],
+      "aktuelle Stufe": [
+        "nykyinen taso"
+      ],
+      "Lieferantenregister": [
+        "Toimittajarekisteri"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Arvioimattomat itsearvioinnit näkyvät ylimpänä. Itsearviointia ei voi arvioida suoraan tässä: arviointi laskurilla tai POST /suppliers -reitillä luo uuden merkinnän."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Rekisterissä ei ole vielä toimittajia."
+      ],
+      "Lieferant": [
+        "Toimittaja"
+      ],
+      "Land": [
+        "Maa"
+      ],
+      "Branche": [
+        "Toimiala"
+      ],
+      "Stufe": [
+        "Porras"
+      ],
+      "Punktzahl": [
+        "Pistemäärä"
+      ],
+      "Einstufung": [
+        "Luokitus"
+      ],
+      "Status": [
+        "Tila"
+      ],
+      "Seiten des Registers": [
+        "Rekisterin sivut"
+      ],
+      "Seite %1$d von %2$d": [
+        "Sivu %1$d / %2$d"
+      ],
+      "Vorherige Seite": [
+        "Edellinen sivu"
+      ],
+      "Nächste Seite": [
+        "Seuraava sivu"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Luo esimerkkitoimittajat (kuvitteelliset nimet, lasketut pisteet)"
+      ],
+      "Lieferanten bewerten": [
+        "Arvioi toimittaja"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstrakti taso maasta ja toimialasta, konkreettinen taso vakavuudesta, todennäköisyydestä, riippuvuudesta toimittajasta ja omasta myötävaikutuksesta vähennettynä sertifioinneilla. Painot ja rajat ovat WM Suiten heuristiikkoja."
+      ],
+      "Name des Lieferanten": [
+        "Toimittajan nimi"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), maataso %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektori %2$s, tuote %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Toimittajaporras"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (välitön toimittaja)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (välillinen toimittaja)"
+      ],
+      "3 oder weiter": [
+        "3 tai pidemmällä"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkreettinen taso, kukin 0–100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Vakavuus vähintään 85 on jo yksinään kriittinen."
+      ],
+      "Schwere": [
+        "Vakavuus"
+      ],
+      "Wahrscheinlichkeit": [
+        "Todennäköisyys"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Riippuvuus toimittajasta"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Oma syy-yhteysosuus"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Toimittajan sertifioinnit"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (miinus 10 pistettä konkreettisella tasolla)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (miinus 15 pistettä konkreettisella tasolla)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Tallenna tulos rekisteriin"
+      ],
+      "Punktzahl berechnen": [
+        "Laske pistemäärä"
+      ],
+      "Ergebnis": [
+        "Tulos"
+      ],
+      "Noch keine Berechnung.": [
+        "Ei vielä laskentaa."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstrakti taso %1$s (maa %2$s, sektori %3$s, tuote %4$s) · konkreettinen taso %5$s (vakavuus %6$s, todennäköisyys %7$s, riippuvuus %8$s, syy-yhteys %9$s)"
+      ],
+      "Hinweise:": [
+        "Huomiot:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Tallennettu rekisteriin ja arviointihistoriaan."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Tämä lomake on jo tallennettu (sivu ladattiin uudelleen); toista merkintää ei luotu."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Ei tallennettu rekisteriin. Arviointi näytetään, mutta sitä ei ole kirjattu."
+      ],
+      "Einordnung": [
+        "Tulkinta"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "LkSG:n 3 §:n 2 mom. ja 5 §:n 2 mom. nimeävät kriteerit, mutta eivät painokertoimia. Yritys päättää asianmukaisista ehkäisy- ja korjaustoimista, ei tämä luku."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kriittinen: pistemäärä vähintään 75 tai vakavuus vähintään 85. Lisäosa liittää tähän tunnisteen CAPA_REQUIRED. LkSG:n 7 §:n mukaiset korjaustoimet perustuvat havaittuun tai välittömästi uhkaavaan loukkaukseen, eivät pistemäärään."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Korkea: pistemäärä 50 – alle 75. Lisäosa liittää tähän tunnisteen AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Keskitaso: pistemäärä 25 – alle 50. Lisäosa liittää tähän tunnisteen QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Matala: pistemäärä alle 25. Lisäosa liittää tähän tunnisteen NO_ACTION. Matala pistemäärä ei osoita riskittömyyttä; se voi perustua pelkkiin oletusarvoihin."
+      ],
+      "Unbekannte Stufe.": [
+        "Tuntematon taso."
+      ],
+      "Jahresübersicht %d": [
+        "Vuosiyhteenveto %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Laskee rekisterin sisällön kalenterivuodelle %d (UTC). Tämä ei ole LkSG:n 10 §:n 2 mom. mukainen raportti eikä BAFA-lomake. Vuosi asetetaan Asetukset-välilehdellä."
+      ],
+      "JSON öffnen": [
+        "Avaa JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Ei kirjata: sisäinen vastuu (LkSG 4 § 3 mom.), periaatejulkilausuma (6 § 2 mom.), ehkäisytoimet (6 §), korjaustoimet (7 §), valitusmenettely (8 §) eikä toimien vaikuttavuuden arviointi."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Vuosiyhteenvedon vuosi"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalenterivuosi, jonka vuosiyhteenveto, WP-CLI ja reitti /bafa-report ilman vuosiparametria laskevat. Oletuksena edellinen kalenterivuosi."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Poista kaikki lisäosan taulut ja asetukset peruuttamattomasti, kun lisäosa poistetaan"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Oletusarvoisesti toimittajarekisteri, arviointihistoria ja itsearvioinnit säilytetään lisäosaa poistettaessa (LkSG 10 § 1 mom. edellyttää vähintään seitsemän vuoden säilytystä). Ota käyttöön vain, jos kaikki tiedot halutaan poistaa pysyvästi."
+      ],
+      "Speichern": [
+        "Tallenna"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Omaa raja-arvoa ei ole: tasot noudattavat kiinteitä rajoja (kriittinen 75 pisteestä tai vakavuudesta 85, korkea 50:stä, keskitaso 25:stä). Aiempaa raja-arvokenttää ei luettu missään."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Kaksi tasoa, kiinteät painot"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstrakti taso: 0,40 × maa + 0,40 × sektori + 0,20 × tuote. Konkreettinen taso: 0,40 × vakavuus + 0,40 × todennäköisyys + 0,10 × riippuvuus + 0,10 × syy-yhteys, miinus 10 ISO 14001:stä ja 15 SA 8000:sta. Yhteensä: 0,30 × abstrakti + 0,70 × konkreettinen. Maatasot (DE 15 – BD 85) ja toimialaprofiilit ovat WM Suiten heuristiikkoja, eivät korruptioindeksi."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "LkSG 3 § 2 mom."
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Asianmukainen toimintatapa määräytyy liiketoiminnan luonteen ja laajuuden, vaikutusmahdollisuuksien, odotettavissa olevan vakavuuden, palautettavuuden ja todennäköisyyden sekä syy-yhteyden luonteen mukaan. Laskuri kysyy vakavuutta, todennäköisyyttä, riippuvuutta ja syy-yhteyttä; ei liiketoiminnan laajuutta, vaikutusvaltaa tai palautettavuutta."
+      ],
+      "Selbstauskunft": [
+        "Itsearviointi"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Lomake [wm_lksg_supplier_portal] tallentaa yrityksen nimen, maan, toimialan, portaan, valitut sertifioinnit ja vahvistetun tekstin HMAC-allekirjoituksella. Lähettäjää ei tunnisteta. Itsearviointi pysyy tilassa ”arvioimaton”."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Laskee rekisterin merkinnät yhdeltä kalenterivuodelta. Se ei ole LkSG:n 10 §:n 2 mom. mukainen raportti eikä BAFA-lomake."
+      ],
+      "Aufbewahrung": [
+        "Säilytys"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "LkSG 10 § 1 mom.: ”Dokumentaatio on säilytettävä vähintään seitsemän vuoden ajan sen laatimisesta.” Oletusarvoisesti kaikki taulut ja asetukset säilyvät lisäosaa poistettaessa, ellei pysyvää poistoa ole nimenomaisesti otettu käyttöön Asetuksissa."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Liian monta lähetystä tästä osoitteesta. Yritä myöhemmin uudelleen."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Toimittajaa ei voitu tallentaa."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Arviointia ei voitu kirjata lokiin; toimittajaa ei siksi tallennettu."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Yrityksen nimi puuttuu."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Toimiala ei kuulu lomakkeen vaihtoehtoihin."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Vakuutusta ei vahvistettu."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Lähetystä ei voitu tallentaa."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Itsearviointisi on lähetetty ja tallennettu. Riskinarvioinnin tekee tilaaja."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Vahvistan, ettei toimipaikassamme eikä toimitusketjussamme esiinny lapsityövoiman tai pakkotyön kieltojen (LkSG 2 § 2 mom. kohdat 1–3) eikä LkSG 2 § 3 mom. mukaisten ympäristökieltojen rikkomista."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Vuosi on sallitun alueen ulkopuolella."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG-rekisterin tunnusluvut"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG-rekisterin tunnusluku"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Tulostaa lukumäärän LkSG-toimittajarekisteristä."
+      ],
+      "Kennzahl": [
+        "Tunnusluku"
+      ],
+      "Fertigung und Produktion": [
+        "Valmistus ja tuotanto"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektroniikka ja puolijohteet"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstiili- ja vaatetusteollisuus"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Raaka-aineiden tuotanto ja kaivostoiminta"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT- ja pilvipalvelut"
+      ],
+      "Transport und Logistik": [
+        "Kuljetus ja logistiikka"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Toimittajan itsearviointi"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Itsearviointi toimittajille"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Tietosi lähetetään tämän sivuston ylläpitäjälle ja tallennetaan sen toimittajarekisteriin arvioimattomana itsearviointina. Riskinarvioinnin suorittaa tilaaja. Viranomaisilmoitusta ei tehdä."
+      ],
+      "Wird übermittelt …": [
+        "Lähetetään …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Lähetys epäonnistui. Vakuutustasi EI lähetetty."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Yhteys epäonnistui. Vakuutustasi EI lähetetty."
+      ],
+      "Unternehmensname *": [
+        "Yrityksen nimi *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Sijaintimaa (ISO 3166-1 -koodi, esim. DE) *"
+      ],
+      "Branche *": [
+        "Toimiala *"
+      ],
+      "Lieferantenstufe *": [
+        "Toimittajaporras *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Porras 1 (välitön sopimustoimittaja)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Porras 2 (alihankkija)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Porras 3 tai pidemmällä (raaka-aine- tai komponenttilähde)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Voimassa olevat sertifioinnit"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (ympäristöjärjestelmä)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (sosiaalisen vastuun standardi)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (työterveys- ja työturvallisuusjärjestelmä)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Lähetä itsearviointi"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Itsearviointi lähetetty"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Tietosi on tallennettu. Viitenumero:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Riskinarvioinnin tekee tilaaja; tietosi toimivat sen pohjana ja näkyvät siihen asti arvioimattomina toimittajarekisterissä. Ilmoitusta BAFA:lle ei tehdä."
+      ],
+      "Formulareinstellungen": [
+        "Lomakkeen asetukset"
+      ],
+      "Einführungstext anzeigen": [
+        "Näytä johdantoteksti"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Esivalittu toimittajaporras"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG-toimittajan itsearviointi"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Julkinen toimittajien itsearviointilomake pakollisella vahvistuksella ja HMAC-allekirjoituksella."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "toimittajat"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "itsearviointi"
+      ],
+      "block keyword\u0004register": [
+        "rekisteri"
+      ]
+    }
+  }
+}

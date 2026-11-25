@@ -1,0 +1,564 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "lt_LT",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Tiekėjų registras pagal Vokietijos tiekimo grandinės deramo patikrinimo įstatymą (LkSG): dviejų lygių euristinis rizikos balas, vieša savideklaracijos forma ir metinė registro suvestinė. Nerengia BAFA ataskaitos."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Vokietija"
+      ],
+      "Taiwan": [
+        "Taivanas"
+      ],
+      "China": [
+        "Kinija"
+      ],
+      "Vietnam": [
+        "Vietnamas"
+      ],
+      "Indien": [
+        "Indija"
+      ],
+      "Bangladesch": [
+        "Bangladešas"
+      ],
+      "IT, Software und Hosting": [
+        "IT, programinė įranga ir priegloba"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronika ir komponentai"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstilė ir apranga"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Kasyba ir žaliavos"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Žemės ūkis ir maisto produktai"
+      ],
+      "Kritisch": [
+        "Kritinis"
+      ],
+      "Hoch": [
+        "Aukštas"
+      ],
+      "Mittel": [
+        "Vidutinis"
+      ],
+      "Niedrig": [
+        "Žemas"
+      ],
+      "Nicht bewertet": [
+        "Neįvertinta"
+      ],
+      "Unbekannt": [
+        "Nežinoma"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Trūksta tiekėjų lentelės"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Vieną kartą išjunkite ir vėl įjunkite įskiepį."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Registre dar nėra tiekėjų"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Registruokite tiekėjus naudodami skaičiuoklę, POST /suppliers arba savideklaracijos formą."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d savideklaracija neįvertinta",
+        "%d savideklaracijos neįvertintos",
+        "%d savideklaracijų neįvertinta"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Balas yra euristika; registras nepakeičia rizikos analizės."
+      ],
+      "%d Lieferant im Register": [
+        "%d tiekėjas registre",
+        "%d tiekėjai registre",
+        "%d tiekėjų registre"
+      ],
+      "Lieferanten": [
+        "Tiekėjai"
+      ],
+      "Hoch oder kritisch": [
+        "Aukštas arba kritinis"
+      ],
+      "Register öffnen": [
+        "Atidaryti registrą"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG tiekėjai"
+      ],
+      "Keine Berechtigung.": [
+        "Nepakanka teisių."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Saugumo patikra nepavyko. Perkraukite puslapį."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Trūksta tiekėjo pavadinimo."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Trūksta šalies arba tai nėra ISO 3166-1 alpha-2 kodas (pavyzdžiui, DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Tiekėjo pakopa turi būti 1, 2 arba 3."
+      ],
+      "Register": [
+        "Registras"
+      ],
+      "Rechner": [
+        "Skaičiuoklė"
+      ],
+      "Jahresübersicht": [
+        "Metinė suvestinė"
+      ],
+      "Einstellungen": [
+        "Nustatymai"
+      ],
+      "Begriffe": [
+        "Sąvokos"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Tiekėjų registras su euristiniu rizikos balu, savideklaracijos forma ir metine registro skaičių suvestine."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "„WM Suite“ įskiepių šeimos dalis"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Savarankiškas"
+      ],
+      "Keine externen Anfragen": [
+        "Jokių išorinių užklausų"
+      ],
+      "Bereiche": [
+        "Sritys"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Pavyzdiniai tiekėjai nepridėti: jie jau yra registre."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Pridėtas %d pavyzdinis tiekėjas.",
+        "Pridėti %d pavyzdiniai tiekėjai.",
+        "Pridėta %d pavyzdinių tiekėjų."
+      ],
+      "Einstellungen gespeichert.": [
+        "Nustatymai išsaugoti."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Metai neišsaugoti: įveskite metus nuo %1$d iki %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Trūksta tiekėjų lentelės. Vieną kartą išjunkite ir vėl įjunkite įskiepį."
+      ],
+      "Im Register": [
+        "Registre"
+      ],
+      "alle Einträge": [
+        "visi įrašai"
+      ],
+      "Bewertet": [
+        "Įvertinta"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "per skaičiuoklę arba POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Savideklaracijos"
+      ],
+      "aktuelle Stufe": [
+        "dabartinis lygis"
+      ],
+      "Lieferantenregister": [
+        "Tiekėjų registras"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Neįvertintos savideklaracijos rodomos viršuje. Esamos savideklaracijos čia tiesiogiai įvertinti negalima: vertinimas skaičiuokle arba POST /suppliers sukuria naują įrašą."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Registre dar nėra tiekėjų."
+      ],
+      "Lieferant": [
+        "Tiekėjas"
+      ],
+      "Land": [
+        "Šalis"
+      ],
+      "Branche": [
+        "Sektorius"
+      ],
+      "Stufe": [
+        "Pakopa"
+      ],
+      "Punktzahl": [
+        "Balas"
+      ],
+      "Einstufung": [
+        "Klasifikacija"
+      ],
+      "Status": [
+        "Būsena"
+      ],
+      "Seiten des Registers": [
+        "Registro puslapiai"
+      ],
+      "Seite %1$d von %2$d": [
+        "Puslapis %1$d iš %2$d"
+      ],
+      "Vorherige Seite": [
+        "Ankstesnis puslapis"
+      ],
+      "Nächste Seite": [
+        "Kitas puslapis"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Pridėti pavyzdinius tiekėjus (išgalvoti pavadinimai, apskaičiuoti balai)"
+      ],
+      "Lieferanten bewerten": [
+        "Įvertinti tiekėją"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstraktus lygis pagal šalį ir sektorių, konkretus lygis pagal sunkumą, tikimybę, priklausomybę nuo tiekėjo ir nuosavą priežastinį indėlį, atėmus sertifikatus. Svoriai ir ribos yra „WM Suite“ euristika."
+      ],
+      "Name des Lieferanten": [
+        "Tiekėjo pavadinimas"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), šalies lygis %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektorius %2$s, produktas %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Tiekėjo pakopa"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (tiesioginis tiekėjas)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (netiesioginis tiekėjas)"
+      ],
+      "3 oder weiter": [
+        "3 ar tolimesnė"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkretus lygis, kiekvienas nuo 0 iki 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "85 ar didesnis sunkumas pats savaime yra kritinis."
+      ],
+      "Schwere": [
+        "Sunkumas"
+      ],
+      "Wahrscheinlichkeit": [
+        "Tikimybė"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Priklausomybė nuo tiekėjo"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Nuosavas priežastinis indėlis"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Tiekėjo sertifikatai"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 balų konkrečiame lygyje)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 balų konkrečiame lygyje)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Išsaugoti rezultatą registre"
+      ],
+      "Punktzahl berechnen": [
+        "Apskaičiuoti balą"
+      ],
+      "Ergebnis": [
+        "Rezultatas"
+      ],
+      "Noch keine Berechnung.": [
+        "Skaičiavimo dar nėra."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstraktus lygis %1$s (šalis %2$s, sektorius %3$s, produktas %4$s) · konkretus lygis %5$s (sunkumas %6$s, tikimybė %7$s, priklausomybė %8$s, priežastinis indėlis %9$s)"
+      ],
+      "Hinweise:": [
+        "Žymos:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Išsaugota registre kartu su vertinimu istorijoje."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Ši forma jau išsaugota (puslapis buvo įkeltas iš naujo); antras įrašas nesukurtas."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Neišsaugota registre. Vertinimas rodomas, bet neįrašytas."
+      ],
+      "Einordnung": [
+        "Paaiškinimas"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "LkSG 3 str. 2 d. ir 5 str. 2 d. nurodo kriterijus, bet ne svorius. Kokios prevencinės ar taisomosios priemonės yra tinkamos, sprendžia įmonė, o ne šis skaičius."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritinis: balas nuo 75 arba sunkumas nuo 85. Įskiepis priskiria CAPA_REQUIRED. Taisomosios priemonės pagal LkSG 7 str. siejamos su nustatytu ar gresiančiu pažeidimu, o ne su balu."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Aukštas: balas nuo 50 iki mažiau nei 75. Įskiepis priskiria AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Vidutinis: balas nuo 25 iki mažiau nei 50. Įskiepis priskiria QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Žemas: balas mažesnis nei 25. Įskiepis priskiria NO_ACTION. Žemas balas neįrodo rizikų nebuvimo; jis gali remtis vien numatytosiomis reikšmėmis."
+      ],
+      "Unbekannte Stufe.": [
+        "Nežinomas lygis."
+      ],
+      "Jahresübersicht %d": [
+        "Metinė suvestinė %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Suskaičiuoja registro turinį kalendoriniais %d metais (UTC). Tai nėra LkSG 10 str. 2 d. ataskaita ir nėra BAFA forma. Metus nustatykite skiltyje Nustatymai."
+      ],
+      "JSON öffnen": [
+        "Atidaryti JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Neregistruojama: vidinė atsakomybė (LkSG 4 str. 3 d.), politikos pareiškimas (6 str. 2 d.), prevencinės priemonės (6 str.), taisomosios priemonės (7 str.), skundų procedūra (8 str.) ir priemonių veiksmingumo vertinimas."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Metinės suvestinės metai"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalendoriniai metai, kuriuos skaičiuoja metinė suvestinė, WP-CLI ir maršrutas /bafa-report nenurodžius metų. Pagal nutylėjimą – praėję kalendoriniai metai."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Negrįžtamai pašalinti visas įskiepio lenteles ir nustatymus ištrinant įskiepį"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Pagal nutylėjimą ištrinant įskiepį tiekėjų registras, vertinimų istorija ir savideklaracijos išsaugomi (LkSG 10 str. 1 d. numato ne trumpesnį kaip septynerių metų saugojimą). Įjunkite tik jei norite galutinai ištrinti visus duomenis."
+      ],
+      "Speichern": [
+        "Išsaugoti"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Pasirinktinio slenksčio nėra: lygiai remiasi fiksuotomis ribomis (kritinis nuo 75 balų arba sunkumo 85, aukštas nuo 50, vidutinis nuo 25). Ankstesnis slenksčio laukas niekur nebuvo skaitomas."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Du lygiai, fiksuoti svoriai"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstraktus lygis: 0,40 × šalis + 0,40 × sektorius + 0,20 × produktas. Konkretus lygis: 0,40 × sunkumas + 0,40 × tikimybė + 0,10 × priklausomybė + 0,10 × priežastinis indėlis, atėmus 10 už ISO 14001 ir 15 už SA 8000. Iš viso: 0,30 × abstraktus + 0,70 × konkretus. Šalių lygiai (DE 15 iki BD 85) ir sektorių profiliai yra „WM Suite“ euristika, ne korupcijos indeksas."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "LkSG 3 str. 2 d."
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Tinkamas veikimas nustatomas pagal veiklos pobūdį ir mastą, galimybę daryti įtaką tiesioginiam pažeidėjui, tikėtiną sunkumą, grįžtamumą ir tikimybę bei priežastinio indėlio pobūdį. Skaičiuoklė klausia sunkumo, tikimybės, priklausomybės ir priežastinio indėlio; neklausia veiklos masto, įtakos ar grįžtamumo."
+      ],
+      "Selbstauskunft": [
+        "Savideklaracija"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Forma [wm_lksg_supplier_portal] išsaugo įmonės pavadinimą, šalį, sektorių, pakopą, pažymėtus sertifikatus ir patvirtintą tekstą su HMAC parašu. Siuntėjas neidentifikuojamas. Savideklaracija lieka „neįvertinta“."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Suskaičiuoja registro įrašus vieniems kalendoriniams metams. Tai nėra LkSG 10 str. 2 d. ataskaita ir nėra BAFA forma."
+      ],
+      "Aufbewahrung": [
+        "Saugojimas"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "LkSG 10 str. 1 d.: „Dokumentacija turi būti saugoma mažiausiai septynerius metus nuo jos sudarymo.“ Pagal nutylėjimą ištrinant įskiepį visos lentelės ir nustatymai išlieka, nebent Nustatymuose aiškiai įjungtas galutinis ištrynimas."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Per daug pateikimų iš šio adreso. Bandykite vėl vėliau."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Nepavyko išsaugoti tiekėjo."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Nepavyko užregistruoti vertinimo; todėl tiekėjas neišsaugotas."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Trūksta įmonės pavadinimo."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Sektorius nėra tarp formos pasirinkimų."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Deklaracija nepatvirtinta."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Nepavyko išsaugoti pateikimo."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Jūsų savideklaracija pateikta ir išsaugota. Rizikos vertinimą atlieka užsakovas."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Patvirtinu, kad mūsų veiklos vietoje ir tiekimo grandinėje nėra vaikų darbo ir priverstinio darbo draudimų (LkSG 2 str. 2 d. 1–3 p.) bei su aplinka susijusių LkSG 2 str. 3 d. draudimų pažeidimų."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Metai nepatenka į leistiną intervalą."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG registro rodikliai"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG registro rodiklis"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Išveda skaičių iš LkSG tiekėjų registro."
+      ],
+      "Kennzahl": [
+        "Rodiklis"
+      ],
+      "Fertigung und Produktion": [
+        "Gamyba ir pramonė"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronika ir puslaidininkiai"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstilės ir drabužių pramonė"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Žaliavų gavyba ir kasyba"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT ir debesijos paslaugos"
+      ],
+      "Transport und Logistik": [
+        "Transportas ir logistika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Tiekėjo savideklaracija"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Savideklaracija tiekėjams"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Jūsų duomenys siunčiami šios svetainės operatoriui ir saugomi jo tiekėjų registre kaip neįvertinta savideklaracija. Rizikos vertinimą atlieka užsakovas. Joks pranešimas institucijoms nesiunčiamas."
+      ],
+      "Wird übermittelt …": [
+        "Siunčiama …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Pateikti nepavyko. Jūsų deklaracija NEBUVO pateikta."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Ryšio klaida. Jūsų deklaracija NEBUVO pateikta."
+      ],
+      "Unternehmensname *": [
+        "Įmonės pavadinimas *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Šalis (ISO 3166-1 kodas, pvz., DE) *"
+      ],
+      "Branche *": [
+        "Sektorius *"
+      ],
+      "Lieferantenstufe *": [
+        "Tiekėjo pakopa *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "1 pakopa (tiesioginis sutartinis tiekėjas)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "2 pakopa (subtiekėjas)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "3 ar tolimesnė pakopa (žaliavų ar komponentų šaltinis)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Turimi sertifikatai"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (aplinkosaugos vadyba)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (socialinis standartas)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (darbuotojų sauga ir sveikata)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Pateikti savideklaraciją"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Savideklaracija pateikta"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Jūsų duomenys išsaugoti. Nuorodos numeris:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Rizikos vertinimą atlieka užsakovas; jūsų duomenys yra jo pagrindas ir iki tol tiekėjų registre lieka neįvertinti. BAFA apie tai nepranešama."
+      ],
+      "Formulareinstellungen": [
+        "Formos nustatymai"
+      ],
+      "Einführungstext anzeigen": [
+        "Rodyti įvadinį tekstą"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Iš anksto parinkta tiekėjo pakopa"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG tiekėjo savideklaracija"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Vieša tiekėjų savideklaracijos forma su privalomu patvirtinimu ir HMAC parašu."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "tiekėjai"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "savideklaracija"
+      ],
+      "block keyword\u0004register": [
+        "registras"
+      ]
+    }
+  }
+}

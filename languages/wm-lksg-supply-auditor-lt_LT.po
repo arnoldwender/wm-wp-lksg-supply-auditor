@@ -1,0 +1,981 @@
+# Translation of wm-lksg-supply-auditor in lt_LT
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-lksg-supply-auditor 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-lksg-supply-"
+"auditor\n"
+"POT-Creation-Date: 2026-11-21T13:56:28+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:58+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-lksg-supply-"
+"auditor/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-lksg-supply-"
+"auditor/issues>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : "
+"n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-lksg-supply-auditor\n"
+
+#. Plugin Name of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "WM LkSG Supply Chain Auditor"
+msgstr "WM LkSG Supply Chain Auditor"
+
+#. Plugin URI of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+
+#. Description of the plugin
+#: wm-lksg-supply-auditor.php
+msgid ""
+"Supplier register for the German supply-chain due-diligence act (LkSG): a "
+"two-level heuristic risk score, a public self-disclosure form and a yearly "
+"summary of the register counts. It does not produce a BAFA report."
+msgstr ""
+"Tiekėjų registras pagal Vokietijos tiekimo grandinės deramo patikrinimo "
+"įstatymą (LkSG): dviejų lygių euristinis rizikos balas, vieša "
+"savideklaracijos forma ir metinė registro suvestinė. Nerengia BAFA "
+"ataskaitos."
+
+#. Author of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:87
+msgid "Deutschland"
+msgstr "Vokietija"
+
+#: includes/Admin/AdminDashboard.php:88
+msgid "Taiwan"
+msgstr "Taivanas"
+
+#: includes/Admin/AdminDashboard.php:89
+msgid "China"
+msgstr "Kinija"
+
+#: includes/Admin/AdminDashboard.php:90
+msgid "Vietnam"
+msgstr "Vietnamas"
+
+#: includes/Admin/AdminDashboard.php:91
+msgid "Indien"
+msgstr "Indija"
+
+#: includes/Admin/AdminDashboard.php:92
+msgid "Bangladesch"
+msgstr "Bangladešas"
+
+#: includes/Admin/AdminDashboard.php:99
+msgid "IT, Software und Hosting"
+msgstr "IT, programinė įranga ir priegloba"
+
+#: includes/Admin/AdminDashboard.php:100
+msgid "Elektronik und Bauteile"
+msgstr "Elektronika ir komponentai"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Textil und Bekleidung"
+msgstr "Tekstilė ir apranga"
+
+#: includes/Admin/AdminDashboard.php:102
+msgid "Bergbau und Rohstoffe"
+msgstr "Kasyba ir žaliavos"
+
+#: includes/Admin/AdminDashboard.php:103
+msgid "Landwirtschaft und Lebensmittel"
+msgstr "Žemės ūkis ir maisto produktai"
+
+#: includes/Admin/AdminDashboard.php:115
+msgid "Kritisch"
+msgstr "Kritinis"
+
+#: includes/Admin/AdminDashboard.php:116
+msgid "Hoch"
+msgstr "Aukštas"
+
+#: includes/Admin/AdminDashboard.php:117
+msgid "Mittel"
+msgstr "Vidutinis"
+
+#: includes/Admin/AdminDashboard.php:118
+msgid "Niedrig"
+msgstr "Žemas"
+
+#: includes/Admin/AdminDashboard.php:119 includes/Admin/AdminDashboard.php:180
+#: includes/Admin/AdminDashboard.php:532
+#: includes/Frontend/EcosystemIntegration.php:83
+msgid "Nicht bewertet"
+msgstr "Neįvertinta"
+
+#: includes/Admin/AdminDashboard.php:120
+msgid "Unbekannt"
+msgstr "Nežinoma"
+
+#: includes/Admin/AdminDashboard.php:131
+msgid "WM LkSG Supply Auditor"
+msgstr "WM LkSG Supply Auditor"
+
+#: includes/Admin/AdminDashboard.php:146
+msgid "Die Lieferantentabelle fehlt"
+msgstr "Trūksta tiekėjų lentelės"
+
+#: includes/Admin/AdminDashboard.php:147
+msgid "Das Plugin einmal deaktivieren und wieder aktivieren."
+msgstr "Vieną kartą išjunkite ir vėl įjunkite įskiepį."
+
+#: includes/Admin/AdminDashboard.php:150
+msgid "Noch keine Lieferanten im Register"
+msgstr "Registre dar nėra tiekėjų"
+
+#: includes/Admin/AdminDashboard.php:151
+msgid ""
+"Lieferanten über den Rechner, POST /suppliers oder das "
+"Selbstauskunftsformular erfassen."
+msgstr ""
+"Registruokite tiekėjus naudodami skaičiuoklę, POST /suppliers arba "
+"savideklaracijos formą."
+
+#. translators: %d: number of self-disclosures nobody has assessed
+#: includes/Admin/AdminDashboard.php:155
+#, php-format
+msgid "%d Selbstauskunft nicht bewertet"
+msgid_plural "%d Selbstauskünfte nicht bewertet"
+msgstr[0] "%d savideklaracija neįvertinta"
+msgstr[1] "%d savideklaracijos neįvertintos"
+msgstr[2] "%d savideklaracijų neįvertinta"
+
+#: includes/Admin/AdminDashboard.php:156 includes/Admin/AdminDashboard.php:161
+msgid ""
+"Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse."
+msgstr "Balas yra euristika; registras nepakeičia rizikos analizės."
+
+#. translators: %d: number of suppliers in the register
+#: includes/Admin/AdminDashboard.php:160
+#, php-format
+msgid "%d Lieferant im Register"
+msgid_plural "%d Lieferanten im Register"
+msgstr[0] "%d tiekėjas registre"
+msgstr[1] "%d tiekėjai registre"
+msgstr[2] "%d tiekėjų registre"
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lieferanten"
+msgstr "Tiekėjai"
+
+#: includes/Admin/AdminDashboard.php:184 includes/Admin/AdminDashboard.php:537
+#: includes/Frontend/EcosystemIntegration.php:87
+msgid "Hoch oder kritisch"
+msgstr "Aukštas arba kritinis"
+
+#: includes/Admin/AdminDashboard.php:190
+msgid "Register öffnen"
+msgstr "Atidaryti registrą"
+
+#: includes/Admin/AdminDashboard.php:209 includes/Admin/AdminDashboard.php:442
+msgid "LkSG Supply Chain Auditor"
+msgstr "LkSG Supply Chain Auditor"
+
+#: includes/Admin/AdminDashboard.php:210
+msgid "LkSG-Lieferanten"
+msgstr "LkSG tiekėjai"
+
+#: includes/Admin/AdminDashboard.php:244
+msgid "Keine Berechtigung."
+msgstr "Nepakanka teisių."
+
+#: includes/Admin/AdminDashboard.php:361
+msgid "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden."
+msgstr "Saugumo patikra nepavyko. Perkraukite puslapį."
+
+#: includes/Admin/AdminDashboard.php:378 includes/API/RestController.php:225
+msgid "Der Lieferantenname fehlt."
+msgstr "Trūksta tiekėjo pavadinimo."
+
+#: includes/Admin/AdminDashboard.php:380 includes/API/RestController.php:122
+msgid ""
+"Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, "
+"BD)."
+msgstr ""
+"Trūksta šalies arba tai nėra ISO 3166-1 alpha-2 kodas (pavyzdžiui, DE, CN, "
+"BD)."
+
+#: includes/Admin/AdminDashboard.php:382 includes/API/RestController.php:231
+#: includes/API/RestController.php:339
+msgid "Die Lieferantenstufe muss 1, 2 oder 3 sein."
+msgstr "Tiekėjo pakopa turi būti 1, 2 arba 3."
+
+#: includes/Admin/AdminDashboard.php:419
+msgid "Register"
+msgstr "Registras"
+
+#: includes/Admin/AdminDashboard.php:420
+msgid "Rechner"
+msgstr "Skaičiuoklė"
+
+#: includes/Admin/AdminDashboard.php:421 includes/Admin/AdminDashboard.php:851
+msgid "Jahresübersicht"
+msgstr "Metinė suvestinė"
+
+#: includes/Admin/AdminDashboard.php:422 includes/Admin/AdminDashboard.php:810
+msgid "Einstellungen"
+msgstr "Nustatymai"
+
+#: includes/Admin/AdminDashboard.php:423
+msgid "Begriffe"
+msgstr "Sąvokos"
+
+#: includes/Admin/AdminDashboard.php:443
+msgid ""
+"Lieferantenregister mit heuristischer Risikopunktzahl, "
+"Selbstauskunftsformular und Jahresübersicht der Registerzahlen."
+msgstr ""
+"Tiekėjų registras su euristiniu rizikos balu, savideklaracijos forma ir "
+"metine registro skaičių suvestine."
+
+#: includes/Admin/AdminDashboard.php:447
+msgid "Teil der WM-Suite-Pluginfamilie"
+msgstr "„WM Suite“ įskiepių šeimos dalis"
+
+#: includes/Admin/AdminDashboard.php:449
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:450
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:450
+msgid "Standalone"
+msgstr "Savarankiškas"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Keine externen Anfragen"
+msgstr "Jokių išorinių užklausų"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche"
+msgstr "Sritys"
+
+#: includes/Admin/AdminDashboard.php:493
+msgid "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register."
+msgstr "Pavyzdiniai tiekėjai nepridėti: jie jau yra registre."
+
+#. translators: %d: number of demo suppliers added
+#: includes/Admin/AdminDashboard.php:495
+#, php-format
+msgid "%d Beispiel-Lieferant angelegt."
+msgid_plural "%d Beispiel-Lieferanten angelegt."
+msgstr[0] "Pridėtas %d pavyzdinis tiekėjas."
+msgstr[1] "Pridėti %d pavyzdiniai tiekėjai."
+msgstr[2] "Pridėta %d pavyzdinių tiekėjų."
+
+#: includes/Admin/AdminDashboard.php:499
+msgid "Einstellungen gespeichert."
+msgstr "Nustatymai išsaugoti."
+
+#. translators: 1: lowest year, 2: highest year
+#: includes/Admin/AdminDashboard.php:503
+#, php-format
+msgid ""
+"Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und "
+"%2$d eingeben."
+msgstr "Metai neišsaugoti: įveskite metus nuo %1$d iki %2$d."
+
+#: includes/Admin/AdminDashboard.php:511 includes/API/RestController.php:181
+msgid ""
+"Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder "
+"aktivieren."
+msgstr ""
+"Trūksta tiekėjų lentelės. Vieną kartą išjunkite ir vėl įjunkite įskiepį."
+
+#: includes/Admin/AdminDashboard.php:522
+#: includes/Frontend/EcosystemIntegration.php:75
+msgid "Im Register"
+msgstr "Registre"
+
+#: includes/Admin/AdminDashboard.php:524
+msgid "alle Einträge"
+msgstr "visi įrašai"
+
+#: includes/Admin/AdminDashboard.php:527
+#: includes/Frontend/EcosystemIntegration.php:79
+msgid "Bewertet"
+msgstr "Įvertinta"
+
+#: includes/Admin/AdminDashboard.php:529
+msgid "über den Rechner oder POST /suppliers"
+msgstr "per skaičiuoklę arba POST /suppliers"
+
+#: includes/Admin/AdminDashboard.php:534
+msgid "Selbstauskünfte"
+msgstr "Savideklaracijos"
+
+#: includes/Admin/AdminDashboard.php:539
+msgid "aktuelle Stufe"
+msgstr "dabartinis lygis"
+
+#: includes/Admin/AdminDashboard.php:544
+msgid "Lieferantenregister"
+msgstr "Tiekėjų registras"
+
+#: includes/Admin/AdminDashboard.php:545
+msgid ""
+"Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich "
+"hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers "
+"legt einen neuen Eintrag an."
+msgstr ""
+"Neįvertintos savideklaracijos rodomos viršuje. Esamos savideklaracijos čia "
+"tiesiogiai įvertinti negalima: vertinimas skaičiuokle arba POST /suppliers "
+"sukuria naują įrašą."
+
+#: includes/Admin/AdminDashboard.php:548
+msgid "Noch keine Lieferanten im Register."
+msgstr "Registre dar nėra tiekėjų."
+
+#: includes/Admin/AdminDashboard.php:554
+msgid "Lieferant"
+msgstr "Tiekėjas"
+
+#: includes/Admin/AdminDashboard.php:555 includes/Admin/AdminDashboard.php:633
+msgid "Land"
+msgstr "Šalis"
+
+#: includes/Admin/AdminDashboard.php:556 includes/Admin/AdminDashboard.php:647
+msgid "Branche"
+msgstr "Sektorius"
+
+#: includes/Admin/AdminDashboard.php:557
+msgid "Stufe"
+msgstr "Pakopa"
+
+#: includes/Admin/AdminDashboard.php:558
+msgid "Punktzahl"
+msgstr "Balas"
+
+#: includes/Admin/AdminDashboard.php:559
+msgid "Einstufung"
+msgstr "Klasifikacija"
+
+#: includes/Admin/AdminDashboard.php:560
+msgid "Status"
+msgstr "Būsena"
+
+#: includes/Admin/AdminDashboard.php:581
+msgid "Seiten des Registers"
+msgstr "Registro puslapiai"
+
+#. translators: 1: current page, 2: number of pages
+#: includes/Admin/AdminDashboard.php:586
+#, php-format
+msgid "Seite %1$d von %2$d"
+msgstr "Puslapis %1$d iš %2$d"
+
+#: includes/Admin/AdminDashboard.php:590
+msgid "Vorherige Seite"
+msgstr "Ankstesnis puslapis"
+
+#: includes/Admin/AdminDashboard.php:593
+msgid "Nächste Seite"
+msgstr "Kitas puslapis"
+
+#: includes/Admin/AdminDashboard.php:603
+msgid "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)"
+msgstr ""
+"Pridėti pavyzdinius tiekėjus (išgalvoti pavadinimai, apskaičiuoti balai)"
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Lieferanten bewerten"
+msgstr "Įvertinti tiekėją"
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, "
+"Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem "
+"Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind "
+"Heuristiken von WM Suite."
+msgstr ""
+"Abstraktus lygis pagal šalį ir sektorių, konkretus lygis pagal sunkumą, "
+"tikimybę, priklausomybę nuo tiekėjo ir nuosavą priežastinį indėlį, atėmus "
+"sertifikatus. Svoriai ir ribos yra „WM Suite“ euristika."
+
+#: includes/Admin/AdminDashboard.php:628
+msgid "Name des Lieferanten"
+msgstr "Tiekėjo pavadinimas"
+
+#. translators: 1: country name, 2: ISO code, 3: country tier 0-100
+#: includes/Admin/AdminDashboard.php:639
+#, php-format
+msgid "%1$s (%2$s), Länderstufe %3$s"
+msgstr "%1$s (%2$s), šalies lygis %3$s"
+
+#. translators: 1: sector name, 2: sector risk 0-100, 3: product risk 0-100
+#: includes/Admin/AdminDashboard.php:654
+#, php-format
+msgid "%1$s (Sektor %2$s, Produkt %3$s)"
+msgstr "%1$s (sektorius %2$s, produktas %3$s)"
+
+#: includes/Admin/AdminDashboard.php:662
+msgid "Lieferantenstufe"
+msgstr "Tiekėjo pakopa"
+
+#: includes/Admin/AdminDashboard.php:664
+msgid "1 (unmittelbarer Zulieferer)"
+msgstr "1 (tiesioginis tiekėjas)"
+
+#: includes/Admin/AdminDashboard.php:665
+msgid "2 (mittelbarer Zulieferer)"
+msgstr "2 (netiesioginis tiekėjas)"
+
+#: includes/Admin/AdminDashboard.php:666
+msgid "3 oder weiter"
+msgstr "3 ar tolimesnė"
+
+#: includes/Admin/AdminDashboard.php:671
+msgid "Konkrete Stufe, jeweils 0 bis 100"
+msgstr "Konkretus lygis, kiekvienas nuo 0 iki 100"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eine Schwere ab 85 ist für sich allein kritisch."
+msgstr "85 ar didesnis sunkumas pats savaime yra kritinis."
+
+#: includes/Admin/AdminDashboard.php:675
+msgid "Schwere"
+msgstr "Sunkumas"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "Wahrscheinlichkeit"
+msgstr "Tikimybė"
+
+#: includes/Admin/AdminDashboard.php:683
+msgid "Abhängigkeit vom Lieferanten"
+msgstr "Priklausomybė nuo tiekėjo"
+
+#: includes/Admin/AdminDashboard.php:687
+msgid "Eigener Verursachungsbeitrag"
+msgstr "Nuosavas priežastinis indėlis"
+
+#: includes/Admin/AdminDashboard.php:694
+msgid "Zertifizierungen des Lieferanten"
+msgstr "Tiekėjo sertifikatai"
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)"
+msgstr "ISO 14001 (minus 10 balų konkrečiame lygyje)"
+
+#: includes/Admin/AdminDashboard.php:696
+msgid "SA 8000 (minus 15 Punkte auf der konkreten Stufe)"
+msgstr "SA 8000 (minus 15 balų konkrečiame lygyje)"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Ergebnis im Register speichern"
+msgstr "Išsaugoti rezultatą registre"
+
+#: includes/Admin/AdminDashboard.php:703
+msgid "Punktzahl berechnen"
+msgstr "Apskaičiuoti balą"
+
+#: includes/Admin/AdminDashboard.php:708
+msgid "Ergebnis"
+msgstr "Rezultatas"
+
+#: includes/Admin/AdminDashboard.php:710
+msgid "Noch keine Berechnung."
+msgstr "Skaičiavimo dar nėra."
+
+#. translators: 1: abstract score, 2: country risk, 3: sector risk, 4: product risk, 5: concrete score, 6: severity, 7: probability, 8: dependency, 9: causality
+#: includes/Admin/AdminDashboard.php:725
+#, php-format
+msgid ""
+"Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe "
+"%5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, "
+"Verursachungsbeitrag %9$s)"
+msgstr ""
+"Abstraktus lygis %1$s (šalis %2$s, sektorius %3$s, produktas %4$s) · "
+"konkretus lygis %5$s (sunkumas %6$s, tikimybė %7$s, priklausomybė %8$s, "
+"priežastinis indėlis %9$s)"
+
+#: includes/Admin/AdminDashboard.php:739
+msgid "Hinweise:"
+msgstr "Žymos:"
+
+#: includes/Admin/AdminDashboard.php:743
+msgid "Im Register gespeichert, mit der Bewertung im Verlauf."
+msgstr "Išsaugota registre kartu su vertinimu istorijoje."
+
+#: includes/Admin/AdminDashboard.php:745
+msgid ""
+"Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es "
+"wurde kein zweiter Eintrag angelegt."
+msgstr ""
+"Ši forma jau išsaugota (puslapis buvo įkeltas iš naujo); antras įrašas "
+"nesukurtas."
+
+#: includes/Admin/AdminDashboard.php:747
+msgid ""
+"Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht "
+"festgehalten."
+msgstr "Neišsaugota registre. Vertinimas rodomas, bet neįrašytas."
+
+#: includes/Admin/AdminDashboard.php:750
+msgid "Einordnung"
+msgstr "Paaiškinimas"
+
+#: includes/Admin/AdminDashboard.php:752
+msgid ""
+"§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche "
+"Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das "
+"Unternehmen, nicht diese Zahl."
+msgstr ""
+"LkSG 3 str. 2 d. ir 5 str. 2 d. nurodo kriterijus, bet ne svorius. Kokios "
+"prevencinės ar taisomosios priemonės yra tinkamos, sprendžia įmonė, o ne šis "
+"skaičius."
+
+#: includes/Admin/AdminDashboard.php:766
+msgid ""
+"Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den "
+"Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine "
+"festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine "
+"Punktzahl."
+msgstr ""
+"Kritinis: balas nuo 75 arba sunkumas nuo 85. Įskiepis priskiria "
+"CAPA_REQUIRED. Taisomosios priemonės pagal LkSG 7 str. siejamos su nustatytu "
+"ar gresiančiu pažeidimu, o ne su balu."
+
+#: includes/Admin/AdminDashboard.php:767
+msgid ""
+"Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser "
+"AUDIT_REQUIRED zu."
+msgstr ""
+"Aukštas: balas nuo 50 iki mažiau nei 75. Įskiepis priskiria AUDIT_REQUIRED."
+
+#: includes/Admin/AdminDashboard.php:768
+msgid ""
+"Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser "
+"QUESTIONNAIRE_REQUIRED zu."
+msgstr ""
+"Vidutinis: balas nuo 25 iki mažiau nei 50. Įskiepis priskiria "
+"QUESTIONNAIRE_REQUIRED."
+
+#: includes/Admin/AdminDashboard.php:769
+msgid ""
+"Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION "
+"zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie "
+"kann ganz auf Standardwerten beruhen."
+msgstr ""
+"Žemas: balas mažesnis nei 25. Įskiepis priskiria NO_ACTION. Žemas balas "
+"neįrodo rizikų nebuvimo; jis gali remtis vien numatytosiomis reikšmėmis."
+
+#: includes/Admin/AdminDashboard.php:770
+msgid "Unbekannte Stufe."
+msgstr "Nežinomas lygis."
+
+#. translators: %d: calendar year
+#: includes/Admin/AdminDashboard.php:788
+#, php-format
+msgid "Jahresübersicht %d"
+msgstr "Metinė suvestinė %d"
+
+#. translators: %d: calendar year
+#: includes/Admin/AdminDashboard.php:794
+#, php-format
+msgid ""
+"Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein "
+"Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie "
+"unter Einstellungen ein."
+msgstr ""
+"Suskaičiuoja registro turinį kalendoriniais %d metais (UTC). Tai nėra LkSG "
+"10 str. 2 d. ataskaita ir nėra BAFA forma. Metus nustatykite skiltyje "
+"Nustatymai."
+
+#: includes/Admin/AdminDashboard.php:798
+msgid "JSON öffnen"
+msgstr "Atidaryti JSON"
+
+#: includes/Admin/AdminDashboard.php:799
+msgid ""
+"Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die "
+"Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), "
+"Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der "
+"Wirksamkeit der Maßnahmen."
+msgstr ""
+"Neregistruojama: vidinė atsakomybė (LkSG 4 str. 3 d.), politikos pareiškimas "
+"(6 str. 2 d.), prevencinės priemonės (6 str.), taisomosios priemonės (7 "
+"str.), skundų procedūra (8 str.) ir priemonių veiksmingumo vertinimas."
+
+#: includes/Admin/AdminDashboard.php:815
+#: includes/Frontend/EcosystemIntegration.php:91
+msgid "Jahr der Jahresübersicht"
+msgstr "Metinės suvestinės metai"
+
+#: includes/Admin/AdminDashboard.php:816
+msgid ""
+"Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report "
+"ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr."
+msgstr ""
+"Kalendoriniai metai, kuriuos skaičiuoja metinė suvestinė, WP-CLI ir "
+"maršrutas /bafa-report nenurodžius metų. Pagal nutylėjimą – praėję "
+"kalendoriniai metai."
+
+#: includes/Admin/AdminDashboard.php:822
+msgid ""
+"Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins "
+"unwiderruflich entfernen"
+msgstr ""
+"Negrįžtamai pašalinti visas įskiepio lenteles ir nustatymus ištrinant įskiepį"
+
+#: includes/Admin/AdminDashboard.php:824
+msgid ""
+"Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und "
+"Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht "
+"eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn "
+"sämtliche Daten endgültig entfernt werden sollen."
+msgstr ""
+"Pagal nutylėjimą ištrinant įskiepį tiekėjų registras, vertinimų istorija ir "
+"savideklaracijos išsaugomi (LkSG 10 str. 1 d. numato ne trumpesnį kaip "
+"septynerių metų saugojimą). Įjunkite tik jei norite galutinai ištrinti visus "
+"duomenis."
+
+#: includes/Admin/AdminDashboard.php:826
+msgid "Speichern"
+msgstr "Išsaugoti"
+
+#: includes/Admin/AdminDashboard.php:828
+msgid ""
+"Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen "
+"(kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab "
+"25). Das frühere Schwellenwert-Feld wurde von nichts gelesen."
+msgstr ""
+"Pasirinktinio slenksčio nėra: lygiai remiasi fiksuotomis ribomis (kritinis "
+"nuo 75 balų arba sunkumo 85, aukštas nuo 50, vidutinis nuo 25). Ankstesnis "
+"slenksčio laukas niekur nebuvo skaitomas."
+
+#: includes/Admin/AdminDashboard.php:839
+msgid "Zwei Stufen, feste Gewichte"
+msgstr "Du lygiai, fiksuoti svoriai"
+
+#: includes/Admin/AdminDashboard.php:840
+msgid ""
+"Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete "
+"Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + "
+"0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. "
+"Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und "
+"Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex."
+msgstr ""
+"Abstraktus lygis: 0,40 × šalis + 0,40 × sektorius + 0,20 × produktas. "
+"Konkretus lygis: 0,40 × sunkumas + 0,40 × tikimybė + 0,10 × priklausomybė + "
+"0,10 × priežastinis indėlis, atėmus 10 už ISO 14001 ir 15 už SA 8000. Iš "
+"viso: 0,30 × abstraktus + 0,70 × konkretus. Šalių lygiai (DE 15 iki BD 85) "
+"ir sektorių profiliai yra „WM Suite“ euristika, ne korupcijos indeksas."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid "§ 3 Abs. 2 LkSG"
+msgstr "LkSG 3 str. 2 d."
+
+#: includes/Admin/AdminDashboard.php:844
+msgid ""
+"Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der "
+"Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, "
+"der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der "
+"Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. "
+"Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten "
+"und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, "
+"Einflussvermögen und Umkehrbarkeit fragt er nicht ab."
+msgstr ""
+"Tinkamas veikimas nustatomas pagal veiklos pobūdį ir mastą, galimybę daryti "
+"įtaką tiesioginiam pažeidėjui, tikėtiną sunkumą, grįžtamumą ir tikimybę bei "
+"priežastinio indėlio pobūdį. Skaičiuoklė klausia sunkumo, tikimybės, "
+"priklausomybės ir priežastinio indėlio; neklausia veiklos masto, įtakos ar "
+"grįžtamumo."
+
+#: includes/Admin/AdminDashboard.php:847
+msgid "Selbstauskunft"
+msgstr "Savideklaracija"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid ""
+"Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, "
+"Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit "
+"einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine "
+"Selbstauskunft bleibt „nicht bewertet“."
+msgstr ""
+"Forma [wm_lksg_supplier_portal] išsaugo įmonės pavadinimą, šalį, sektorių, "
+"pakopą, pažymėtus sertifikatus ir patvirtintą tekstą su HMAC parašu. "
+"Siuntėjas neidentifikuojamas. Savideklaracija lieka „neįvertinta“."
+
+#: includes/Admin/AdminDashboard.php:852
+msgid ""
+"Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht "
+"nach § 10 Abs. 2 LkSG und kein BAFA-Formular."
+msgstr ""
+"Suskaičiuoja registro įrašus vieniems kalendoriniams metams. Tai nėra LkSG "
+"10 str. 2 d. ataskaita ir nėra BAFA forma."
+
+#: includes/Admin/AdminDashboard.php:855
+msgid "Aufbewahrung"
+msgstr "Saugojimas"
+
+#: includes/Admin/AdminDashboard.php:856
+msgid ""
+"§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens "
+"sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und "
+"Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen "
+"nicht ausdrücklich das endgültige Löschen aktiviert wurde."
+msgstr ""
+"LkSG 10 str. 1 d.: „Dokumentacija turi būti saugoma mažiausiai septynerius "
+"metus nuo jos sudarymo.“ Pagal nutylėjimą ištrinant įskiepį visos lentelės "
+"ir nustatymai išlieka, nebent Nustatymuose aiškiai įjungtas galutinis "
+"ištrynimas."
+
+#: includes/API/RestController.php:126
+msgid ""
+"Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später "
+"erneut."
+msgstr "Per daug pateikimų iš šio adreso. Bandykite vėl vėliau."
+
+#: includes/API/RestController.php:263
+msgid "Der Lieferant konnte nicht gespeichert werden."
+msgstr "Nepavyko išsaugoti tiekėjo."
+
+#: includes/API/RestController.php:270
+msgid ""
+"Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb "
+"nicht gespeichert."
+msgstr "Nepavyko užregistruoti vertinimo; todėl tiekėjas neišsaugotas."
+
+#: includes/API/RestController.php:330
+msgid "Der Unternehmensname fehlt."
+msgstr "Trūksta įmonės pavadinimo."
+
+#: includes/API/RestController.php:336
+msgid "Die Branche ist keine der Auswahlmöglichkeiten des Formulars."
+msgstr "Sektorius nėra tarp formos pasirinkimų."
+
+#: includes/API/RestController.php:344
+msgid "Die Erklärung wurde nicht bestätigt."
+msgstr "Deklaracija nepatvirtinta."
+
+#: includes/API/RestController.php:372 includes/API/RestController.php:402
+msgid "Die Übermittlung konnte nicht gespeichert werden."
+msgstr "Nepavyko išsaugoti pateikimo."
+
+#: includes/API/RestController.php:414
+msgid ""
+"Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung "
+"nimmt der Auftraggeber vor."
+msgstr ""
+"Jūsų savideklaracija pateikta ir išsaugota. Rizikos vertinimą atlieka "
+"užsakovas."
+
+#: includes/API/RestController.php:431
+msgid ""
+"Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein "
+"Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 "
+"Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG "
+"vorliegt."
+msgstr ""
+"Patvirtinu, kad mūsų veiklos vietoje ir tiekimo grandinėje nėra vaikų darbo "
+"ir priverstinio darbo draudimų (LkSG 2 str. 2 d. 1–3 p.) bei su aplinka "
+"susijusių LkSG 2 str. 3 d. draudimų pažeidimų."
+
+#: includes/API/RestController.php:499
+msgid "Das Jahr liegt außerhalb des zulässigen Bereichs."
+msgstr "Metai nepatenka į leistiną intervalą."
+
+#: includes/Frontend/EcosystemIntegration.php:45
+msgid "LkSG-Registerkennzahlen"
+msgstr "LkSG registro rodikliai"
+
+#: includes/Frontend/EcosystemIntegration.php:62
+msgid "LkSG-Registerkennzahl"
+msgstr "LkSG registro rodiklis"
+
+#: includes/Frontend/EcosystemIntegration.php:66
+msgid "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus."
+msgstr "Išveda skaičių iš LkSG tiekėjų registro."
+
+#: includes/Frontend/EcosystemIntegration.php:70
+msgid "Kennzahl"
+msgstr "Rodiklis"
+
+#: includes/Frontend/SupplierPortal.php:92
+msgid "Fertigung und Produktion"
+msgstr "Gamyba ir pramonė"
+
+#: includes/Frontend/SupplierPortal.php:93
+msgid "Elektronik und Halbleiter"
+msgstr "Elektronika ir puslaidininkiai"
+
+#: includes/Frontend/SupplierPortal.php:94
+msgid "Textil- und Bekleidungsindustrie"
+msgstr "Tekstilės ir drabužių pramonė"
+
+#: includes/Frontend/SupplierPortal.php:95
+msgid "Rohstoffgewinnung und Bergbau"
+msgstr "Žaliavų gavyba ir kasyba"
+
+#: includes/Frontend/SupplierPortal.php:96
+msgid "IT- und Cloud-Dienstleistungen"
+msgstr "IT ir debesijos paslaugos"
+
+#: includes/Frontend/SupplierPortal.php:97
+msgid "Transport und Logistik"
+msgstr "Transportas ir logistika"
+
+#: includes/Frontend/SupplierPortal.php:123
+msgid "Lieferanten-Selbstauskunft"
+msgstr "Tiekėjo savideklaracija"
+
+#: includes/Frontend/SupplierPortal.php:124
+msgid "Selbstauskunft für Lieferanten"
+msgstr "Savideklaracija tiekėjams"
+
+#: includes/Frontend/SupplierPortal.php:126
+msgid ""
+"Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen "
+"Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die "
+"Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde "
+"erfolgt hierdurch nicht."
+msgstr ""
+"Jūsų duomenys siunčiami šios svetainės operatoriui ir saugomi jo tiekėjų "
+"registre kaip neįvertinta savideklaracija. Rizikos vertinimą atlieka "
+"užsakovas. Joks pranešimas institucijoms nesiunčiamas."
+
+#: includes/Frontend/SupplierPortal.php:131
+msgid "Wird übermittelt …"
+msgstr "Siunčiama …"
+
+#: includes/Frontend/SupplierPortal.php:132
+msgid ""
+"Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+msgstr "Pateikti nepavyko. Jūsų deklaracija NEBUVO pateikta."
+
+#: includes/Frontend/SupplierPortal.php:133
+msgid ""
+"Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+msgstr "Ryšio klaida. Jūsų deklaracija NEBUVO pateikta."
+
+#: includes/Frontend/SupplierPortal.php:136
+msgid "Unternehmensname *"
+msgstr "Įmonės pavadinimas *"
+
+#: includes/Frontend/SupplierPortal.php:140
+msgid "Standortland (ISO-3166-1-Code, zum Beispiel DE) *"
+msgstr "Šalis (ISO 3166-1 kodas, pvz., DE) *"
+
+#: includes/Frontend/SupplierPortal.php:147
+msgid "Branche *"
+msgstr "Sektorius *"
+
+#: includes/Frontend/SupplierPortal.php:155
+msgid "Lieferantenstufe *"
+msgstr "Tiekėjo pakopa *"
+
+#: includes/Frontend/SupplierPortal.php:157 blocks-src/index.js:37
+msgid "Stufe 1 (unmittelbarer Vertragslieferant)"
+msgstr "1 pakopa (tiesioginis sutartinis tiekėjas)"
+
+#: includes/Frontend/SupplierPortal.php:158 blocks-src/index.js:41
+msgid "Stufe 2 (Vorlieferant)"
+msgstr "2 pakopa (subtiekėjas)"
+
+#: includes/Frontend/SupplierPortal.php:159 blocks-src/index.js:45
+msgid "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)"
+msgstr "3 ar tolimesnė pakopa (žaliavų ar komponentų šaltinis)"
+
+#: includes/Frontend/SupplierPortal.php:165
+msgid "Vorhandene Zertifizierungen"
+msgstr "Turimi sertifikatai"
+
+#: includes/Frontend/SupplierPortal.php:166
+msgid "ISO 14001 (Umweltmanagement)"
+msgstr "ISO 14001 (aplinkosaugos vadyba)"
+
+#: includes/Frontend/SupplierPortal.php:167
+msgid "SA8000 (Sozialstandard)"
+msgstr "SA8000 (socialinis standartas)"
+
+#: includes/Frontend/SupplierPortal.php:168
+msgid "ISO 45001 (Arbeitsschutzmanagement)"
+msgstr "ISO 45001 (darbuotojų sauga ir sveikata)"
+
+#: includes/Frontend/SupplierPortal.php:177
+msgid "Selbstauskunft übermitteln"
+msgstr "Pateikti savideklaraciją"
+
+#: includes/Frontend/SupplierPortal.php:181
+msgid "Selbstauskunft übermittelt"
+msgstr "Savideklaracija pateikta"
+
+#: includes/Frontend/SupplierPortal.php:183
+msgid "Ihre Angaben wurden gespeichert. Vorgangsnummer:"
+msgstr "Jūsų duomenys išsaugoti. Nuorodos numeris:"
+
+#: includes/Frontend/SupplierPortal.php:190
+msgid ""
+"Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die "
+"Grundlage dafür und stehen bis dahin als nicht bewertet im "
+"Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht."
+msgstr ""
+"Rizikos vertinimą atlieka užsakovas; jūsų duomenys yra jo pagrindas ir iki "
+"tol tiekėjų registre lieka neįvertinti. BAFA apie tai nepranešama."
+
+#: blocks-src/index.js:22
+msgid "Formulareinstellungen"
+msgstr "Formos nustatymai"
+
+#: blocks-src/index.js:26
+msgid "Einführungstext anzeigen"
+msgstr "Rodyti įvadinį tekstą"
+
+#: blocks-src/index.js:32
+msgid "Vorausgewählte Lieferantenstufe"
+msgstr "Iš anksto parinkta tiekėjo pakopa"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block title"
+msgid "LkSG-Lieferanten-Selbstauskunft"
+msgstr "LkSG tiekėjo savideklaracija"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block description"
+msgid ""
+"Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung "
+"und HMAC-Signatur."
+msgstr ""
+"Vieša tiekėjų savideklaracijos forma su privalomu patvirtinimu ir HMAC "
+"parašu."
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "lksg"
+msgstr "lksg"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "lieferanten"
+msgstr "tiekėjai"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "selbstauskunft"
+msgstr "savideklaracija"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "register"
+msgstr "registras"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

@@ -1,0 +1,567 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "sl_SI",
+        "plural-forms": "nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Register dobaviteljev za nemški zakon o skrbnem pregledu v dobavni verigi (LkSG): dvostopenjska hevristična ocena tveganja, javni obrazec za samoizjavo in letni povzetek registra. Ne izdela poročila BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Nemčija"
+      ],
+      "Taiwan": [
+        "Tajvan"
+      ],
+      "China": [
+        "Kitajska"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "Indija"
+      ],
+      "Bangladesch": [
+        "Bangladeš"
+      ],
+      "IT, Software und Hosting": [
+        "IT, programska oprema in gostovanje"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronika in sestavni deli"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstil in oblačila"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Rudarstvo in surovine"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Kmetijstvo in živila"
+      ],
+      "Kritisch": [
+        "Kritično"
+      ],
+      "Hoch": [
+        "Visoko"
+      ],
+      "Mittel": [
+        "Srednje"
+      ],
+      "Niedrig": [
+        "Nizko"
+      ],
+      "Nicht bewertet": [
+        "Neocenjeno"
+      ],
+      "Unbekannt": [
+        "Neznano"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Tabela dobaviteljev manjka"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Vtičnik enkrat onemogočite in znova omogočite."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "V registru še ni dobaviteljev"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Vnesite dobavitelje prek kalkulatorja, POST /suppliers ali obrazca za samoizjavo."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d samoizjava neocenjena",
+        "%d samoizjavi neocenjeni",
+        "%d samoizjave neocenjene",
+        "%d samoizjav neocenjenih"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Število točk je hevristika; register ne nadomešča analize tveganja."
+      ],
+      "%d Lieferant im Register": [
+        "%d dobavitelj v registru",
+        "%d dobavitelja v registru",
+        "%d dobavitelji v registru",
+        "%d dobaviteljev v registru"
+      ],
+      "Lieferanten": [
+        "Dobavitelji"
+      ],
+      "Hoch oder kritisch": [
+        "Visoko ali kritično"
+      ],
+      "Register öffnen": [
+        "Odpri register"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG dobavitelji"
+      ],
+      "Keine Berechtigung.": [
+        "Ni dovoljenja."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Varnostno preverjanje ni uspelo. Znova naložite stran."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Manjka ime dobavitelja."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Manjka država ali ni koda ISO 3166-1 alpha-2 (na primer DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Stopnja dobavitelja mora biti 1, 2 ali 3."
+      ],
+      "Register": [
+        "Register"
+      ],
+      "Rechner": [
+        "Kalkulator"
+      ],
+      "Jahresübersicht": [
+        "Letni pregled"
+      ],
+      "Einstellungen": [
+        "Nastavitve"
+      ],
+      "Begriffe": [
+        "Pojmi"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Register dobaviteljev s hevrističnim točkovanjem tveganja, obrazcem za samoizjavo in letnim pregledom številk v registru."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Del družine vtičnikov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samostojno"
+      ],
+      "Keine externen Anfragen": [
+        "Brez zunanjih zahtevkov"
+      ],
+      "Bereiche": [
+        "Sklopi"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Vzorčni dobavitelji niso bili dodani: že so v registru."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Dodan %d vzorčni dobavitelj.",
+        "Dodana %d vzorčna dobavitelja.",
+        "Dodani %d vzorčni dobavitelji.",
+        "Dodanih %d vzorčnih dobaviteljev."
+      ],
+      "Einstellungen gespeichert.": [
+        "Nastavitve shranjene."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Leto ni bilo shranjeno: vnesite letnico med %1$d in %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Tabela dobaviteljev manjka. Vtičnik enkrat onemogočite in znova omogočite."
+      ],
+      "Im Register": [
+        "V registru"
+      ],
+      "alle Einträge": [
+        "vsi vnosi"
+      ],
+      "Bewertet": [
+        "Ocenjeno"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "prek kalkulatorja ali POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Samoizjave"
+      ],
+      "aktuelle Stufe": [
+        "trenutna stopnja"
+      ],
+      "Lieferantenregister": [
+        "Register dobaviteljev"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Neocenjene samoizjave so na vrhu. Obstoječe samoizjave tukaj ni mogoče neposredno oceniti: ocena prek kalkulatorja ali POST /suppliers ustvari nov vnos."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "V registru še ni dobaviteljev."
+      ],
+      "Lieferant": [
+        "Dobavitelj"
+      ],
+      "Land": [
+        "Država"
+      ],
+      "Branche": [
+        "Panoga"
+      ],
+      "Stufe": [
+        "Stopnja"
+      ],
+      "Punktzahl": [
+        "Točke"
+      ],
+      "Einstufung": [
+        "Razvrstitev"
+      ],
+      "Status": [
+        "Stanje"
+      ],
+      "Seiten des Registers": [
+        "Strani registra"
+      ],
+      "Seite %1$d von %2$d": [
+        "Stran %1$d od %2$d"
+      ],
+      "Vorherige Seite": [
+        "Prejšnja stran"
+      ],
+      "Nächste Seite": [
+        "Naslednja stran"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Ustvari vzorčne dobavitelje (izmišljena imena, izračunane točke)"
+      ],
+      "Lieferanten bewerten": [
+        "Oceni dobavitelja"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstraktna stopnja iz države in panoge, konkretna stopnja iz resnosti, verjetnosti, odvisnosti od dobavitelja in lastnega vzročnega prispevka minus certifikati. Uteži in meje so hevristike WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Ime dobavitelja"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), stopnja države %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektor %2$s, izdelek %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Stopnja dobavitelja"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (neposredni dobavitelj)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (posredni dobavitelj)"
+      ],
+      "3 oder weiter": [
+        "3 ali naprej"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkretna stopnja, vsaka od 0 do 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Resnost od 85 naprej je že sama po sebi kritična."
+      ],
+      "Schwere": [
+        "Resnost"
+      ],
+      "Wahrscheinlichkeit": [
+        "Verjetnost"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Odvisnost od dobavitelja"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Lastni vzročni prispevek"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Certifikati dobavitelja"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 točk na konkretni stopnji)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 točk na konkretni stopnji)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Shrani rezultat v register"
+      ],
+      "Punktzahl berechnen": [
+        "Izračunaj točke"
+      ],
+      "Ergebnis": [
+        "Rezultat"
+      ],
+      "Noch keine Berechnung.": [
+        "Izračuna še ni."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstraktna stopnja %1$s (država %2$s, sektor %3$s, izdelek %4$s) · konkretna stopnja %5$s (resnost %6$s, verjetnost %7$s, odvisnost %8$s, vzročni prispevek %9$s)"
+      ],
+      "Hinweise:": [
+        "Opozorila:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Shranjeno v register z oceno v zgodovini."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Ta obrazec je bil že shranjen (stran je bila znova naložena); podvojen vnos ni bil ustvarjen."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Ni shranjeno v register. Ocena je prikazana, vendar ni zabeležena."
+      ],
+      "Einordnung": [
+        "Razlaga"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 odst. 2 in § 5 odst. 2 LkSG navajata merila, ne pa uteži. Kateri preventivni ali popravljalni ukrepi so ustrezni, odloči podjetje, ne ta številka."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritično: točke od 75 ali resnost od 85. Vtičnik dodeli sprožilec CAPA_REQUIRED. Popravljalni ukrepi po § 7 LkSG se nanašajo na ugotovljeno ali neposredno grozečo kršitev, ne na število točk."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Visoko: točke od 50 do manj kot 75. Vtičnik dodeli sprožilec AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Srednje: točke od 25 do manj kot 50. Vtičnik dodeli sprožilec QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Nizko: točke pod 25. Vtičnik dodeli sprožilec NO_ACTION. Nizko število točk ne dokazuje odsotnosti tveganj; lahko v celoti temelji na privzetih vrednostih."
+      ],
+      "Unbekannte Stufe.": [
+        "Neznana stopnja."
+      ],
+      "Jahresübersicht %d": [
+        "Letni pregled %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Prešteje vsebino registra za koledarsko leto %d (UTC). To ni poročilo po § 10 odst. 2 LkSG in ni obrazec BAFA. Leto nastavite v Nastavitvah."
+      ],
+      "JSON öffnen": [
+        "Odpri JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Ne beležijo se: notranja pristojnost (§ 4 odst. 3 LkSG), izjava o načelih (§ 6 odst. 2), preventivni ukrepi (§ 6), popravljalni ukrepi (§ 7), pritožbeni postopek (§ 8) in ocena učinkovitosti ukrepov."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Leto letnega pregleda"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Koledarsko leto, ki ga štejejo letni pregled, WP-CLI in pot /bafa-report brez navedbe leta. Privzeto je prejšnje koledarsko leto."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Nepovratno odstrani vse tabele in nastavitve vtičnika ob izbrisu vtičnika"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Privzeto se register dobaviteljev, zgodovina ocen in samoizjave ob izbrisu vtičnika ohranijo (§ 10 odst. 1 LkSG določa hrambo najmanj sedem let). Omogočite le, če želite trajno izbrisati vse podatke."
+      ],
+      "Speichern": [
+        "Shrani"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Lastnega praga ni: stopnje sledijo fiksnim mejam (kritično od 75 točk ali resnosti 85, visoko od 50, srednje od 25). Prejšnje polje praga se nikjer ni bralo."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Dve stopnji, fiksne uteži"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstraktna stopnja: 0,40 × država + 0,40 × sektor + 0,20 × izdelek. Konkretna stopnja: 0,40 × resnost + 0,40 × verjetnost + 0,10 × odvisnost + 0,10 × vzročni prispevek, minus 10 za ISO 14001 in 15 za SA 8000. Skupaj: 0,30 × abstraktna + 0,70 × konkretna. Stopnje držav (DE 15 do BD 85) in profili sektorjev so hevristike WM Suite, ne indeks korupcije."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 odst. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Ustrezno ravnanje se določi glede na vrsto in obseg dejavnosti, zmožnost vplivanja na neposrednega povzročitelja, pričakovano resnost, povračljivost in verjetnost kršitve ter vrsto vzročnega prispevka. Kalkulator sprašuje po resnosti, verjetnosti, odvisnosti in vzročnem prispevku; ne sprašuje po obsegu dejavnosti, vplivu ali povračljivosti."
+      ],
+      "Selbstauskunft": [
+        "Samoizjava"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Obrazec [wm_lksg_supplier_portal] shrani ime podjetja, državo, panogo, stopnjo, označene certifikate in potrjeno besedilo s podpisom HMAC. Pošiljatelj se ne identificira. Samoizjava ostane »neocenjena«."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Prešteje vnose v registru za eno koledarsko leto. Ni poročilo po § 10 odst. 2 LkSG in ni obrazec BAFA."
+      ],
+      "Aufbewahrung": [
+        "Hramba"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 odst. 1 LkSG: »Dokumentacijo je treba hraniti najmanj sedem let od njene izdelave.« Privzeto ostanejo vse tabele in nastavitve ob izbrisu vtičnika ohranjene, razen če je v Nastavitvah izrecno omogočen trajni izbris."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Preveč oddaj s tega naslova. Poskusite znova pozneje."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Dobavitelja ni bilo mogoče shraniti."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Ocene ni bilo mogoče zabeležiti; zato dobavitelj ni bil shranjen."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Manjka ime podjetja."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Panoga ni med izbirami obrazca."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Izjava ni bila potrjena."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Oddaje ni bilo mogoče shraniti."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Vaša samoizjava je bila poslana in shranjena. Oceno tveganja izvede naročnik."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Potrjujem, da v našem obratu in naši dobavni verigi ni kršitev prepovedi otroškega dela in prisilnega dela (§ 2 odst. 2 št. 1 do 3 LkSG) ter okoljskih prepovedi iz § 2 odst. 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Leto je zunaj dovoljenega območja."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Kazalniki registra LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Kazalnik registra LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Izpiše število iz registra dobaviteljev LkSG."
+      ],
+      "Kennzahl": [
+        "Kazalnik"
+      ],
+      "Fertigung und Produktion": [
+        "Proizvodnja in izdelava"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronika in polprevodniki"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstilna in oblačilna industrija"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Pridobivanje surovin in rudarstvo"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT in storitve v oblaku"
+      ],
+      "Transport und Logistik": [
+        "Prevoz in logistika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Samoizjava dobavitelja"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Samoizjava za dobavitelje"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Vaši podatki se pošljejo upravljavcu tega spletnega mesta in se shranijo v njegovem registru dobaviteljev kot neocenjena samoizjava. Oceno tveganja opravi naročnik. Prijava organom se s tem ne izvede."
+      ],
+      "Wird übermittelt …": [
+        "Pošiljanje …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Pošiljanje ni uspelo. Vaša izjava NI bila oddana."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Povezava ni uspela. Vaša izjava NI bila oddana."
+      ],
+      "Unternehmensname *": [
+        "Ime podjetja *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Država sedeža (koda ISO 3166-1, npr. DE) *"
+      ],
+      "Branche *": [
+        "Panoga *"
+      ],
+      "Lieferantenstufe *": [
+        "Stopnja dobavitelja *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Stopnja 1 (neposredni pogodbeni dobavitelj)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Stopnja 2 (poddobavitelj)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Stopnja 3 ali naprej (vir surovin ali sestavnih delov)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Obstoječi certifikati"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (ravnanje z okoljem)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (socialni standard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (varnost in zdravje pri delu)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Oddaj samoizjavo"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Samoizjava oddana"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Vaši podatki so bili shranjeni. Referenčna številka:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Oceno tveganja opravi naročnik; vaši podatki so podlaga zanjo in do takrat ostanejo v registru dobaviteljev kot neocenjeni. Prijava uradu BAFA se s tem ne izvede."
+      ],
+      "Formulareinstellungen": [
+        "Nastavitve obrazca"
+      ],
+      "Einführungstext anzeigen": [
+        "Prikaži uvodno besedilo"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Vnaprej izbrana stopnja dobavitelja"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG samoizjava dobavitelja"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Javni obrazec za samoizjavo dobaviteljev z obvezno potrditvijo in podpisom HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "dobavitelji"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "samoizjava"
+      ],
+      "block keyword\u0004register": [
+        "register"
+      ]
+    }
+  }
+}

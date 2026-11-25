@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "it_IT",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Registro fornitori per la legge tedesca sulla due diligence nella catena di fornitura (LkSG): punteggio di rischio euristico a due livelli, modulo pubblico di autodichiarazione e riepilogo annuale del registro. Non genera rapporti BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Germania"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "Cina"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "India"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, software e hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Elettronica e componenti"
+      ],
+      "Textil und Bekleidung": [
+        "Tessile e abbigliamento"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Estrazione mineraria e materie prime"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Agricoltura e alimentari"
+      ],
+      "Kritisch": [
+        "Critico"
+      ],
+      "Hoch": [
+        "Alto"
+      ],
+      "Mittel": [
+        "Medio"
+      ],
+      "Niedrig": [
+        "Basso"
+      ],
+      "Nicht bewertet": [
+        "Non valutato"
+      ],
+      "Unbekannt": [
+        "Sconosciuto"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Tabella dei fornitori mancante"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Disattivare e riattivare il plugin una volta."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Nessun fornitore ancora presente nel registro"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Registrare i fornitori tramite il calcolatore, POST /suppliers o il modulo di autodichiarazione."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d autodichiarazione non valutata",
+        "%d autodichiarazioni non valutate"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Il punteggio è un’euristica; il registro non sostituisce un’analisi dei rischi."
+      ],
+      "%d Lieferant im Register": [
+        "%d fornitore nel registro",
+        "%d fornitori nel registro"
+      ],
+      "Lieferanten": [
+        "Fornitori"
+      ],
+      "Hoch oder kritisch": [
+        "Alto o critico"
+      ],
+      "Register öffnen": [
+        "Apri registro"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "Fornitori LkSG"
+      ],
+      "Keine Berechtigung.": [
+        "Autorizzazione negata."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Controllo di sicurezza non riuscito. Ricaricare la pagina."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Manca il nome del fornitore."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Manca il paese o non è un codice ISO 3166-1 alfa-2 (ad esempio DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Il livello del fornitore deve essere 1, 2 o 3."
+      ],
+      "Register": [
+        "Registro"
+      ],
+      "Rechner": [
+        "Calcolatore"
+      ],
+      "Jahresübersicht": [
+        "Riepilogo annuale"
+      ],
+      "Einstellungen": [
+        "Impostazioni"
+      ],
+      "Begriffe": [
+        "Glossario"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Registro fornitori con punteggio di rischio euristico, modulo di autodichiarazione e riepilogo annuale dei conteggi del registro."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Parte della famiglia di plugin WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autonomo"
+      ],
+      "Keine externen Anfragen": [
+        "Nessuna richiesta esterna"
+      ],
+      "Bereiche": [
+        "Sezioni"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Nessun fornitore dimostrativo aggiunto: sono già presenti nel registro."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d fornitore dimostrativo aggiunto.",
+        "%d fornitori dimostrativi aggiunti."
+      ],
+      "Einstellungen gespeichert.": [
+        "Impostazioni salvate."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "L’anno non è stato salvato: inserire un anno compreso tra %1$d e %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Manca la tabella dei fornitori. Disattivare e riattivare il plugin una volta."
+      ],
+      "Im Register": [
+        "Nel registro"
+      ],
+      "alle Einträge": [
+        "tutte le voci"
+      ],
+      "Bewertet": [
+        "Valutati"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "tramite il calcolatore o POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Autodichiarazioni"
+      ],
+      "aktuelle Stufe": [
+        "livello attuale"
+      ],
+      "Lieferantenregister": [
+        "Registro fornitori"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Le autodichiarazioni non valutate compaiono per prime. Qui non è possibile valutare un’autodichiarazione sul posto: una valutazione tramite il calcolatore o POST /suppliers crea una nuova voce."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Nessun fornitore ancora presente nel registro."
+      ],
+      "Lieferant": [
+        "Fornitore"
+      ],
+      "Land": [
+        "Paese"
+      ],
+      "Branche": [
+        "Settore"
+      ],
+      "Stufe": [
+        "Livello"
+      ],
+      "Punktzahl": [
+        "Punteggio"
+      ],
+      "Einstufung": [
+        "Classificazione"
+      ],
+      "Status": [
+        "Stato"
+      ],
+      "Seiten des Registers": [
+        "Pagine del registro"
+      ],
+      "Seite %1$d von %2$d": [
+        "Pagina %1$d di %2$d"
+      ],
+      "Vorherige Seite": [
+        "Pagina precedente"
+      ],
+      "Nächste Seite": [
+        "Pagina successiva"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Crea fornitori dimostrativi (nomi fittizi, punteggi calcolati)"
+      ],
+      "Lieferanten bewerten": [
+        "Valuta fornitore"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Livello astratto da paese e settore, livello concreto da gravità, probabilità, dipendenza dal fornitore e contributo causale proprio, al netto delle certificazioni. Pesi e soglie sono euristiche di WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Nome del fornitore"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), fascia paese %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (settore %2$s, prodotto %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Livello del fornitore"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (fornitore diretto)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (fornitore indiretto)"
+      ],
+      "3 oder weiter": [
+        "3 o successivo"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Livello concreto, ciascuno da 0 a 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Una gravità pari o superiore a 85 è di per sé critica."
+      ],
+      "Schwere": [
+        "Gravità"
+      ],
+      "Wahrscheinlichkeit": [
+        "Probabilità"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Dipendenza dal fornitore"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Contributo causale proprio"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Certificazioni del fornitore"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (meno 10 punti sul livello concreto)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (meno 15 punti sul livello concreto)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Salva risultato nel registro"
+      ],
+      "Punktzahl berechnen": [
+        "Calcola punteggio"
+      ],
+      "Ergebnis": [
+        "Risultato"
+      ],
+      "Noch keine Berechnung.": [
+        "Nessun calcolo ancora eseguito."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Livello astratto %1$s (paese %2$s, settore %3$s, prodotto %4$s) · livello concreto %5$s (gravità %6$s, probabilità %7$s, dipendenza %8$s, contributo causale %9$s)"
+      ],
+      "Hinweise:": [
+        "Segnalazioni:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Salvato nel registro, con la valutazione nello storico."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Questo modulo è già stato salvato (la pagina è stata ricaricata); non è stata creata una seconda voce."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Non salvato nel registro. La valutazione è mostrata ma non è stata registrata."
+      ],
+      "Einordnung": [
+        "Inquadramento"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "I § 3 cpv. 2 e § 5 cpv. 2 LkSG indicano criteri, ma non pesi. Quali misure preventive o correttive siano adeguate lo decide l’impresa, non questo numero."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Critico: punteggio da 75 o gravità da 85. Il plugin assegna l’attivatore CAPA_REQUIRED. Le misure correttive ex § 7 LkSG dipendono da una violazione accertata o imminente, non da un punteggio."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Alto: punteggio da 50 a meno di 75. Il plugin assegna l’attivatore AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Medio: punteggio da 25 a meno di 50. Il plugin assegna l’attivatore QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Basso: punteggio inferiore a 25. Il plugin assegna l’attivatore NO_ACTION. Un punteggio basso non dimostra l’assenza di rischi; può basarsi interamente su valori predefiniti."
+      ],
+      "Unbekannte Stufe.": [
+        "Livello sconosciuto."
+      ],
+      "Jahresübersicht %d": [
+        "Riepilogo annuale %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Conta il contenuto del registro per l’anno solare %d (UTC). Non è una relazione ai sensi del § 10 cpv. 2 LkSG né un modulo BAFA. Impostare l’anno in Impostazioni."
+      ],
+      "JSON öffnen": [
+        "Apri JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Non registrati: responsabilità interna (§ 4 cpv. 3 LkSG), dichiarazione di principio (§ 6 cpv. 2), misure preventive (§ 6), misure correttive (§ 7), procedura di reclamo (§ 8) e valutazione dell’efficacia."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Anno del riepilogo annuale"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Anno solare conteggiato dal riepilogo annuale, da WP-CLI e dalla rotta /bafa-report senza indicazione dell’anno. Predefinito: anno solare precedente."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Rimuovi irrevocabilmente tutte le tabelle e impostazioni del plugin alla cancellazione del plugin"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Per impostazione predefinita, registro fornitori, storico delle valutazioni e autodichiarazioni vengono conservati alla rimozione del plugin (il § 10 cpv. 1 LkSG prevede una conservazione minima di sette anni). Attivare solo per eliminare definitivamente tutti i dati."
+      ],
+      "Speichern": [
+        "Salva"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Non esiste una soglia personalizzata: i livelli seguono limiti fissi (critico da 75 punti o gravità 85, alto da 50, medio da 25). Il precedente campo soglia non veniva letto."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Due livelli, pesi fissi"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Livello astratto: 0,40 × paese + 0,40 × settore + 0,20 × prodotto. Livello concreto: 0,40 × gravità + 0,40 × probabilità + 0,10 × dipendenza + 0,10 × contributo causale, meno 10 per ISO 14001 e 15 per SA 8000. Totale: 0,30 × astratto + 0,70 × concreto. Fasce paese (DE 15 fino a BD 85) e profili settoriali sono euristiche di WM Suite, non un indice di corruzione."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 cpv. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "L’azione adeguata dipende da natura e portata dell’attività aziendale, capacità di influenza sull’autore diretto, gravità tipicamente attesa, reversibilità e probabilità della violazione, nonché dal tipo di contributo causale. Il calcolatore richiede gravità, probabilità, dipendenza dal fornitore e contributo causale; non richiede portata aziendale, influenza né reversibilità."
+      ],
+      "Selbstauskunft": [
+        "Autodichiarazione"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Il modulo [wm_lksg_supplier_portal] memorizza ragione sociale, paese, settore, livello, certificazioni selezionate e testo confermato con firma HMAC. Il mittente non è identificato. Un’autodichiarazione resta «non valutata»."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Conta le voci del registro per un anno solare. Non è una relazione ai sensi del § 10 cpv. 2 LkSG né un modulo BAFA."
+      ],
+      "Aufbewahrung": [
+        "Conservazione"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 cpv. 1 LkSG: «La documentazione deve essere conservata per almeno sette anni dalla sua creazione.» Per impostazione predefinita tutte le tabelle e opzioni restano intatte alla rimozione del plugin, salvo attivazione esplicita in Impostazioni."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Troppi invii da questo indirizzo. Riprovare più tardi."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Impossibile salvare il fornitore."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Impossibile registrare la valutazione; il fornitore non è stato salvato."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Manca la ragione sociale."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Il settore non rientra tra le opzioni del modulo."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "La dichiarazione non è stata confermata."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Impossibile salvare l’invio."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "La Sua autodichiarazione è stata inviata e salvata. La valutazione del rischio viene effettuata dal committente."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Confermo che presso la nostra sede operativa e nella nostra catena di fornitura non sussiste alcuna violazione dei divieti di lavoro minorile e lavoro forzato (§ 2 cpv. 2 nn. 1–3 LkSG) né dei divieti ambientali di cui al § 2 cpv. 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "L’anno è fuori dall’intervallo consentito."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Indicatori del registro LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Indicatore del registro LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Restituisce un conteggio dal registro fornitori LkSG."
+      ],
+      "Kennzahl": [
+        "Indicatore"
+      ],
+      "Fertigung und Produktion": [
+        "Produzione e manifattura"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elettronica e semiconduttori"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Industria tessile e dell’abbigliamento"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Estrazione di materie prime e attività mineraria"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "Servizi IT e cloud"
+      ],
+      "Transport und Logistik": [
+        "Trasporti e logistica"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Autodichiarazione fornitori"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Autodichiarazione per i fornitori"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "I Suoi dati vengono inviati al gestore di questo sito web e salvati nel relativo registro fornitori come autodichiarazione non valutata. La valutazione dei rischi spetta al committente. Non avviene alcuna segnalazione alle autorità."
+      ],
+      "Wird übermittelt …": [
+        "Invio in corso …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Invio non riuscito. La Sua dichiarazione NON è stata trasmessa."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Connessione non riuscita. La Sua dichiarazione NON è stata trasmessa."
+      ],
+      "Unternehmensname *": [
+        "Ragione sociale *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Paese della sede (codice ISO 3166-1, ad esempio DE) *"
+      ],
+      "Branche *": [
+        "Settore *"
+      ],
+      "Lieferantenstufe *": [
+        "Livello fornitore *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Livello 1 (fornitore contrattuale diretto)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Livello 2 (subfornitore)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Livello 3 o successivo (fonte di materie prime o componenti)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Certificazioni presenti"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (gestione ambientale)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (standard sociale)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (salute e sicurezza sul lavoro)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Invia autodichiarazione"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Autodichiarazione inviata"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "I Suoi dati sono stati salvati. Numero di riferimento:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "La valutazione dei rischi viene effettuata dal committente; i Suoi dati ne costituiscono la base e restano fino ad allora non valutati nel registro fornitori. Non avviene alcuna comunicazione al BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Impostazioni del modulo"
+      ],
+      "Einführungstext anzeigen": [
+        "Mostra testo introduttivo"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Livello fornitore preselezionato"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "Autodichiarazione fornitori LkSG"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Modulo pubblico di autodichiarazione per i fornitori con conferma obbligatoria e firma HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "fornitori"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "autodichiarazione"
+      ],
+      "block keyword\u0004register": [
+        "registro"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "arnoldwender/wm-lksg-supply-auditor",
+    "description": "LkSG supply chain due-diligence auditor.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5 || ^12.0 || ^13.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WMCyber\\LkSG\\": "includes/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WMCyber\\LkSG\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

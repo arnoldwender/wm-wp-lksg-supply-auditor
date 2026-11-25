@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "de_DE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Lieferantenregister zum Lieferkettensorgfaltspflichtengesetz (LkSG): zweistufige heuristische Risikopunktzahl, öffentliches Selbstauskunftsformular und jährliche Übersicht der Registerzahlen. Erstellt keinen BAFA-Bericht."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Deutschland"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "China"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "Indien"
+      ],
+      "Bangladesch": [
+        "Bangladesch"
+      ],
+      "IT, Software und Hosting": [
+        "IT, Software und Hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronik und Bauteile"
+      ],
+      "Textil und Bekleidung": [
+        "Textil und Bekleidung"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Bergbau und Rohstoffe"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Landwirtschaft und Lebensmittel"
+      ],
+      "Kritisch": [
+        "Kritisch"
+      ],
+      "Hoch": [
+        "Hoch"
+      ],
+      "Mittel": [
+        "Mittel"
+      ],
+      "Niedrig": [
+        "Niedrig"
+      ],
+      "Nicht bewertet": [
+        "Nicht bewertet"
+      ],
+      "Unbekannt": [
+        "Unbekannt"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Die Lieferantentabelle fehlt"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Das Plugin einmal deaktivieren und wieder aktivieren."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Noch keine Lieferanten im Register"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d Selbstauskunft nicht bewertet",
+        "%d Selbstauskünfte nicht bewertet"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse."
+      ],
+      "%d Lieferant im Register": [
+        "%d Lieferant im Register",
+        "%d Lieferanten im Register"
+      ],
+      "Lieferanten": [
+        "Lieferanten"
+      ],
+      "Hoch oder kritisch": [
+        "Hoch oder kritisch"
+      ],
+      "Register öffnen": [
+        "Register öffnen"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG-Lieferanten"
+      ],
+      "Keine Berechtigung.": [
+        "Keine Berechtigung."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Der Lieferantenname fehlt."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Die Lieferantenstufe muss 1, 2 oder 3 sein."
+      ],
+      "Register": [
+        "Register"
+      ],
+      "Rechner": [
+        "Rechner"
+      ],
+      "Jahresübersicht": [
+        "Jahresübersicht"
+      ],
+      "Einstellungen": [
+        "Einstellungen"
+      ],
+      "Begriffe": [
+        "Begriffe"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Teil der WM-Suite-Pluginfamilie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Standalone"
+      ],
+      "Keine externen Anfragen": [
+        "Keine externen Anfragen"
+      ],
+      "Bereiche": [
+        "Bereiche"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d Beispiel-Lieferant angelegt.",
+        "%d Beispiel-Lieferanten angelegt."
+      ],
+      "Einstellungen gespeichert.": [
+        "Einstellungen gespeichert."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren."
+      ],
+      "Im Register": [
+        "Im Register"
+      ],
+      "alle Einträge": [
+        "alle Einträge"
+      ],
+      "Bewertet": [
+        "Bewertet"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "über den Rechner oder POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Selbstauskünfte"
+      ],
+      "aktuelle Stufe": [
+        "aktuelle Stufe"
+      ],
+      "Lieferantenregister": [
+        "Lieferantenregister"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Noch keine Lieferanten im Register."
+      ],
+      "Lieferant": [
+        "Lieferant"
+      ],
+      "Land": [
+        "Land"
+      ],
+      "Branche": [
+        "Branche"
+      ],
+      "Stufe": [
+        "Stufe"
+      ],
+      "Punktzahl": [
+        "Punktzahl"
+      ],
+      "Einstufung": [
+        "Einstufung"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Seiten des Registers": [
+        "Seiten des Registers"
+      ],
+      "Seite %1$d von %2$d": [
+        "Seite %1$d von %2$d"
+      ],
+      "Vorherige Seite": [
+        "Vorherige Seite"
+      ],
+      "Nächste Seite": [
+        "Nächste Seite"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)"
+      ],
+      "Lieferanten bewerten": [
+        "Lieferanten bewerten"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Name des Lieferanten"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), Länderstufe %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (Sektor %2$s, Produkt %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Lieferantenstufe"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (unmittelbarer Zulieferer)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (mittelbarer Zulieferer)"
+      ],
+      "3 oder weiter": [
+        "3 oder weiter"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkrete Stufe, jeweils 0 bis 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Eine Schwere ab 85 ist für sich allein kritisch."
+      ],
+      "Schwere": [
+        "Schwere"
+      ],
+      "Wahrscheinlichkeit": [
+        "Wahrscheinlichkeit"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Abhängigkeit vom Lieferanten"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Eigener Verursachungsbeitrag"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Zertifizierungen des Lieferanten"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 Punkte auf der konkreten Stufe)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Ergebnis im Register speichern"
+      ],
+      "Punktzahl berechnen": [
+        "Punktzahl berechnen"
+      ],
+      "Ergebnis": [
+        "Ergebnis"
+      ],
+      "Noch keine Berechnung.": [
+        "Noch keine Berechnung."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)"
+      ],
+      "Hinweise:": [
+        "Hinweise:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Im Register gespeichert, mit der Bewertung im Verlauf."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten."
+      ],
+      "Einordnung": [
+        "Einordnung"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen."
+      ],
+      "Unbekannte Stufe.": [
+        "Unbekannte Stufe."
+      ],
+      "Jahresübersicht %d": [
+        "Jahresübersicht %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein."
+      ],
+      "JSON öffnen": [
+        "JSON öffnen"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Jahr der Jahresübersicht"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen."
+      ],
+      "Speichern": [
+        "Speichern"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Zwei Stufen, feste Gewichte"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 Abs. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab."
+      ],
+      "Selbstauskunft": [
+        "Selbstauskunft"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular."
+      ],
+      "Aufbewahrung": [
+        "Aufbewahrung"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Der Lieferant konnte nicht gespeichert werden."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Der Unternehmensname fehlt."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Die Branche ist keine der Auswahlmöglichkeiten des Formulars."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Die Erklärung wurde nicht bestätigt."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Die Übermittlung konnte nicht gespeichert werden."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Das Jahr liegt außerhalb des zulässigen Bereichs."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG-Registerkennzahlen"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG-Registerkennzahl"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus."
+      ],
+      "Kennzahl": [
+        "Kennzahl"
+      ],
+      "Fertigung und Produktion": [
+        "Fertigung und Produktion"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronik und Halbleiter"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Textil- und Bekleidungsindustrie"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Rohstoffgewinnung und Bergbau"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT- und Cloud-Dienstleistungen"
+      ],
+      "Transport und Logistik": [
+        "Transport und Logistik"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Lieferanten-Selbstauskunft"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Selbstauskunft für Lieferanten"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht."
+      ],
+      "Wird übermittelt …": [
+        "Wird übermittelt …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+      ],
+      "Unternehmensname *": [
+        "Unternehmensname *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Standortland (ISO-3166-1-Code, zum Beispiel DE) *"
+      ],
+      "Branche *": [
+        "Branche *"
+      ],
+      "Lieferantenstufe *": [
+        "Lieferantenstufe *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Stufe 1 (unmittelbarer Vertragslieferant)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Stufe 2 (Vorlieferant)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Vorhandene Zertifizierungen"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (Umweltmanagement)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (Sozialstandard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (Arbeitsschutzmanagement)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Selbstauskunft übermitteln"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Selbstauskunft übermittelt"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Ihre Angaben wurden gespeichert. Vorgangsnummer:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht."
+      ],
+      "Formulareinstellungen": [
+        "Formulareinstellungen"
+      ],
+      "Einführungstext anzeigen": [
+        "Einführungstext anzeigen"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Vorausgewählte Lieferantenstufe"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG-Lieferanten-Selbstauskunft"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "lieferanten"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "selbstauskunft"
+      ],
+      "block keyword\u0004register": [
+        "register"
+      ]
+    }
+  }
+}

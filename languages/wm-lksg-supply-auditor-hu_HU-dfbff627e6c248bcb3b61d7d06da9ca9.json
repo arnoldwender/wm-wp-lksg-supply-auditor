@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "hu_HU",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Beszállítói nyilvántartás a német ellátásilánc-átvilágítási törvényhez (LkSG): kétszintű heurisztikus kockázati pontszám, nyilvános önnyilatkozati űrlap és éves nyilvántartási összesítő. Nem készít BAFA-jelentést."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Németország"
+      ],
+      "Taiwan": [
+        "Tajvan"
+      ],
+      "China": [
+        "Kína"
+      ],
+      "Vietnam": [
+        "Vietnám"
+      ],
+      "Indien": [
+        "India"
+      ],
+      "Bangladesch": [
+        "Banglades"
+      ],
+      "IT, Software und Hosting": [
+        "IT, szoftver és tárhely"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronika és alkatrészek"
+      ],
+      "Textil und Bekleidung": [
+        "Textil és ruházat"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Bányászat és nyersanyagok"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Mezőgazdaság és élelmiszeripar"
+      ],
+      "Kritisch": [
+        "Kritikus"
+      ],
+      "Hoch": [
+        "Magas"
+      ],
+      "Mittel": [
+        "Közepes"
+      ],
+      "Niedrig": [
+        "Alacsony"
+      ],
+      "Nicht bewertet": [
+        "Nem értékelt"
+      ],
+      "Unbekannt": [
+        "Ismeretlen"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Hiányzik a beszállítói tábla"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Kapcsolja ki, majd kapcsolja vissza egyszer a bővítményt."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Még nincsenek beszállítók a nyilvántartásban"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Rögzítsen beszállítókat a kalkulátorral, a POST /suppliers végponttal vagy az önnyilatkozati űrlappal."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d önnyilatkozat nincs értékelve",
+        "%d önnyilatkozat nincs értékelve"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "A pontszám heurisztika; a nyilvántartás nem helyettesíti a kockázatelemzést."
+      ],
+      "%d Lieferant im Register": [
+        "%d beszállító a nyilvántartásban",
+        "%d beszállító a nyilvántartásban"
+      ],
+      "Lieferanten": [
+        "Beszállítók"
+      ],
+      "Hoch oder kritisch": [
+        "Magas vagy kritikus"
+      ],
+      "Register öffnen": [
+        "Nyilvántartás megnyitása"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG-beszállítók"
+      ],
+      "Keine Berechtigung.": [
+        "Nincs jogosultság."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "A biztonsági ellenőrzés sikertelen. Kérjük, töltse újra az oldalt."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Hiányzik a beszállító neve."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Hiányzik az ország, vagy nem ISO 3166-1 alpha-2 kód (például DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "A beszállítói szintnek 1-nek, 2-nek vagy 3-nak kell lennie."
+      ],
+      "Register": [
+        "Nyilvántartás"
+      ],
+      "Rechner": [
+        "Kalkulátor"
+      ],
+      "Jahresübersicht": [
+        "Éves áttekintés"
+      ],
+      "Einstellungen": [
+        "Beállítások"
+      ],
+      "Begriffe": [
+        "Fogalmak"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Beszállítói nyilvántartás heurisztikus kockázati pontszámmal, önnyilatkozati űrlappal és a nyilvántartási számok éves áttekintésével."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "A WM Suite bővítménycsalád része"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Önálló"
+      ],
+      "Keine externen Anfragen": [
+        "Nincs külső kérés"
+      ],
+      "Bereiche": [
+        "Területek"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Nem jöttek létre mintabeszállítók: már szerepelnek a nyilvántartásban."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d mintabeszállító létrehozva.",
+        "%d mintabeszállító létrehozva."
+      ],
+      "Einstellungen gespeichert.": [
+        "Beállítások mentve."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Az év nem lett elmentve: adjon meg egy évszámot %1$d és %2$d között."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Hiányzik a beszállítói tábla. Kapcsolja ki, majd kapcsolja vissza egyszer a bővítményt."
+      ],
+      "Im Register": [
+        "A nyilvántartásban"
+      ],
+      "alle Einträge": [
+        "összes bejegyzés"
+      ],
+      "Bewertet": [
+        "Értékelt"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "a kalkulátoron vagy a POST /suppliers útvonalon keresztül"
+      ],
+      "Selbstauskünfte": [
+        "Önnyilatkozatok"
+      ],
+      "aktuelle Stufe": [
+        "aktuális szint"
+      ],
+      "Lieferantenregister": [
+        "Beszállítói nyilvántartás"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Az értékeletlen önnyilatkozatok elöl szerepelnek. Meglévő önnyilatkozat itt helyben nem értékelhető: a kalkulátoros vagy POST /suppliers értékelés új bejegyzést hoz létre."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Még nincsenek beszállítók a nyilvántartásban."
+      ],
+      "Lieferant": [
+        "Beszállító"
+      ],
+      "Land": [
+        "Ország"
+      ],
+      "Branche": [
+        "Ágazat"
+      ],
+      "Stufe": [
+        "Szint"
+      ],
+      "Punktzahl": [
+        "Pontszám"
+      ],
+      "Einstufung": [
+        "Besorolás"
+      ],
+      "Status": [
+        "Állapot"
+      ],
+      "Seiten des Registers": [
+        "Nyilvántartás oldalai"
+      ],
+      "Seite %1$d von %2$d": [
+        "%1$d / %2$d. oldal"
+      ],
+      "Vorherige Seite": [
+        "Előző oldal"
+      ],
+      "Nächste Seite": [
+        "Következő oldal"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Mintabeszállítók létrehozása (kitalált nevek, számított pontszámok)"
+      ],
+      "Lieferanten bewerten": [
+        "Beszállító értékelése"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Absztrakt szint ország és ágazat alapján, konkrét szint súlyosság, valószínűség, beszállítótól való függés és saját okozati hozzájárulás alapján, levonva a tanúsítványokat. A súlyok és határok a WM Suite heurisztikái."
+      ],
+      "Name des Lieferanten": [
+        "Beszállító neve"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), országszint %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (ágazat %2$s, termék %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Beszállítói szint"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (közvetlen beszállító)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (közvetett beszállító)"
+      ],
+      "3 oder weiter": [
+        "3 vagy távolabbi"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkrét szint, egyenként 0-tól 100-ig"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "A 85 vagy annál magasabb súlyosság önmagában kritikus."
+      ],
+      "Schwere": [
+        "Súlyosság"
+      ],
+      "Wahrscheinlichkeit": [
+        "Valószínűség"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Függés a beszállítótól"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Saját okozati hozzájárulás"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "A beszállító tanúsítványai"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (mínusz 10 pont a konkrét szinten)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (mínusz 15 pont a konkrét szinten)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Eredmény mentése a nyilvántartásba"
+      ],
+      "Punktzahl berechnen": [
+        "Pontszám kiszámítása"
+      ],
+      "Ergebnis": [
+        "Eredmény"
+      ],
+      "Noch keine Berechnung.": [
+        "Még nincs számítás."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Absztrakt szint %1$s (ország %2$s, ágazat %3$s, termék %4$s) · konkrét szint %5$s (súlyosság %6$s, valószínűség %7$s, függés %8$s, okozati hozzájárulás %9$s)"
+      ],
+      "Hinweise:": [
+        "Jelzések:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Mentve a nyilvántartásba, az értékeléssel az előzményekben."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Ez az űrlap már mentésre került (az oldal újratöltődött); nem jött létre második bejegyzés."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Nincs mentve a nyilvántartásba. Az értékelés megjelenik, de nincs rögzítve."
+      ],
+      "Einordnung": [
+        "Értelmezés"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "Az LkSG 3. § (2) és 5. § (2) bekezdése szempontokat nevez meg, súlyokat nem. Arról, hogy mely megelőző vagy korrekciós intézkedések megfelelőek, a vállalat dönt, nem ez a szám."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritikus: pontszám 75-től vagy súlyosság 85-től. A bővítmény a CAPA_REQUIRED kiváltót rendeli hozzá. Az LkSG 7. § szerinti korrekciós intézkedések megállapított vagy közvetlenül fenyegető jogsértéshez kapcsolódnak, nem pontszámhoz."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Magas: pontszám 50-től 75 alattig. A bővítmény az AUDIT_REQUIRED kiváltót rendeli hozzá."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Közepes: pontszám 25-től 50 alattig. A bővítmény a QUESTIONNAIRE_REQUIRED kiváltót rendeli hozzá."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Alacsony: pontszám 25 alatt. A bővítmény a NO_ACTION kiváltót rendeli hozzá. Az alacsony pontszám nem bizonyítja a kockázatok hiányát; teljes egészében alapértelmezett értékeken is nyugodhat."
+      ],
+      "Unbekannte Stufe.": [
+        "Ismeretlen szint."
+      ],
+      "Jahresübersicht %d": [
+        "Éves áttekintés %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Megszámolja a nyilvántartás tartalmát a(z) %d. naptári évre (UTC). Ez nem az LkSG 10. § (2) szerinti jelentés és nem BAFA-űrlap. Az évet a Beállításokban adhatja meg."
+      ],
+      "JSON öffnen": [
+        "JSON megnyitása"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Nem kerül rögzítésre: belső felelősség (LkSG 4. § (3)), alapelv-nyilatkozat (6. § (2)), megelőző intézkedések (6. §), korrekciós intézkedések (7. §), panaszkezelési eljárás (8. §) és az intézkedések hatékonyságának értékelése."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Az éves áttekintés éve"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Az a naptári év, amelyet az éves áttekintés, a WP-CLI és az év megadása nélküli /bafa-report útvonal számol. Alapértelmezés szerint az előző naptári év."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "A bővítmény törlésekor visszavonhatatlanul távolítsa el az összes táblát és beállítást"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Alapértelmezés szerint a beszállítói nyilvántartás, az értékelési előzmények és az önnyilatkozatok megmaradnak a bővítmény törlésekor (az LkSG 10. § (1) legalább hétéves megőrzést ír elő). Csak akkor engedélyezze, ha minden adatot véglegesen törölni kíván."
+      ],
+      "Speichern": [
+        "Mentés"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Nincs egyéni küszöbérték: a szintek rögzített határokat követnek (kritikus 75 ponttól vagy 85-ös súlyosságtól, magas 50-től, közepes 25-től). A korábbi küszöbérték-mezőt semmi sem olvasta."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Két szint, rögzített súlyok"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Absztrakt szint: 0,40 × ország + 0,40 × ágazat + 0,20 × termék. Konkrét szint: 0,40 × súlyosság + 0,40 × valószínűség + 0,10 × függés + 0,10 × okozati hozzájárulás, mínusz 10 az ISO 14001-ért és 15 az SA 8000-ért. Összesen: 0,30 × absztrakt + 0,70 × konkrét. Az országszintek (DE 15-től BD 85-ig) és ágazati profilok a WM Suite heurisztikái, nem korrupciós index."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "LkSG 3. § (2)"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "A megfelelő eljárás az üzleti tevékenység jellegétől és terjedelmétől, a közvetlen okozóra gyakorolt befolyástól, a várható súlyosságtól, visszafordíthatóságtól és valószínűségtől, valamint az okozati hozzájárulás jellegétől függ. A kalkulátor súlyosságot, valószínűséget, függést és okozati hozzájárulást kér; nem kérdezi az üzleti terjedelmet, befolyást és visszafordíthatóságot."
+      ],
+      "Selbstauskunft": [
+        "Önnyilatkozat"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "A [wm_lksg_supplier_portal] űrlap elmenti a cégnevet, országot, ágazatot, szintet, a bejelölt tanúsítványokat és a megerősített szöveget HMAC-aláírással. A beküldőt nem azonosítja. Az önnyilatkozat „nem értékelt” marad."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Megszámolja a nyilvántartás bejegyzéseit egy naptári évre. Nem az LkSG 10. § (2) szerinti jelentés és nem BAFA-űrlap."
+      ],
+      "Aufbewahrung": [
+        "Megőrzés"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "LkSG 10. § (1): „A dokumentációt elkészítésétől számítva legalább hét évig meg kell őrizni.” Alapértelmezés szerint minden tábla és beállítás megmarad a bővítmény törlésekor, kivéve ha a Beállítások alatt kifejezetten engedélyezték a végleges törlést."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Túl sok beküldés erről a címről. Kérjük, próbálja meg később újra."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "A beszállítót nem sikerült menteni."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Az értékelést nem sikerült naplózni; ezért a beszállító nem került mentésre."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Hiányzik a vállalat neve."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Az ágazat nem szerepel az űrlap lehetőségei között."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "A nyilatkozatot nem erősítették meg."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "A beküldést nem sikerült menteni."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Önnyilatkozatát elküldtük és elmentettük. A kockázatértékelést a megrendelő végzi el."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Megerősítem, hogy telephelyünkön és ellátási láncunkban nem áll fenn a gyermekmunka és a kényszermunka tilalmának (LkSG 2. § (2) 1–3. pont), valamint az LkSG 2. § (3) szerinti környezetvédelmi tilalmaknak a megsértése."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Az év a megengedett tartományon kívül esik."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG nyilvántartási mutatók"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG nyilvántartási mutató"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Megjelenít egy darabszámot az LkSG beszállítói nyilvántartásból."
+      ],
+      "Kennzahl": [
+        "Mutató"
+      ],
+      "Fertigung und Produktion": [
+        "Gyártás és termelés"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronika és félvezetők"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Textil- és ruhaipar"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Nyersanyag-kitermelés és bányászat"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT- és felhőszolgáltatások"
+      ],
+      "Transport und Logistik": [
+        "Szállítás és logisztika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Beszállítói önnyilatkozat"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Önnyilatkozat beszállítóknak"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Adatai e webhely üzemeltetőjéhez kerülnek, és annak beszállítói nyilvántartásában nem értékelt önnyilatkozatként tárolódnak. A kockázatértékelést a megrendelő végzi. Hatósági bejelentés nem történik."
+      ],
+      "Wird übermittelt …": [
+        "Küldés folyamatban …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "A küldés sikertelen. Nyilatkozata NEM került benyújtásra."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "A kapcsolat sikertelen. Nyilatkozata NEM került benyújtásra."
+      ],
+      "Unternehmensname *": [
+        "Vállalat neve *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Székhely szerinti ország (ISO 3166-1 kód, pl. DE) *"
+      ],
+      "Branche *": [
+        "Ágazat *"
+      ],
+      "Lieferantenstufe *": [
+        "Beszállítói szint *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "1. szint (közvetlen szerződéses beszállító)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "2. szint (albeszállító)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "3. vagy további szint (nyersanyag- vagy alkatrészforrás)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Meglévő tanúsítványok"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (környezetközpontú irányítás)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (társadalmi felelősségvállalási szabvány)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (munkahelyi egészségvédelem és biztonság)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Önnyilatkozat beküldése"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Önnyilatkozat beküldve"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Adatait elmentettük. Hivatkozási szám:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "A kockázatértékelést a megrendelő végzi el; az Ön adatai ennek alapjául szolgálnak, és addig nem értékeltként szerepelnek a beszállítói nyilvántartásban. A BAFA felé nem történik bejelentés."
+      ],
+      "Formulareinstellungen": [
+        "Űrlapbeállítások"
+      ],
+      "Einführungstext anzeigen": [
+        "Bevezető szöveg megjelenítése"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Előre kiválasztott beszállítói szint"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG beszállítói önnyilatkozat"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Nyilvános beszállítói önnyilatkozati űrlap kötelező megerősítéssel és HMAC-aláírással."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "beszállítók"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "önnyilatkozat"
+      ],
+      "block keyword\u0004register": [
+        "nyilvántartás"
+      ]
+    }
+  }
+}

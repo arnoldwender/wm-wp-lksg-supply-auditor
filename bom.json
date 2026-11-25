@@ -1,0 +1,35 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-11-18T21:52:08Z",
+    "component": {
+      "type": "application",
+      "name": "wm-lksg-supply-auditor",
+      "version": "1.2.3",
+      "description": "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.",
+      "supplier": {
+        "name": "Arnold Wender",
+        "url": [
+          "https://arnoldwender.com"
+        ]
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "GPL-2.0-or-later"
+          }
+        }
+      ],
+      "purl": "pkg:wordpress/wm-lksg-supply-auditor@1.2.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c0325c69256f7208db60ce148fe590c6ff50e74a0f8e37da4041d3932918b565"
+        }
+      ]
+    }
+  },
+  "components": []
+}

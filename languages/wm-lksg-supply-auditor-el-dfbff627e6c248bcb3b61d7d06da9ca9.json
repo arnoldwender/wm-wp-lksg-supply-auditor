@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "el",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Μητρώο προμηθευτών για τον γερμανικό νόμο δέουσας επιμέλειας στην εφοδιαστική αλυσίδα (LkSG): ευρετική βαθμολογία κινδύνου δύο επιπέδων, δημόσια φόρμα αυτοδήλωσης και ετήσια σύνοψη μητρώου. Δεν παράγει αναφορά BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Γερμανία"
+      ],
+      "Taiwan": [
+        "Ταϊβάν"
+      ],
+      "China": [
+        "Κίνα"
+      ],
+      "Vietnam": [
+        "Βιετνάμ"
+      ],
+      "Indien": [
+        "Ινδία"
+      ],
+      "Bangladesch": [
+        "Μπανγκλαντές"
+      ],
+      "IT, Software und Hosting": [
+        "Πληροφορική, λογισμικό και φιλοξενία"
+      ],
+      "Elektronik und Bauteile": [
+        "Ηλεκτρονικά και εξαρτήματα"
+      ],
+      "Textil und Bekleidung": [
+        "Κλωστοϋφαντουργία και ένδυση"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Εξόρυξη και πρώτες ύλες"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Γεωργία και τρόφιμα"
+      ],
+      "Kritisch": [
+        "Κρίσιμο"
+      ],
+      "Hoch": [
+        "Υψηλό"
+      ],
+      "Mittel": [
+        "Μεσαίο"
+      ],
+      "Niedrig": [
+        "Χαμηλό"
+      ],
+      "Nicht bewertet": [
+        "Μη αξιολογημένο"
+      ],
+      "Unbekannt": [
+        "Άγνωστο"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Ο πίνακας προμηθευτών λείπει"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Απενεργοποιήστε και ενεργοποιήστε ξανά το πρόσθετο μία φορά."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Δεν υπάρχουν ακόμη προμηθευτές στο μητρώο"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Καταχωρίστε προμηθευτές μέσω του υπολογιστή, της διαδρομής POST /suppliers ή της φόρμας αυτοδήλωσης."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d αυτοδήλωση μη αξιολογημένη",
+        "%d αυτοδηλώσεις μη αξιολογημένες"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Η βαθμολογία είναι ευρετική· το μητρώο δεν αντικαθιστά ανάλυση κινδύνου."
+      ],
+      "%d Lieferant im Register": [
+        "%d προμηθευτής στο μητρώο",
+        "%d προμηθευτές στο μητρώο"
+      ],
+      "Lieferanten": [
+        "Προμηθευτές"
+      ],
+      "Hoch oder kritisch": [
+        "Υψηλό ή κρίσιμο"
+      ],
+      "Register öffnen": [
+        "Άνοιγμα μητρώου"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "Προμηθευτές LkSG"
+      ],
+      "Keine Berechtigung.": [
+        "Δεν έχετε δικαίωμα πρόσβασης."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Ο έλεγχος ασφαλείας απέτυχε. Παρακαλούμε επαναφορτώστε τη σελίδα."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Λείπει η επωνυμία του προμηθευτή."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Λείπει η χώρα ή δεν είναι κωδικός ISO 3166-1 alpha-2 (π.χ. DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Η βαθμίδα προμηθευτή πρέπει να είναι 1, 2 ή 3."
+      ],
+      "Register": [
+        "Μητρώο"
+      ],
+      "Rechner": [
+        "Υπολογιστής"
+      ],
+      "Jahresübersicht": [
+        "Ετήσια σύνοψη"
+      ],
+      "Einstellungen": [
+        "Ρυθμίσεις"
+      ],
+      "Begriffe": [
+        "Όροι"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Μητρώο προμηθευτών με ευρετική βαθμολογία κινδύνου, φόρμα αυτοδήλωσης και ετήσια σύνοψη των μετρήσεων του μητρώου."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Μέλος της οικογένειας προσθέτων WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Αυτόνομο"
+      ],
+      "Keine externen Anfragen": [
+        "Χωρίς εξωτερικά αιτήματα"
+      ],
+      "Bereiche": [
+        "Ενότητες"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Δεν προστέθηκαν ενδεικτικοί προμηθευτές: βρίσκονται ήδη στο μητρώο."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Προστέθηκε %d ενδεικτικός προμηθευτής.",
+        "Προστέθηκαν %d ενδεικτικοί προμηθευτές."
+      ],
+      "Einstellungen gespeichert.": [
+        "Οι ρυθμίσεις αποθηκεύτηκαν."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Το έτος δεν αποθηκεύτηκε: εισαγάγετε έτος μεταξύ %1$d και %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Ο πίνακας προμηθευτών λείπει. Απενεργοποιήστε και ενεργοποιήστε ξανά το πρόσθετο μία φορά."
+      ],
+      "Im Register": [
+        "Στο μητρώο"
+      ],
+      "alle Einträge": [
+        "όλες οι εγγραφές"
+      ],
+      "Bewertet": [
+        "Αξιολογημένοι"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "μέσω του υπολογιστή ή POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Αυτοδηλώσεις"
+      ],
+      "aktuelle Stufe": [
+        "τρέχον επίπεδο"
+      ],
+      "Lieferantenregister": [
+        "Μητρώο προμηθευτών"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Οι μη αξιολογημένες αυτοδηλώσεις εμφανίζονται πρώτες. Μια αυτοδήλωση δεν αξιολογείται επί τόπου εδώ: η αξιολόγηση μέσω υπολογιστή ή POST /suppliers δημιουργεί νέα εγγραφή."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Δεν υπάρχουν ακόμη προμηθευτές στο μητρώο."
+      ],
+      "Lieferant": [
+        "Προμηθευτής"
+      ],
+      "Land": [
+        "Χώρα"
+      ],
+      "Branche": [
+        "Κλάδος"
+      ],
+      "Stufe": [
+        "Βαθμίδα"
+      ],
+      "Punktzahl": [
+        "Βαθμολογία"
+      ],
+      "Einstufung": [
+        "Κατάταξη"
+      ],
+      "Status": [
+        "Κατάσταση"
+      ],
+      "Seiten des Registers": [
+        "Σελίδες μητρώου"
+      ],
+      "Seite %1$d von %2$d": [
+        "Σελίδα %1$d από %2$d"
+      ],
+      "Vorherige Seite": [
+        "Προηγούμενη σελίδα"
+      ],
+      "Nächste Seite": [
+        "Επόμενη σελίδα"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Δημιουργία ενδεικτικών προμηθευτών (φανταστικές επωνυμίες, υπολογισμένες βαθμολογίες)"
+      ],
+      "Lieferanten bewerten": [
+        "Αξιολόγηση προμηθευτή"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Αφηρημένο επίπεδο από χώρα και κλάδο, συγκεκριμένο επίπεδο από σοβαρότητα, πιθανότητα, εξάρτηση από τον προμηθευτή και ίδια αιτιώδη συμβολή μείον πιστοποιήσεις. Τα βάρη και τα όρια είναι ευρετικές τιμές της WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Επωνυμία προμηθευτή"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), βαθμίδα χώρας %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (τομέας %2$s, προϊόν %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Βαθμίδα προμηθευτή"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (άμεσος προμηθευτής)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (έμμεσος προμηθευτής)"
+      ],
+      "3 oder weiter": [
+        "3 ή βαθύτερα"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Συγκεκριμένο επίπεδο, 0 έως 100 έκαστο"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Σοβαρότητα 85 ή άνω είναι από μόνη της κρίσιμη."
+      ],
+      "Schwere": [
+        "Σοβαρότητα"
+      ],
+      "Wahrscheinlichkeit": [
+        "Πιθανότητα"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Εξάρτηση από τον προμηθευτή"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Ίδια αιτιώδης συμβολή"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Πιστοποιήσεις προμηθευτή"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (μείον 10 μονάδες στο συγκεκριμένο επίπεδο)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (μείον 15 μονάδες στο συγκεκριμένο επίπεδο)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Αποθήκευση αποτελέσματος στο μητρώο"
+      ],
+      "Punktzahl berechnen": [
+        "Υπολογισμός βαθμολογίας"
+      ],
+      "Ergebnis": [
+        "Αποτέλεσμα"
+      ],
+      "Noch keine Berechnung.": [
+        "Δεν υπάρχει ακόμη υπολογισμός."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Αφηρημένο επίπεδο %1$s (χώρα %2$s, τομέας %3$s, προϊόν %4$s) · συγκεκριμένο επίπεδο %5$s (σοβαρότητα %6$s, πιθανότητα %7$s, εξάρτηση %8$s, αιτιώδης συμβολή %9$s)"
+      ],
+      "Hinweise:": [
+        "Επισημάνσεις:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Αποθηκεύτηκε στο μητρώο μαζί με την αξιολόγηση στο ιστορικό."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Αυτή η φόρμα έχει ήδη αποθηκευτεί (η σελίδα επαναφορτώθηκε)· δεν δημιουργήθηκε δεύτερη εγγραφή."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Δεν αποθηκεύτηκε στο μητρώο. Η αξιολόγηση εμφανίζεται αλλά δεν καταγράφηκε."
+      ],
+      "Einordnung": [
+        "Ερμηνεία"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "Τα § 3 παρ. 2 και § 5 παρ. 2 LkSG αναφέρουν κριτήρια, όχι βάρη. Ποια προληπτικά ή διορθωτικά μέτρα είναι κατάλληλα το αποφασίζει η επιχείρηση, όχι αυτός ο αριθμός."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Κρίσιμο: βαθμολογία από 75 ή σοβαρότητα από 85. Το πρόσθετο αποδίδει το ερέθισμα CAPA_REQUIRED. Τα διορθωτικά μέτρα του § 7 LkSG συνδέονται με διαπιστωμένη ή άμεσα επικείμενη παράβαση, όχι με βαθμολογία."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Υψηλό: βαθμολογία από 50 έως κάτω από 75. Το πρόσθετο αποδίδει το ερέθισμα AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Μεσαίο: βαθμολογία από 25 έως κάτω από 50. Το πρόσθετο αποδίδει το ερέθισμα QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Χαμηλό: βαθμολογία κάτω από 25. Το πρόσθετο αποδίδει το ερέθισμα NO_ACTION. Χαμηλή βαθμολογία δεν αποδεικνύει απουσία κινδύνων· μπορεί να βασίζεται αποκλειστικά σε προεπιλογές."
+      ],
+      "Unbekannte Stufe.": [
+        "Άγνωστο επίπεδο."
+      ],
+      "Jahresübersicht %d": [
+        "Ετήσια σύνοψη %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Καταμετρά το περιεχόμενο του μητρώου για το ημερολογιακό έτος %d (UTC). Δεν αποτελεί έκθεση κατά το § 10 παρ. 2 LkSG ούτε έντυπο BAFA. Ρυθμίστε το έτος στις Ρυθμίσεις."
+      ],
+      "JSON öffnen": [
+        "Άνοιγμα JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Δεν καταγράφονται: η εσωτερική αρμοδιότητα (§ 4 παρ. 3 LkSG), η δήλωση αρχών (§ 6 παρ. 2), τα προληπτικά μέτρα (§ 6), τα διορθωτικά μέτρα (§ 7), η διαδικασία καταγγελιών (§ 8) και η αξιολόγηση αποτελεσματικότητας."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Έτος ετήσιας σύνοψης"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Ημερολογιακό έτος που καταμετρούν η ετήσια σύνοψη, το WP-CLI και η διαδρομή /bafa-report χωρίς παράμετρο έτους. Προεπιλογή: το προηγούμενο ημερολογιακό έτος."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Αμετάκλητη διαγραφή όλων των πινάκων και ρυθμίσεων του προσθέτου κατά τη διαγραφή του προσθέτου"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Από προεπιλογή, το μητρώο προμηθευτών, το ιστορικό αξιολογήσεων και οι αυτοδηλώσεις διατηρούνται κατά τη διαγραφή του προσθέτου (το § 10 παρ. 1 LkSG προβλέπει διατήρηση τουλάχιστον επτά ετών). Ενεργοποιήστε μόνο αν θέλετε οριστική διαγραφή όλων των δεδομένων."
+      ],
+      "Speichern": [
+        "Αποθήκευση"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Δεν υπάρχει προσαρμοσμένο όριο: τα επίπεδα ακολουθούν σταθερά όρια (κρίσιμο από 75 μονάδες ή σοβαρότητα 85, υψηλό από 50, μεσαίο από 25). Το παλαιότερο πεδίο ορίου δεν διαβαζόταν πουθενά."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Δύο επίπεδα, σταθερά βάρη"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Αφηρημένο επίπεδο: 0,40 × χώρα + 0,40 × τομέας + 0,20 × προϊόν. Συγκεκριμένο επίπεδο: 0,40 × σοβαρότητα + 0,40 × πιθανότητα + 0,10 × εξάρτηση + 0,10 × αιτιώδης συμβολή, μείον 10 για ISO 14001 και 15 για SA 8000. Σύνολο: 0,30 × αφηρημένο + 0,70 × συγκεκριμένο. Οι βαθμίδες χωρών (DE 15 έως BD 85) και τα προφίλ κλάδων είναι ευρετικές τιμές της WM Suite, όχι δείκτης διαφθοράς."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 παρ. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Η κατάλληλη δράση καθορίζεται από το είδος και το εύρος δραστηριότητας, τη δυνατότητα επιρροής στον άμεσο υπαίτιο, την αναμενόμενη σοβαρότητα, αναστρεψιμότητα και πιθανότητα παράβασης καθώς και το είδος της αιτιώδους συμβολής. Ο υπολογιστής ζητά σοβαρότητα, πιθανότητα, εξάρτηση και αιτιώδη συμβολή· δεν ζητά εύρος δραστηριότητας, επιρροή ή αναστρεψιμότητα."
+      ],
+      "Selbstauskunft": [
+        "Αυτοδήλωση"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Η φόρμα [wm_lksg_supplier_portal] αποθηκεύει επωνυμία, χώρα, κλάδο, βαθμίδα, επιλεγμένες πιστοποιήσεις και το επιβεβαιωμένο κείμενο με υπογραφή HMAC. Ο αποστολέας δεν ταυτοποιείται. Η αυτοδήλωση παραμένει «μη αξιολογημένη»."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Καταμετρά τις εγγραφές του μητρώου για ένα ημερολογιακό έτος. Δεν αποτελεί έκθεση κατά το § 10 παρ. 2 LkSG ούτε έντυπο BAFA."
+      ],
+      "Aufbewahrung": [
+        "Διατήρηση"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 παρ. 1 LkSG: «Η τεκμηρίωση φυλάσσεται για τουλάχιστον επτά έτη από τη σύνταξή της.» Από προεπιλογή όλοι οι πίνακες και οι ρυθμίσεις διατηρούνται κατά τη διαγραφή του προσθέτου, εκτός εάν ενεργοποιηθεί ρητά στις Ρυθμίσεις."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Πάρα πολλές υποβολές από αυτή τη διεύθυνση. Δοκιμάστε ξανά αργότερα."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Δεν ήταν δυνατή η αποθήκευση του προμηθευτή."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Δεν ήταν δυνατή η καταγραφή της αξιολόγησης· επομένως ο προμηθευτής δεν αποθηκεύτηκε."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Λείπει η επωνυμία της εταιρείας."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Ο κλάδος δεν περιλαμβάνεται στις επιλογές της φόρμας."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Η δήλωση δεν επιβεβαιώθηκε."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Δεν ήταν δυνατή η αποθήκευση της υποβολής."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Η αυτοδήλωσή σας υποβλήθηκε και αποθηκεύτηκε. Η αξιολόγηση κινδύνου διενεργείται από τον εντολέα."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Επιβεβαιώνω ότι στις εγκαταστάσεις μας και στην εφοδιαστική μας αλυσίδα δεν υφίσταται καμία παράβαση των απαγορεύσεων παιδικής και αναγκαστικής εργασίας (§ 2 παρ. 2 αρ. 1 έως 3 LkSG) ούτε των περιβαλλοντικών απαγορεύσεων του § 2 παρ. 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Το έτος βρίσκεται εκτός του επιτρεπόμενου εύρους."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Δείκτες μητρώου LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Δείκτης μητρώου LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Εμφανίζει καταμέτρηση από το μητρώο προμηθευτών LkSG."
+      ],
+      "Kennzahl": [
+        "Δείκτης"
+      ],
+      "Fertigung und Produktion": [
+        "Μεταποίηση και παραγωγή"
+      ],
+      "Elektronik und Halbleiter": [
+        "Ηλεκτρονικά και ημιαγωγοί"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Βιομηχανία κλωστοϋφαντουργίας και ένδυσης"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Εξόρυξη πρώτων υλών και μεταλλεία"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "Υπηρεσίες πληροφορικής και cloud"
+      ],
+      "Transport und Logistik": [
+        "Μεταφορές και εφοδιαστική"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Αυτοδήλωση προμηθευτή"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Αυτοδήλωση για προμηθευτές"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Τα στοιχεία σας αποστέλλονται στον διαχειριστή αυτού του ιστότοπου και αποθηκεύονται στο μητρώο προμηθευτών του ως μη αξιολογημένη αυτοδήλωση. Η αξιολόγηση κινδύνου γίνεται από τον εντολέα. Δεν πραγματοποιείται καμία αναφορά σε αρχή."
+      ],
+      "Wird übermittelt …": [
+        "Υποβολή σε εξέλιξη …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Η υποβολή απέτυχε. Η δήλωσή σας ΔΕΝ κατατέθηκε."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Η σύνδεση απέτυχε. Η δήλωσή σας ΔΕΝ κατατέθηκε."
+      ],
+      "Unternehmensname *": [
+        "Επωνυμία επιχείρησης *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Χώρα εγκατάστασης (κωδικός ISO 3166-1, π.χ. DE) *"
+      ],
+      "Branche *": [
+        "Κλάδος *"
+      ],
+      "Lieferantenstufe *": [
+        "Βαθμίδα προμηθευτή *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Βαθμίδα 1 (άμεσος συμβατικός προμηθευτής)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Βαθμίδα 2 (υποπρομηθευτής)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Βαθμίδα 3 ή βαθύτερα (πηγή πρώτων υλών ή εξαρτημάτων)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Υφιστάμενες πιστοποιήσεις"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (περιβαλλοντική διαχείριση)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (κοινωνικό πρότυπο)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (υγεία και ασφάλεια στην εργασία)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Υποβολή αυτοδήλωσης"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Η αυτοδήλωση υποβλήθηκε"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Τα στοιχεία σας αποθηκεύτηκαν. Αριθμός αναφοράς:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Η αξιολόγηση κινδύνου διενεργείται από τον εντολέα· τα στοιχεία σας αποτελούν τη βάση της και παραμένουν έως τότε μη αξιολογημένα στο μητρώο προμηθευτών. Δεν γίνεται καμία αναφορά στην BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Ρυθμίσεις φόρμας"
+      ],
+      "Einführungstext anzeigen": [
+        "Εμφάνιση εισαγωγικού κειμένου"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Προεπιλεγμένη βαθμίδα προμηθευτή"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "Αυτοδήλωση προμηθευτή LkSG"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Δημόσια φόρμα αυτοδήλωσης προμηθευτών με υποχρεωτική επιβεβαίωση και υπογραφή HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "προμηθευτές"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "αυτοδήλωση"
+      ],
+      "block keyword\u0004register": [
+        "μητρώο"
+      ]
+    }
+  }
+}

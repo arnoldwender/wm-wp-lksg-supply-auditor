@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "bg_BG",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Регистър на доставчици по германския Закон за надлежна проверка във веригата на доставки (LkSG): двустепенна евристична оценка на риска, публичен формуляр за самодеклариране и годишно обобщение на регистъра. Не изготвя доклад за BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Германия"
+      ],
+      "Taiwan": [
+        "Тайван"
+      ],
+      "China": [
+        "Китай"
+      ],
+      "Vietnam": [
+        "Виетнам"
+      ],
+      "Indien": [
+        "Индия"
+      ],
+      "Bangladesch": [
+        "Бангладеш"
+      ],
+      "IT, Software und Hosting": [
+        "ИТ, софтуер и хостинг"
+      ],
+      "Elektronik und Bauteile": [
+        "Електроника и компоненти"
+      ],
+      "Textil und Bekleidung": [
+        "Текстил и облекло"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Минно дело и суровини"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Земеделие и храни"
+      ],
+      "Kritisch": [
+        "Критичен"
+      ],
+      "Hoch": [
+        "Висок"
+      ],
+      "Mittel": [
+        "Среден"
+      ],
+      "Niedrig": [
+        "Нисък"
+      ],
+      "Nicht bewertet": [
+        "Неоценен"
+      ],
+      "Unbekannt": [
+        "Неизвестен"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Липсва таблицата на доставчиците"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Деактивирайте и активирайте разширението еднократно."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Все още няма доставчици в регистъра"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Въведете доставчици чрез калкулатора, POST /suppliers или формуляра за самодеклариране."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d самодекларация не е оценена",
+        "%d самодекларации не са оценени"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Оценката е евристика; регистърът не замества анализ на риска."
+      ],
+      "%d Lieferant im Register": [
+        "%d доставчик в регистъра",
+        "%d доставчици в регистъра"
+      ],
+      "Lieferanten": [
+        "Доставчици"
+      ],
+      "Hoch oder kritisch": [
+        "Висок или критичен"
+      ],
+      "Register öffnen": [
+        "Отваряне на регистъра"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG доставчици"
+      ],
+      "Keine Berechtigung.": [
+        "Нямате права за достъп."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Проверката за сигурност бе неуспешна. Моля, презаредете страницата."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Липсва името на доставчика."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Липсва държава или кодът не е по ISO 3166-1 alpha-2 (например DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Нивото на доставчика трябва да бъде 1, 2 или 3."
+      ],
+      "Register": [
+        "Регистър"
+      ],
+      "Rechner": [
+        "Калкулатор"
+      ],
+      "Jahresübersicht": [
+        "Годишен преглед"
+      ],
+      "Einstellungen": [
+        "Настройки"
+      ],
+      "Begriffe": [
+        "Понятия"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Регистър на доставчици с евристична оценка на риска, формуляр за самодеклариране и годишен преглед на данните в регистъра."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Част от фамилията разширения на WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Самостоятелен"
+      ],
+      "Keine externen Anfragen": [
+        "Без външни заявки"
+      ],
+      "Bereiche": [
+        "Раздели"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Не са добавени примерни доставчици: те вече са в регистъра."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Добавен е %d примерен доставчик.",
+        "Добавени са %d примерни доставчици."
+      ],
+      "Einstellungen gespeichert.": [
+        "Настройките са запазени."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Годината не беше запазена: въведете година между %1$d и %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Липсва таблицата на доставчиците. Деактивирайте и активирайте разширението еднократно."
+      ],
+      "Im Register": [
+        "В регистъра"
+      ],
+      "alle Einträge": [
+        "всички записи"
+      ],
+      "Bewertet": [
+        "Оценени"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "чрез калкулатора или POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Самодекларации"
+      ],
+      "aktuelle Stufe": [
+        "текущо ниво"
+      ],
+      "Lieferantenregister": [
+        "Регистър на доставчици"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Неоценените самодекларации се показват най-отгоре. Тук съществуваща самодекларация не може да се оцени директно: оценката чрез калкулатора или POST /suppliers създава нов запис."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Все още няма доставчици в регистъра."
+      ],
+      "Lieferant": [
+        "Доставчик"
+      ],
+      "Land": [
+        "Държава"
+      ],
+      "Branche": [
+        "Отрасъл"
+      ],
+      "Stufe": [
+        "Ниво"
+      ],
+      "Punktzahl": [
+        "Точки"
+      ],
+      "Einstufung": [
+        "Класификация"
+      ],
+      "Status": [
+        "Статус"
+      ],
+      "Seiten des Registers": [
+        "Страници на регистъра"
+      ],
+      "Seite %1$d von %2$d": [
+        "Страница %1$d от %2$d"
+      ],
+      "Vorherige Seite": [
+        "Предишна страница"
+      ],
+      "Nächste Seite": [
+        "Следваща страница"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Създаване на примерни доставчици (измислени имена, изчислени точки)"
+      ],
+      "Lieferanten bewerten": [
+        "Оценка на доставчик"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Абстрактно ниво от държава и отрасъл, конкретно ниво от тежест, вероятност, зависимост от доставчика и собствен причинно-следствен принос минус сертификати. Теглата и праговете са евристики на WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Име на доставчика"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), ниво на държава %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (сектор %2$s, продукт %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Ниво на доставчика"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (пряк доставчик)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (непряк доставчик)"
+      ],
+      "3 oder weiter": [
+        "3 или следващо"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Конкретно ниво, всяко от 0 до 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Тежест от 85 или повече сама по себе си е критична."
+      ],
+      "Schwere": [
+        "Тежест"
+      ],
+      "Wahrscheinlichkeit": [
+        "Вероятност"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Зависимост от доставчика"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Собствен причинно-следствен принос"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Сертификати на доставчика"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (минус 10 точки на конкретното ниво)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (минус 15 точки на конкретното ниво)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Запазване на резултата в регистъра"
+      ],
+      "Punktzahl berechnen": [
+        "Изчисляване на точки"
+      ],
+      "Ergebnis": [
+        "Резултат"
+      ],
+      "Noch keine Berechnung.": [
+        "Все още няма изчисление."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Абстрактно ниво %1$s (държава %2$s, сектор %3$s, продукт %4$s) · конкретно ниво %5$s (тежест %6$s, вероятност %7$s, зависимост %8$s, принос %9$s)"
+      ],
+      "Hinweise:": [
+        "Индикатори:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Запазено в регистъра с оценка в историята."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Този формуляр вече е запазен (страницата бе презаредена); втори запис не е създаден."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Не е запазено в регистъра. Оценката се показва, но не е записана."
+      ],
+      "Einordnung": [
+        "Тълкуване"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3, ал. 2 и § 5, ал. 2 от LkSG посочват критерии, но не и тегла. Кои превантивни или коригиращи мерки са подходящи, решава предприятието, а не това число."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Критичен: точки от 75 или тежест от 85. Разширението задава тригер CAPA_REQUIRED. Коригиращите мерки по § 7 от LkSG са обвързани с установено или непосредствено предстоящо нарушение, а не с точки."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Висок: точки от 50 до под 75. Разширението задава тригер AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Среден: точки от 25 до под 50. Разширението задава тригер QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Нисък: точки под 25. Разширението задава тригер NO_ACTION. Ниският резултат не доказва липса на рискове; той може да се основава изцяло на стойности по подразбиране."
+      ],
+      "Unbekannte Stufe.": [
+        "Неизвестно ниво."
+      ],
+      "Jahresübersicht %d": [
+        "Годишен преглед %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Преброява съдържанието на регистъра за календарната %d г. (UTC). Това не е доклад по § 10, ал. 2 от LkSG и не е формуляр на BAFA. Годината се задава в Настройки."
+      ],
+      "JSON öffnen": [
+        "Отваряне на JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Не се отчитат: вътрешната отговорност (§ 4, ал. 3 LkSG), декларацията за принципи (§ 6, ал. 2), превантивните мерки (§ 6), коригиращите мерки (§ 7), процедурата за жалби (§ 8) и оценката на ефективността."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Година на годишния преглед"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Календарната година, която годишният преглед, WP-CLI и маршрутът /bafa-report без параметър преброяват. По подразбиране – предходната календарна година."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Необратимо изтриване на всички таблици и настройки на разширението при изтриване на разширението"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "По подразбиране регистърът на доставчиците, историята на оценките и самодекларациите се запазват при изтриване на разширението (§ 10, ал. 1 от LkSG изисква съхранение най-малко седем години). Активирайте само ако всички данни трябва да бъдат окончателно премахнати."
+      ],
+      "Speichern": [
+        "Запазване"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Няма потребителски праг: нивата следват фиксирани граници (критичен от 75 точки или тежест 85, висок от 50, среден от 25). Старото поле за праг не се използваше никъде."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Две нива, фиксирани тегла"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Абстрактно ниво: 0,40 × държава + 0,40 × сектор + 0,20 × продукт. Конкретно ниво: 0,40 × тежест + 0,40 × вероятност + 0,10 × зависимост + 0,10 × принос, минус 10 за ISO 14001 и 15 за SA 8000. Общо: 0,30 × абстрактно + 0,70 × конкретно. Нивата на държавите (DE 15 до BD 85) и секторните профили са евристики на WM Suite, а не корупционен индекс."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3, ал. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Подходящият начин на действие се определя според вида и обхвата на дейността, възможността за влияние върху прекия причинител, очакваната тежест, обратимостта и вероятността на нарушението, както и вида на причинно-следствения принос. Калкулаторът пита за тежест, вероятност, зависимост и принос; не пита за обхват на дейността, влияние или обратимост."
+      ],
+      "Selbstauskunft": [
+        "Самодекларация"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Формулярът [wm_lksg_supplier_portal] съхранява име на фирма, държава, отрасъл, ниво, отметнати сертификати и потвърдения текст с HMAC подпис. Подателят не се идентифицира. Самодекларацията остава „неоценена“."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Преброява записите в регистъра за една календарна година. Не е доклад по § 10, ал. 2 от LkSG и не е формуляр на BAFA."
+      ],
+      "Aufbewahrung": [
+        "Съхранение"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10, ал. 1 LkSG: „Документацията се съхранява най-малко седем години от създаването ѝ.“ По подразбиране всички таблици и настройки се запазват при изтриване на разширението, освен ако окончателното изтриване не е изрично включено в Настройки."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Твърде много подавания от този адрес. Моля, опитайте отново по-късно."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Доставчикът не можа да бъде запазен."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Оценката не можа да бъде записана в историята; затова доставчикът не беше запазен."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Липсва името на дружеството."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Отрасълът не е сред опциите на формуляра."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Декларацията не е потвърдена."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Подаването не можа да бъде запазено."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Вашата самодекларация е изпратена и запазена. Оценката на риска се извършва от възложителя."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Потвърждавам, че в нашето предприятие и в нашата верига на доставки няма нарушение на забраните за детски труд и принудителен труд (§ 2, ал. 2, т. 1 до 3 от LkSG) и на екологичните забрани по § 2, ал. 3 от LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Годината е извън допустимия диапазон."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Показатели на LkSG регистъра"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Показател на LkSG регистъра"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Извежда брой от регистъра на доставчици по LkSG."
+      ],
+      "Kennzahl": [
+        "Показател"
+      ],
+      "Fertigung und Produktion": [
+        "Производство и преработка"
+      ],
+      "Elektronik und Halbleiter": [
+        "Електроника и полупроводници"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Текстилна и шивашка индустрия"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Добив на суровини и минно дело"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "ИТ и облачни услуги"
+      ],
+      "Transport und Logistik": [
+        "Транспорт и логистика"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Самодекларация на доставчик"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Самодекларация за доставчици"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Вашите данни се изпращат до оператора на този уебсайт и се съхраняват в неговия регистър на доставчици като неоценена самодекларация. Оценката на риска се извършва от възложителя. Не се извършва подаване към държавен орган."
+      ],
+      "Wird übermittelt …": [
+        "Изпраща се …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Изпращането е неуспешно. Вашата декларация НЕ беше подадена."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Връзката е неуспешна. Вашата декларация НЕ беше подадена."
+      ],
+      "Unternehmensname *": [
+        "Име на дружеството *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Държава на местонахождение (код по ISO 3166-1, напр. DE) *"
+      ],
+      "Branche *": [
+        "Отрасъл *"
+      ],
+      "Lieferantenstufe *": [
+        "Ниво на доставчика *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Ниво 1 (пряк договорен доставчик)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Ниво 2 (подизпълнител / поддоставчик)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Ниво 3 или следващо (източник на суровини или компоненти)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Налични сертификати"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (управление на околната среда)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (социален стандарт)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (здравословни и безопасни условия на труд)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Изпращане на самодекларация"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Самодекларацията е изпратена"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Вашите данни са запазени. Референтен номер:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Оценката на риска се извършва от възложителя; вашите данни служат като основа за нея и дотогава остават неоценени в регистъра на доставчиците. Не се извършва уведомяване на BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Настройки на формуляра"
+      ],
+      "Einführungstext anzeigen": [
+        "Показване на въвеждащия текст"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Предварително избрано ниво на доставчика"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG самодекларация на доставчик"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Публичен формуляр за самодеклариране на доставчици със задължително потвърждение и HMAC подпис."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "доставчици"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "самодекларация"
+      ],
+      "block keyword\u0004register": [
+        "регистър"
+      ]
+    }
+  }
+}

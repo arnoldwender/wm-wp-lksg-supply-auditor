@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "tr_TR",
+        "plural-forms": "nplurals=2; plural=(n > 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Alman Tedarik Zinciri Özen Yükümlülüğü Yasası (LkSG) için tedarikçi sicili: iki aşamalı sezgisel risk puanı, herkese açık öz beyan formu ve yıllık sicil özeti. BAFA raporu üretmez."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Almanya"
+      ],
+      "Taiwan": [
+        "Tayvan"
+      ],
+      "China": [
+        "Çin"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "Hindistan"
+      ],
+      "Bangladesch": [
+        "Bangladeş"
+      ],
+      "IT, Software und Hosting": [
+        "BT, Yazılım ve Barındırma"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronik ve Bileşenler"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstil ve Hazır Giyim"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Madencilik ve Hammaddeler"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Tarım ve Gıda"
+      ],
+      "Kritisch": [
+        "Kritik"
+      ],
+      "Hoch": [
+        "Yüksek"
+      ],
+      "Mittel": [
+        "Orta"
+      ],
+      "Niedrig": [
+        "Düşük"
+      ],
+      "Nicht bewertet": [
+        "Değerlendirilmedi"
+      ],
+      "Unbekannt": [
+        "Bilinmiyor"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Tedarikçi tablosu eksik"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Eklentiyi bir kez devre dışı bırakıp yeniden etkinleştirin."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Sicilde henüz tedarikçi yok"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Hesaplayıcı, POST /suppliers veya öz beyan formu üzerinden tedarikçi kaydedin."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d öz beyan değerlendirilmedi",
+        "%d öz beyan değerlendirilmedi"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Puan sezgisel bir ölçüttür; sicil bir risk analizinin yerini tutmaz."
+      ],
+      "%d Lieferant im Register": [
+        "Sicilde %d tedarikçi",
+        "Sicilde %d tedarikçi"
+      ],
+      "Lieferanten": [
+        "Tedarikçiler"
+      ],
+      "Hoch oder kritisch": [
+        "Yüksek veya kritik"
+      ],
+      "Register öffnen": [
+        "Sicili aç"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG Tedarikçileri"
+      ],
+      "Keine Berechtigung.": [
+        "Yetkiniz yok."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Güvenlik doğrulaması başarısız oldu. Lütfen sayfayı yenileyin."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Tedarikçi adı eksik."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Ülke eksik veya geçerli bir ISO 3166-1 alpha-2 kodu değil (örneğin DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Tedarikçi kademesi 1, 2 veya 3 olmalıdır."
+      ],
+      "Register": [
+        "Sicil"
+      ],
+      "Rechner": [
+        "Hesaplayıcı"
+      ],
+      "Jahresübersicht": [
+        "Yıllık Özet"
+      ],
+      "Einstellungen": [
+        "Ayarlar"
+      ],
+      "Begriffe": [
+        "Terimler"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Sezgisel risk puanı, öz beyan formu ve sicil sayılarının yıllık özetini içeren tedarikçi sicili."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "WM Suite eklenti ailesinin parçası"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Bağımsız"
+      ],
+      "Keine externen Anfragen": [
+        "Dış istek yok"
+      ],
+      "Bereiche": [
+        "Bölümler"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Örnek tedarikçi eklenmedi: zaten sicilde kayıtlılar."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d örnek tedarikçi eklendi.",
+        "%d örnek tedarikçi eklendi."
+      ],
+      "Einstellungen gespeichert.": [
+        "Ayarlar kaydedildi."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Yıl kaydedilmedi: lütfen %1$d ile %2$d arasında bir yıl girin."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Tedarikçi tablosu eksik. Eklentiyi bir kez devre dışı bırakıp yeniden etkinleştirin."
+      ],
+      "Im Register": [
+        "Sicilde"
+      ],
+      "alle Einträge": [
+        "tüm kayıtlar"
+      ],
+      "Bewertet": [
+        "Değerlendirilen"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "hesaplayıcı veya POST /suppliers ile"
+      ],
+      "Selbstauskünfte": [
+        "Öz beyanlar"
+      ],
+      "aktuelle Stufe": [
+        "mevcut kademe"
+      ],
+      "Lieferantenregister": [
+        "Tedarikçi Sicili"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Değerlendirilmemiş öz beyanlar en üstte yer alır. Mevcut bir öz beyan burada doğrudan değerlendirilemez: hesaplayıcı veya POST /suppliers üzerinden değerlendirme yeni kayıt oluşturur."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Sicilde henüz tedarikçi yok."
+      ],
+      "Lieferant": [
+        "Tedarikçi"
+      ],
+      "Land": [
+        "Ülke"
+      ],
+      "Branche": [
+        "Sektör"
+      ],
+      "Stufe": [
+        "Kademe"
+      ],
+      "Punktzahl": [
+        "Puan"
+      ],
+      "Einstufung": [
+        "Sınıflandırma"
+      ],
+      "Status": [
+        "Durum"
+      ],
+      "Seiten des Registers": [
+        "Sicil sayfaları"
+      ],
+      "Seite %1$d von %2$d": [
+        "Sayfa %1$d / %2$d"
+      ],
+      "Vorherige Seite": [
+        "Önceki sayfa"
+      ],
+      "Nächste Seite": [
+        "Sonraki sayfa"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Örnek tedarikçiler oluştur (kurgusal adlar, hesaplanan puanlar)"
+      ],
+      "Lieferanten bewerten": [
+        "Tedarikçiyi değerlendir"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Ülke ve sektörden soyut kademe; ciddiyet, olasılık, tedarikçiye bağımlılık ve kendi nedensel katkısından sertifikalar düşülerek somut kademe hesaplanır. Ağırlıklar ve sınırlar WM Suite sezgisel değerleridir."
+      ],
+      "Name des Lieferanten": [
+        "Tedarikçi adı"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), ülke kademesi %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektör %2$s, ürün %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Tedarikçi kademesi"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (doğrudan tedarikçi)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (dolaylı tedarikçi)"
+      ],
+      "3 oder weiter": [
+        "3 veya daha alt"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Somut kademe, her biri 0 ile 100 arası"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "85 ve üzeri ciddiyet tek başına kritiktir."
+      ],
+      "Schwere": [
+        "Ciddiyet"
+      ],
+      "Wahrscheinlichkeit": [
+        "Olasılık"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Tedarikçiye bağımlılık"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Kendi nedensel katkısı"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Tedarikçi sertifikaları"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (somut kademede eksi 10 puan)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (somut kademede eksi 15 puan)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Sonucu sicile kaydet"
+      ],
+      "Punktzahl berechnen": [
+        "Puanı hesapla"
+      ],
+      "Ergebnis": [
+        "Sonuç"
+      ],
+      "Noch keine Berechnung.": [
+        "Henüz hesaplama yapılmadı."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Soyut kademe %1$s (ülke %2$s, sektör %3$s, ürün %4$s) · somut kademe %5$s (ciddiyet %6$s, olasılık %7$s, bağımlılık %8$s, nedensel katkı %9$s)"
+      ],
+      "Hinweise:": [
+        "Uyarılar:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Değerlendirme geçmişiyle birlikte sicile kaydedildi."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Bu form zaten kaydedildi (sayfa yeniden yüklendi); ikinci bir kayıt oluşturulmadı."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Sicile kaydedilmedi. Değerlendirme görüntüleniyor ancak kayıt altına alınmadı."
+      ],
+      "Einordnung": [
+        "Değerlendirme"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "LkSG § 3 fıkra 2 ve § 5 fıkra 2 ölçütleri sayar ancak ağırlık belirlemez. Hangi önleyici veya düzeltici tedbirlerin uygun olduğuna bu sayı değil, işletme karar verir."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritik: puan 75 ve üzeri veya ciddiyet 85 ve üzeri. Eklenti CAPA_REQUIRED tetikleyicisini atar. LkSG § 7 kapsamındaki düzeltici önlemler puana değil, tespit edilmiş veya yakın bir ihlale dayanır."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Yüksek: puan 50 ile 75 altı arası. Eklenti AUDIT_REQUIRED tetikleyicisini atar."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Orta: puan 25 ile 50 altı arası. Eklenti QUESTIONNAIRE_REQUIRED tetikleyicisini atar."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Düşük: puan 25 altı. Eklenti NO_ACTION tetikleyicisini atar. Düşük puan risk olmadığını kanıtlamaz; tamamen varsayılan değerlere dayanıyor olabilir."
+      ],
+      "Unbekannte Stufe.": [
+        "Bilinmeyen seviye."
+      ],
+      "Jahresübersicht %d": [
+        "Yıllık Özet %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "%d takvim yılı (UTC) için sicil içeriğini sayar. Bu, LkSG § 10 fıkra 2 kapsamında bir rapor veya BAFA formu değildir. Yılı Ayarlar altından belirleyebilirsiniz."
+      ],
+      "JSON öffnen": [
+        "JSON aç"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Kaydedilmeyenler: iç sorumluluk (LkSG § 4 fıkra 3), ilke beyanı (§ 6 fıkra 2), önleyici tedbirler (§ 6), düzeltici tedbirler (§ 7), şikâyet mekanizması (§ 8) ve tedbirlerin etkinlik değerlendirmesi."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Yıllık özet yılı"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Yıl belirtilmediğinde yıllık özet, WP-CLI ve /bafa-report rotasının saydığı takvim yılı. Varsayılan olarak bir önceki takvim yılı geçerlidir."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Eklenti silindiğinde tüm eklenti tablolarını ve ayarlarını geri alınamaz biçimde kaldır"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Varsayılan olarak eklenti silindiğinde tedarikçi sicili, değerlendirme geçmişi ve öz beyanlar korunur (LkSG § 10 fıkra 1 en az yedi yıl saklama öngörür). Yalnızca tüm verilerin kalıcı olarak silinmesini istiyorsanız etkinleştirin."
+      ],
+      "Speichern": [
+        "Kaydet"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Özel bir eşik değeri yoktur: kademeler sabit sınırları izler (75 puandan veya 85 ciddiyetten itibaren kritik, 50’den itibaren yüksek, 25’ten itibaren orta). Önceki eşik alanı hiçbir yerde okunmuyordu."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "İki aşama, sabit ağırlıklar"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Soyut kademe: 0,40 × ülke + 0,40 × sektör + 0,20 × ürün. Somut kademe: 0,40 × ciddiyet + 0,40 × olasılık + 0,10 × bağımlılık + 0,10 × nedensel katkı, eksi ISO 14001 için 10 ve SA 8000 için 15. Toplam: 0,30 × soyut + 0,70 × somut. Ülke kademeleri (DE 15 ila BD 85) ve sektör profilleri WM Suite sezgisel değerleridir, yolsuzluk endeksi değildir."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "LkSG § 3 fıkra 2"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Uygun hareket tarzı; ticari faaliyetin türü ve kapsamı, doğrudan ihlalci üzerindeki etki gücü, beklenen ciddiyet, geri döndürülebilirlik ve ihlal olasılığı ile nedensel katkının niteliğine göre belirlenir. Hesaplayıcı ciddiyet, olasılık, bağımlılık ve nedensel katkıyı sorar; faaliyet kapsamı, etki gücü ve geri döndürülebilirliği sormaz."
+      ],
+      "Selbstauskunft": [
+        "Öz beyan"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "[wm_lksg_supplier_portal] formu şirket adını, ülkeyi, sektörü, kademeyi, işaretlenen sertifikaları ve onaylanan metni HMAC imzasıyla kaydeder. Gönderen kişinin kimliği doğrulanmaz. Öz beyan “değerlendirilmedi” olarak kalır."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Bir takvim yılı için sicil kayıtlarını sayar. LkSG § 10 fıkra 2 kapsamında bir rapor veya BAFA formu değildir."
+      ],
+      "Aufbewahrung": [
+        "Saklama"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "LkSG § 10 fıkra 1: “Dokümantasyon, oluşturulmasından itibaren en az yedi yıl süreyle saklanmalıdır.” Ayarlar altında kalıcı silme açıkça etkinleştirilmedikçe eklenti silindiğinde tüm tablolar ve ayarlar korunur."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Bu adresten çok fazla gönderim yapıldı. Lütfen daha sonra tekrar deneyin."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Tedarikçi kaydedilemedi."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Değerlendirme geçmişe yazılamadı; bu nedenle tedarikçi kaydedilmedi."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Şirket adı eksik."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Sektör formdaki seçenekler arasında yer almıyor."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Beyan onaylanmadı."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Gönderim kaydedilemedi."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Öz beyanınız iletildi ve kaydedildi. Risk değerlendirmesi işveren tarafından yapılır."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "İşletmemizde ve tedarik zincirimizde çocuk işçiliği ve zorla çalıştırma yasaklarına (LkSG § 2 fıkra 2 bent 1–3) ve LkSG § 2 fıkra 3 kapsamındaki çevreyle ilgili yasaklara aykırı herhangi bir durum bulunmadığını onaylıyorum."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Yıl izin verilen aralığın dışında."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG Sicil Göstergeleri"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG Sicil Göstergesi"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "LkSG tedarikçi sicilinden bir sayı gösterir."
+      ],
+      "Kennzahl": [
+        "Gösterge"
+      ],
+      "Fertigung und Produktion": [
+        "İmalat ve Üretim"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronik ve Yarı İletkenler"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstil ve Giyim Sanayii"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Hammadde Çıkarımı ve Madencilik"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "BT ve Bulut Hizmetleri"
+      ],
+      "Transport und Logistik": [
+        "Taşımacılık ve Lojistik"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Tedarikçi Öz Beyanı"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Tedarikçiler İçin Öz Beyan"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Bilgileriniz bu web sitesinin işletmecisine iletilir ve tedarikçi sicilinde değerlendirilmemiş öz beyan olarak saklanır. Risk değerlendirmesi işveren tarafından yapılır. Herhangi bir resmi makama bildirimde bulunulmaz."
+      ],
+      "Wird übermittelt …": [
+        "Gönderiliyor …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Gönderim başarısız oldu. Beyanınız İLETİLMEDİ."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Bağlantı başarısız oldu. Beyanınız İLETİLMEDİ."
+      ],
+      "Unternehmensname *": [
+        "Şirket adı *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Bulunduğu ülke (ISO 3166-1 kodu, örneğin DE) *"
+      ],
+      "Branche *": [
+        "Sektör *"
+      ],
+      "Lieferantenstufe *": [
+        "Tedarikçi kademesi *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Kademe 1 (doğrudan sözleşmeli tedarikçi)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Kademe 2 (alt tedarikçi)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Kademe 3 veya daha alt (hammadde veya bileşen kaynağı)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Mevcut sertifikalar"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (çevre yönetimi)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (sosyal standart)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (iş sağlığı ve güvenliği yönetimi)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Öz beyanı gönder"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Öz beyan gönderildi"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Bilgileriniz kaydedildi. Referans numarası:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Risk değerlendirmesi işveren tarafından yapılır; bilgileriniz buna temel oluşturur ve o zamana kadar tedarikçi sicilinde değerlendirilmemiş olarak yer alır. BAFA’ya herhangi bir bildirim yapılmaz."
+      ],
+      "Formulareinstellungen": [
+        "Form ayarları"
+      ],
+      "Einführungstext anzeigen": [
+        "Giriş metnini göster"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Önceden seçili tedarikçi kademesi"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG Tedarikçi Öz Beyanı"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Zorunlu onay ve HMAC imzalı, tedarikçilere yönelik herkese açık öz beyan formu."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "tedarikçiler"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "öz beyan"
+      ],
+      "block keyword\u0004register": [
+        "sicil"
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+.git*
+.claude
+.remember
+.wordpress-org
+.license-allowlist.yml
+.editorconfig
+.eslintrc*
+eslint.config.*
+tsconfig.json
+vitest.config.*
+CLAUDE.md
+AGENTS.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+llms.txt
+tests
+docs
+tools
+scripts
+blocks-src
+*.zip
+phpunit.xml
+phpunit.xml.dist
+package*.json
+composer.json
+composer.lock
+node_modules
+vendor
+# added 2026-09-14 (fleet hackaton): keep tooling and caches out of the ZIP
+.DS_Store
+.phpunit.cache
+.phpunit.result.cache
+*.log
+# added 2026-09-15 (reader pass): marketing images with conformity seals and an invented dashboard, no longer shown
+assets/images/
+# repository documents Plugin Check reports as unexpected markdown files in a package
+README.de.md
+README.es.md
+DEVELOPERS.md
+versionen/
+SUPPORT.md
+versionen

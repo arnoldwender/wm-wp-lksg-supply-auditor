@@ -1,0 +1,966 @@
+# Translation of wm-lksg-supply-auditor in ar
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-lksg-supply-auditor 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-lksg-supply-"
+"auditor\n"
+"POT-Creation-Date: 2026-11-21T13:56:28+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:58+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-lksg-supply-"
+"auditor/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-lksg-supply-"
+"auditor/issues>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-lksg-supply-auditor\n"
+
+#. Plugin Name of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "WM LkSG Supply Chain Auditor"
+msgstr "WM LkSG Supply Chain Auditor"
+
+#. Plugin URI of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+
+#. Description of the plugin
+#: wm-lksg-supply-auditor.php
+msgid ""
+"Supplier register for the German supply-chain due-diligence act (LkSG): a "
+"two-level heuristic risk score, a public self-disclosure form and a yearly "
+"summary of the register counts. It does not produce a BAFA report."
+msgstr ""
+"سجل الموردين لقانون العناية الواجبة في سلاسل الإمداد الألماني (LkSG): درجة "
+"مخاطر استدلالية من مستويين، ونموذج إفصاح ذاتي عام، وملخص سنوي لأعداد السجل. "
+"لا يُصدر تقريراً إلى BAFA."
+
+#. Author of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:87
+msgid "Deutschland"
+msgstr "ألمانيا"
+
+#: includes/Admin/AdminDashboard.php:88
+msgid "Taiwan"
+msgstr "تايوان"
+
+#: includes/Admin/AdminDashboard.php:89
+msgid "China"
+msgstr "الصين"
+
+#: includes/Admin/AdminDashboard.php:90
+msgid "Vietnam"
+msgstr "فيتنام"
+
+#: includes/Admin/AdminDashboard.php:91
+msgid "Indien"
+msgstr "الهند"
+
+#: includes/Admin/AdminDashboard.php:92
+msgid "Bangladesch"
+msgstr "بنغلاديش"
+
+#: includes/Admin/AdminDashboard.php:99
+msgid "IT, Software und Hosting"
+msgstr "تقنية المعلومات والبرمجيات والاستضافة"
+
+#: includes/Admin/AdminDashboard.php:100
+msgid "Elektronik und Bauteile"
+msgstr "الإلكترونيات والمكوّنات"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Textil und Bekleidung"
+msgstr "المنسوجات والملابس"
+
+#: includes/Admin/AdminDashboard.php:102
+msgid "Bergbau und Rohstoffe"
+msgstr "التعدين والمواد الخام"
+
+#: includes/Admin/AdminDashboard.php:103
+msgid "Landwirtschaft und Lebensmittel"
+msgstr "الزراعة والأغذية"
+
+#: includes/Admin/AdminDashboard.php:115
+msgid "Kritisch"
+msgstr "حرج"
+
+#: includes/Admin/AdminDashboard.php:116
+msgid "Hoch"
+msgstr "مرتفع"
+
+#: includes/Admin/AdminDashboard.php:117
+msgid "Mittel"
+msgstr "متوسط"
+
+#: includes/Admin/AdminDashboard.php:118
+msgid "Niedrig"
+msgstr "منخفض"
+
+#: includes/Admin/AdminDashboard.php:119 includes/Admin/AdminDashboard.php:180
+#: includes/Admin/AdminDashboard.php:532
+#: includes/Frontend/EcosystemIntegration.php:83
+msgid "Nicht bewertet"
+msgstr "غير مقيَّم"
+
+#: includes/Admin/AdminDashboard.php:120
+msgid "Unbekannt"
+msgstr "غير معروف"
+
+#: includes/Admin/AdminDashboard.php:131
+msgid "WM LkSG Supply Auditor"
+msgstr "WM LkSG Supply Auditor"
+
+#: includes/Admin/AdminDashboard.php:146
+msgid "Die Lieferantentabelle fehlt"
+msgstr "جدول الموردين مفقود"
+
+#: includes/Admin/AdminDashboard.php:147
+msgid "Das Plugin einmal deaktivieren und wieder aktivieren."
+msgstr "عطّل الإضافة ثم أعد تفعيلها مرة واحدة."
+
+#: includes/Admin/AdminDashboard.php:150
+msgid "Noch keine Lieferanten im Register"
+msgstr "لا يوجد موردون في السجل بعد"
+
+#: includes/Admin/AdminDashboard.php:151
+msgid ""
+"Lieferanten über den Rechner, POST /suppliers oder das "
+"Selbstauskunftsformular erfassen."
+msgstr ""
+"سجّل الموردين عبر الحاسبة أو المسار POST /suppliers أو نموذج الإفصاح الذاتي."
+
+#. translators: %d: number of self-disclosures nobody has assessed
+#: includes/Admin/AdminDashboard.php:155
+#, php-format
+msgid "%d Selbstauskunft nicht bewertet"
+msgid_plural "%d Selbstauskünfte nicht bewertet"
+msgstr[0] "%d إفصاح ذاتي غير مقيَّم"
+msgstr[1] "%d إفصاح ذاتي غير مقيَّم"
+msgstr[2] "%d إفصاحان ذاتيان غير مقيَّمين"
+msgstr[3] "%d إفصاحات ذاتية غير مقيَّمة"
+msgstr[4] "%d إفصاحًا ذاتيًا غير مقيَّم"
+msgstr[5] "%d إفصاح ذاتي غير مقيَّم"
+
+#: includes/Admin/AdminDashboard.php:156 includes/Admin/AdminDashboard.php:161
+msgid ""
+"Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse."
+msgstr "الدرجة تقدير استدلالي؛ السجل لا يغني عن تحليل المخاطر."
+
+#. translators: %d: number of suppliers in the register
+#: includes/Admin/AdminDashboard.php:160
+#, php-format
+msgid "%d Lieferant im Register"
+msgid_plural "%d Lieferanten im Register"
+msgstr[0] "%d مورد في السجل"
+msgstr[1] "%d مورد في السجل"
+msgstr[2] "%d موردان في السجل"
+msgstr[3] "%d موردين في السجل"
+msgstr[4] "%d موردًا في السجل"
+msgstr[5] "%d مورد في السجل"
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lieferanten"
+msgstr "الموردون"
+
+#: includes/Admin/AdminDashboard.php:184 includes/Admin/AdminDashboard.php:537
+#: includes/Frontend/EcosystemIntegration.php:87
+msgid "Hoch oder kritisch"
+msgstr "مرتفع أو حرج"
+
+#: includes/Admin/AdminDashboard.php:190
+msgid "Register öffnen"
+msgstr "فتح السجل"
+
+#: includes/Admin/AdminDashboard.php:209 includes/Admin/AdminDashboard.php:442
+msgid "LkSG Supply Chain Auditor"
+msgstr "LkSG Supply Chain Auditor"
+
+#: includes/Admin/AdminDashboard.php:210
+msgid "LkSG-Lieferanten"
+msgstr "موردو LkSG"
+
+#: includes/Admin/AdminDashboard.php:244
+msgid "Keine Berechtigung."
+msgstr "لا توجد صلاحية."
+
+#: includes/Admin/AdminDashboard.php:361
+msgid "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden."
+msgstr "فشل التحقق الأمني. يرجى إعادة تحميل الصفحة."
+
+#: includes/Admin/AdminDashboard.php:378 includes/API/RestController.php:225
+msgid "Der Lieferantenname fehlt."
+msgstr "اسم المورد مفقود."
+
+#: includes/Admin/AdminDashboard.php:380 includes/API/RestController.php:122
+msgid ""
+"Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, "
+"BD)."
+msgstr ""
+"الدولة مفقودة أو ليست رمز ISO 3166-1 alpha-2 صالحاً (مثل DE أو CN أو BD)."
+
+#: includes/Admin/AdminDashboard.php:382 includes/API/RestController.php:231
+#: includes/API/RestController.php:339
+msgid "Die Lieferantenstufe muss 1, 2 oder 3 sein."
+msgstr "يجب أن تكون مرتبة المورد 1 أو 2 أو 3."
+
+#: includes/Admin/AdminDashboard.php:419
+msgid "Register"
+msgstr "السجل"
+
+#: includes/Admin/AdminDashboard.php:420
+msgid "Rechner"
+msgstr "الحاسبة"
+
+#: includes/Admin/AdminDashboard.php:421 includes/Admin/AdminDashboard.php:851
+msgid "Jahresübersicht"
+msgstr "الملخص السنوي"
+
+#: includes/Admin/AdminDashboard.php:422 includes/Admin/AdminDashboard.php:810
+msgid "Einstellungen"
+msgstr "الإعدادات"
+
+#: includes/Admin/AdminDashboard.php:423
+msgid "Begriffe"
+msgstr "المفاهيم"
+
+#: includes/Admin/AdminDashboard.php:443
+msgid ""
+"Lieferantenregister mit heuristischer Risikopunktzahl, "
+"Selbstauskunftsformular und Jahresübersicht der Registerzahlen."
+msgstr ""
+"سجل موردين بدرجة مخاطر استدلالية ونموذج إفصاح ذاتي وملخص سنوي لأرقام السجل."
+
+#: includes/Admin/AdminDashboard.php:447
+msgid "Teil der WM-Suite-Pluginfamilie"
+msgstr "جزء من عائلة إضافات WM Suite"
+
+#: includes/Admin/AdminDashboard.php:449
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:450
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:450
+msgid "Standalone"
+msgstr "مستقل"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Keine externen Anfragen"
+msgstr "دون طلبات خارجية"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche"
+msgstr "الأقسام"
+
+#: includes/Admin/AdminDashboard.php:493
+msgid "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register."
+msgstr "لم تُضف بيانات موردين تجريبية: فهي موجودة بالفعل في السجل."
+
+#. translators: %d: number of demo suppliers added
+#: includes/Admin/AdminDashboard.php:495
+#, php-format
+msgid "%d Beispiel-Lieferant angelegt."
+msgid_plural "%d Beispiel-Lieferanten angelegt."
+msgstr[0] "تمت إضافة %d مورد تجريبي."
+msgstr[1] "تمت إضافة %d مورد تجريبي."
+msgstr[2] "تمت إضافة %d موردين تجريبيين."
+msgstr[3] "تمت إضافة %d موردين تجريبيين."
+msgstr[4] "تمت إضافة %d موردًا تجريبيًا."
+msgstr[5] "تمت إضافة %d مورد تجريبي."
+
+#: includes/Admin/AdminDashboard.php:499
+msgid "Einstellungen gespeichert."
+msgstr "تم حفظ الإعدادات."
+
+#. translators: 1: lowest year, 2: highest year
+#: includes/Admin/AdminDashboard.php:503
+#, php-format
+msgid ""
+"Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und "
+"%2$d eingeben."
+msgstr "لم يتم حفظ السنة: يرجى إدخال سنة بين %1$d و%2$d."
+
+#: includes/Admin/AdminDashboard.php:511 includes/API/RestController.php:181
+msgid ""
+"Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder "
+"aktivieren."
+msgstr "جدول الموردين مفقود. عطّل الإضافة ثم أعد تفعيلها مرة واحدة."
+
+#: includes/Admin/AdminDashboard.php:522
+#: includes/Frontend/EcosystemIntegration.php:75
+msgid "Im Register"
+msgstr "في السجل"
+
+#: includes/Admin/AdminDashboard.php:524
+msgid "alle Einträge"
+msgstr "جميع القيود"
+
+#: includes/Admin/AdminDashboard.php:527
+#: includes/Frontend/EcosystemIntegration.php:79
+msgid "Bewertet"
+msgstr "مقيَّمون"
+
+#: includes/Admin/AdminDashboard.php:529
+msgid "über den Rechner oder POST /suppliers"
+msgstr "عبر الحاسبة أو POST /suppliers"
+
+#: includes/Admin/AdminDashboard.php:534
+msgid "Selbstauskünfte"
+msgstr "الإفصاحات الذاتية"
+
+#: includes/Admin/AdminDashboard.php:539
+msgid "aktuelle Stufe"
+msgstr "المستوى الحالي"
+
+#: includes/Admin/AdminDashboard.php:544
+msgid "Lieferantenregister"
+msgstr "سجل الموردين"
+
+#: includes/Admin/AdminDashboard.php:545
+msgid ""
+"Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich "
+"hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers "
+"legt einen neuen Eintrag an."
+msgstr ""
+"تظهر الإفصاحات الذاتية غير المقيَّمة في الأعلى. لا يمكن تقييم إفصاح ذاتي قائم "
+"في مكانه هنا: التقييم عبر الحاسبة أو POST /suppliers ينشئ قيداً جديداً."
+
+#: includes/Admin/AdminDashboard.php:548
+msgid "Noch keine Lieferanten im Register."
+msgstr "لا يوجد موردون في السجل بعد."
+
+#: includes/Admin/AdminDashboard.php:554
+msgid "Lieferant"
+msgstr "المورد"
+
+#: includes/Admin/AdminDashboard.php:555 includes/Admin/AdminDashboard.php:633
+msgid "Land"
+msgstr "الدولة"
+
+#: includes/Admin/AdminDashboard.php:556 includes/Admin/AdminDashboard.php:647
+msgid "Branche"
+msgstr "القطاع"
+
+#: includes/Admin/AdminDashboard.php:557
+msgid "Stufe"
+msgstr "المرتبة"
+
+#: includes/Admin/AdminDashboard.php:558
+msgid "Punktzahl"
+msgstr "الدرجة"
+
+#: includes/Admin/AdminDashboard.php:559
+msgid "Einstufung"
+msgstr "التصنيف"
+
+#: includes/Admin/AdminDashboard.php:560
+msgid "Status"
+msgstr "الحالة"
+
+#: includes/Admin/AdminDashboard.php:581
+msgid "Seiten des Registers"
+msgstr "صفحات السجل"
+
+#. translators: 1: current page, 2: number of pages
+#: includes/Admin/AdminDashboard.php:586
+#, php-format
+msgid "Seite %1$d von %2$d"
+msgstr "الصفحة %1$d من %2$d"
+
+#: includes/Admin/AdminDashboard.php:590
+msgid "Vorherige Seite"
+msgstr "الصفحة السابقة"
+
+#: includes/Admin/AdminDashboard.php:593
+msgid "Nächste Seite"
+msgstr "الصفحة التالية"
+
+#: includes/Admin/AdminDashboard.php:603
+msgid "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)"
+msgstr "إنشاء موردين تجريبيين (أسماء افتراضية ودرجات محسوبة)"
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Lieferanten bewerten"
+msgstr "تقييم مورد"
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, "
+"Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem "
+"Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind "
+"Heuristiken von WM Suite."
+msgstr ""
+"مستوى مجرد من الدولة والقطاع، ومستوى ملموس من الشدة والاحتمالية والاعتماد "
+"على المورد والمساهمة السببية الذاتية مطروحاً منها الشهادات. الأوزان والحدود "
+"هي تقديرات استدلالية من WM Suite."
+
+#: includes/Admin/AdminDashboard.php:628
+msgid "Name des Lieferanten"
+msgstr "اسم المورد"
+
+#. translators: 1: country name, 2: ISO code, 3: country tier 0-100
+#: includes/Admin/AdminDashboard.php:639
+#, php-format
+msgid "%1$s (%2$s), Länderstufe %3$s"
+msgstr "%1$s (%2$s)، مستوى الدولة %3$s"
+
+#. translators: 1: sector name, 2: sector risk 0-100, 3: product risk 0-100
+#: includes/Admin/AdminDashboard.php:654
+#, php-format
+msgid "%1$s (Sektor %2$s, Produkt %3$s)"
+msgstr "%1$s (القطاع %2$s، المنتج %3$s)"
+
+#: includes/Admin/AdminDashboard.php:662
+msgid "Lieferantenstufe"
+msgstr "مرتبة المورد"
+
+#: includes/Admin/AdminDashboard.php:664
+msgid "1 (unmittelbarer Zulieferer)"
+msgstr "1 (مورد مباشر)"
+
+#: includes/Admin/AdminDashboard.php:665
+msgid "2 (mittelbarer Zulieferer)"
+msgstr "2 (مورد غير مباشر)"
+
+#: includes/Admin/AdminDashboard.php:666
+msgid "3 oder weiter"
+msgstr "3 أو أبعد"
+
+#: includes/Admin/AdminDashboard.php:671
+msgid "Konkrete Stufe, jeweils 0 bis 100"
+msgstr "المستوى الملموس، كل عنصر من 0 إلى 100"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eine Schwere ab 85 ist für sich allein kritisch."
+msgstr "شدة بمقدار 85 أو أكثر تُعد حرجة بحد ذاتها."
+
+#: includes/Admin/AdminDashboard.php:675
+msgid "Schwere"
+msgstr "الشدة"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "Wahrscheinlichkeit"
+msgstr "الاحتمالية"
+
+#: includes/Admin/AdminDashboard.php:683
+msgid "Abhängigkeit vom Lieferanten"
+msgstr "الاعتماد على المورد"
+
+#: includes/Admin/AdminDashboard.php:687
+msgid "Eigener Verursachungsbeitrag"
+msgstr "المساهمة السببية الذاتية"
+
+#: includes/Admin/AdminDashboard.php:694
+msgid "Zertifizierungen des Lieferanten"
+msgstr "شهادات المورد"
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)"
+msgstr "ISO 14001 (ناقص 10 نقاط في المستوى الملموس)"
+
+#: includes/Admin/AdminDashboard.php:696
+msgid "SA 8000 (minus 15 Punkte auf der konkreten Stufe)"
+msgstr "SA 8000 (ناقص 15 نقطة في المستوى الملموس)"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Ergebnis im Register speichern"
+msgstr "حفظ النتيجة في السجل"
+
+#: includes/Admin/AdminDashboard.php:703
+msgid "Punktzahl berechnen"
+msgstr "حساب الدرجة"
+
+#: includes/Admin/AdminDashboard.php:708
+msgid "Ergebnis"
+msgstr "النتيجة"
+
+#: includes/Admin/AdminDashboard.php:710
+msgid "Noch keine Berechnung."
+msgstr "لا يوجد حساب بعد."
+
+#. translators: 1: abstract score, 2: country risk, 3: sector risk, 4: product risk, 5: concrete score, 6: severity, 7: probability, 8: dependency, 9: causality
+#: includes/Admin/AdminDashboard.php:725
+#, php-format
+msgid ""
+"Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe "
+"%5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, "
+"Verursachungsbeitrag %9$s)"
+msgstr ""
+"المستوى المجرد %1$s (الدولة %2$s، القطاع %3$s، المنتج %4$s) · المستوى "
+"الملموس %5$s (الشدة %6$s، الاحتمالية %7$s، الاعتماد %8$s، المساهمة السببية "
+"%9$s)"
+
+#: includes/Admin/AdminDashboard.php:739
+msgid "Hinweise:"
+msgstr "تنبيهات:"
+
+#: includes/Admin/AdminDashboard.php:743
+msgid "Im Register gespeichert, mit der Bewertung im Verlauf."
+msgstr "تم الحفظ في السجل مع تسجيل التقييم في السجل التاريخي."
+
+#: includes/Admin/AdminDashboard.php:745
+msgid ""
+"Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es "
+"wurde kein zweiter Eintrag angelegt."
+msgstr "تم حفظ هذا النموذج مسبقاً (أعيد تحميل الصفحة)؛ لم يُنشأ قيد مكرر."
+
+#: includes/Admin/AdminDashboard.php:747
+msgid ""
+"Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht "
+"festgehalten."
+msgstr "لم يُحفظ في السجل. يظهر التقييم لكنه غير مسجل."
+
+#: includes/Admin/AdminDashboard.php:750
+msgid "Einordnung"
+msgstr "التفسير"
+
+#: includes/Admin/AdminDashboard.php:752
+msgid ""
+"§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche "
+"Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das "
+"Unternehmen, nicht diese Zahl."
+msgstr ""
+"تذكر المادتان § 3 (2) و§ 5 (2) من قانون LkSG المعايير دون تحديد أوزان. وتقرر "
+"المنشأة نفسها التدابير الوقائية أو التصحيحية المناسبة، لا هذا الرقم."
+
+#: includes/Admin/AdminDashboard.php:766
+msgid ""
+"Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den "
+"Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine "
+"festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine "
+"Punktzahl."
+msgstr ""
+"حرج: درجة من 75 أو شدة من 85. تعيّن الإضافة المشغّل CAPA_REQUIRED. وترتبط "
+"التدابير التصحيحية وفق § 7 من LkSG بانتهاك ثابت أو وشيك، لا بدرجة رقمية."
+
+#: includes/Admin/AdminDashboard.php:767
+msgid ""
+"Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser "
+"AUDIT_REQUIRED zu."
+msgstr "مرتفع: درجة من 50 إلى أقل من 75. تعيّن الإضافة المشغّل AUDIT_REQUIRED."
+
+#: includes/Admin/AdminDashboard.php:768
+msgid ""
+"Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser "
+"QUESTIONNAIRE_REQUIRED zu."
+msgstr ""
+"متوسط: درجة من 25 إلى أقل من 50. تعيّن الإضافة المشغّل QUESTIONNAIRE_REQUIRED."
+
+#: includes/Admin/AdminDashboard.php:769
+msgid ""
+"Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION "
+"zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie "
+"kann ganz auf Standardwerten beruhen."
+msgstr ""
+"منخفض: درجة أقل من 25. تعيّن الإضافة المشغّل NO_ACTION. الدرجة المنخفضة لا "
+"تثبت انعدام المخاطر؛ فقد تستند كلياً إلى القيم الافتراضية."
+
+#: includes/Admin/AdminDashboard.php:770
+msgid "Unbekannte Stufe."
+msgstr "مستوى غير معروف."
+
+#. translators: %d: calendar year
+#: includes/Admin/AdminDashboard.php:788
+#, php-format
+msgid "Jahresübersicht %d"
+msgstr "الملخص السنوي %d"
+
+#. translators: %d: calendar year
+#: includes/Admin/AdminDashboard.php:794
+#, php-format
+msgid ""
+"Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein "
+"Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie "
+"unter Einstellungen ein."
+msgstr ""
+"يحصي محتويات السجل للسنة التقويمية %d (UTC). هذا ليس تقريراً بموجب § 10 (2) "
+"من قانون LkSG وليس نموذجاً لجهة BAFA. اضبط السنة من الإعدادات."
+
+#: includes/Admin/AdminDashboard.php:798
+msgid "JSON öffnen"
+msgstr "فتح JSON"
+
+#: includes/Admin/AdminDashboard.php:799
+msgid ""
+"Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die "
+"Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), "
+"Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der "
+"Wirksamkeit der Maßnahmen."
+msgstr ""
+"لا يتم تسجيل: المسؤولية الداخلية (§ 4 (3) LkSG)، وبيان السياسة (§ 6 (2))، "
+"والتدابير الوقائية (§ 6)، والتدابير التصحيحية (§ 7)، وإجراء الشكاوى (§ 8)، "
+"وتقييم فعالية التدابير."
+
+#: includes/Admin/AdminDashboard.php:815
+#: includes/Frontend/EcosystemIntegration.php:91
+msgid "Jahr der Jahresübersicht"
+msgstr "سنة الملخص السنوي"
+
+#: includes/Admin/AdminDashboard.php:816
+msgid ""
+"Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report "
+"ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr."
+msgstr ""
+"السنة التقويمية التي يحصيها الملخص السنوي وWP-CLI والمسار /bafa-report عند "
+"عدم تمرير سنة. القيمة الافتراضية هي السنة التقويمية السابقة."
+
+#: includes/Admin/AdminDashboard.php:822
+msgid ""
+"Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins "
+"unwiderruflich entfernen"
+msgstr "حذف جميع جداول وإعدادات الإضافة نهائياً وبلا رجعة عند حذف الإضافة"
+
+#: includes/Admin/AdminDashboard.php:824
+msgid ""
+"Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und "
+"Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht "
+"eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn "
+"sämtliche Daten endgültig entfernt werden sollen."
+msgstr ""
+"افتراضياً يتم الاحتفاظ بسجل الموردين وسجل التقييمات والإفصاحات الذاتية عند "
+"حذف الإضافة (تنص § 10 (1) من LkSG على حفظ التوثيق سبع سنوات على الأقل). فعّل "
+"هذا الخيار فقط إذا أردت إزالة جميع البيانات نهائياً."
+
+#: includes/Admin/AdminDashboard.php:826
+msgid "Speichern"
+msgstr "حفظ"
+
+#: includes/Admin/AdminDashboard.php:828
+msgid ""
+"Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen "
+"(kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab "
+"25). Das frühere Schwellenwert-Feld wurde von nichts gelesen."
+msgstr ""
+"لا يوجد حد مخصص: المستويات تتبع حدوداً ثابتة (حرج من 75 نقطة أو شدة 85، مرتفع "
+"من 50، متوسط من 25). لم يكن حقل الحد السابق يُقرأ في أي موضع."
+
+#: includes/Admin/AdminDashboard.php:839
+msgid "Zwei Stufen, feste Gewichte"
+msgstr "مستويان وأوزان ثابتة"
+
+#: includes/Admin/AdminDashboard.php:840
+msgid ""
+"Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete "
+"Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + "
+"0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. "
+"Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und "
+"Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex."
+msgstr ""
+"المستوى المجرد: 0.40 × الدولة + 0.40 × القطاع + 0.20 × المنتج. المستوى "
+"الملموس: 0.40 × الشدة + 0.40 × الاحتمالية + 0.10 × الاعتماد + 0.10 × "
+"المساهمة السببية، ناقص 10 لشهادة ISO 14001 و15 لشهادة SA 8000. الإجمالي: "
+"0.30 × مجرد + 0.70 × ملموس. مستويات الدول (DE 15 إلى BD 85) وملفات القطاعات "
+"تقديرات استدلالية من WM Suite وليست مؤشر فساد."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid "§ 3 Abs. 2 LkSG"
+msgstr "§ 3 (2) LkSG"
+
+#: includes/Admin/AdminDashboard.php:844
+msgid ""
+"Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der "
+"Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, "
+"der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der "
+"Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. "
+"Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten "
+"und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, "
+"Einflussvermögen und Umkehrbarkeit fragt er nicht ab."
+msgstr ""
+"يتحدد التصرف الملائم وفق طبيعة ونطاق النشاط التجاري، والقدرة على التأثير في "
+"المتسبب المباشر، والشدة المتوقعة وقابلية المعالجة واحتمالية الانتهاك، وطبيعة "
+"المساهمة السببية. تسأل الحاسبة عن الشدة والاحتمالية والاعتماد والمساهمة "
+"السببية؛ ولا تسأل عن نطاق النشاط أو القدرة على التأثير أو قابلية المعالجة."
+
+#: includes/Admin/AdminDashboard.php:847
+msgid "Selbstauskunft"
+msgstr "الإفصاح الذاتي"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid ""
+"Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, "
+"Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit "
+"einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine "
+"Selbstauskunft bleibt „nicht bewertet“."
+msgstr ""
+"يحفظ النموذج [wm_lksg_supplier_portal] اسم الشركة والدولة والقطاع والمرتبة "
+"والشهادات المحددة والنص المؤكَّد مع توقيع HMAC. لا يتم التحقق من هوية المرسل. "
+"ويبقى الإفصاح الذاتي بحالة «غير مقيَّم»."
+
+#: includes/Admin/AdminDashboard.php:852
+msgid ""
+"Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht "
+"nach § 10 Abs. 2 LkSG und kein BAFA-Formular."
+msgstr ""
+"يحصي قيود السجل لسنة تقويمية واحدة. وهو ليس تقريراً بموجب § 10 (2) من قانون "
+"LkSG وليس نموذجاً لـ BAFA."
+
+#: includes/Admin/AdminDashboard.php:855
+msgid "Aufbewahrung"
+msgstr "الحفظ"
+
+#: includes/Admin/AdminDashboard.php:856
+msgid ""
+"§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens "
+"sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und "
+"Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen "
+"nicht ausdrücklich das endgültige Löschen aktiviert wurde."
+msgstr ""
+"§ 10 (1) LkSG: «يجب الاحتفاظ بالتوثيق لمدة لا تقل عن سبع سنوات من تاريخ "
+"إنشائه.» افتراضياً تبقى جميع الجداول والإعدادات محفوظة عند حذف الإضافة ما لم "
+"يُفعّل الحذف النهائي صراحةً في الإعدادات."
+
+#: includes/API/RestController.php:126
+msgid ""
+"Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später "
+"erneut."
+msgstr "عدد الإرسالات من هذا العنوان كبير جداً. يرجى المحاولة لاحقاً."
+
+#: includes/API/RestController.php:263
+msgid "Der Lieferant konnte nicht gespeichert werden."
+msgstr "تعذر حفظ المورد."
+
+#: includes/API/RestController.php:270
+msgid ""
+"Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb "
+"nicht gespeichert."
+msgstr "تعذر تدوين التقييم في السجل التاريخي؛ لذلك لم يُحفظ المورد."
+
+#: includes/API/RestController.php:330
+msgid "Der Unternehmensname fehlt."
+msgstr "اسم الشركة مفقود."
+
+#: includes/API/RestController.php:336
+msgid "Die Branche ist keine der Auswahlmöglichkeiten des Formulars."
+msgstr "القطاع ليس من بين خيارات النموذج."
+
+#: includes/API/RestController.php:344
+msgid "Die Erklärung wurde nicht bestätigt."
+msgstr "لم يتم تأكيد الإقرار."
+
+#: includes/API/RestController.php:372 includes/API/RestController.php:402
+msgid "Die Übermittlung konnte nicht gespeichert werden."
+msgstr "تعذر حفظ الإرسال."
+
+#: includes/API/RestController.php:414
+msgid ""
+"Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung "
+"nimmt der Auftraggeber vor."
+msgstr ""
+"تم إرسال إفصاحكم الذاتي وحفظه. يتولى الطرف المتعاقد إجراء تقييم المخاطر."
+
+#: includes/API/RestController.php:431
+msgid ""
+"Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein "
+"Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 "
+"Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG "
+"vorliegt."
+msgstr ""
+"أقرّ بعدم وجود أي انتهاك لحظر عمل الأطفال والعمل الجبري (§ 2 (2) البنود 1 إلى "
+"3 من LkSG) أو للمحظورات البيئية الواردة في § 2 (3) من LkSG في منشأتنا أو في "
+"سلسلة إمدادنا."
+
+#: includes/API/RestController.php:499
+msgid "Das Jahr liegt außerhalb des zulässigen Bereichs."
+msgstr "السنة خارج النطاق المسموح به."
+
+#: includes/Frontend/EcosystemIntegration.php:45
+msgid "LkSG-Registerkennzahlen"
+msgstr "مؤشرات سجل LkSG"
+
+#: includes/Frontend/EcosystemIntegration.php:62
+msgid "LkSG-Registerkennzahl"
+msgstr "مؤشر سجل LkSG"
+
+#: includes/Frontend/EcosystemIntegration.php:66
+msgid "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus."
+msgstr "يعرض عدداً من سجل موردي LkSG."
+
+#: includes/Frontend/EcosystemIntegration.php:70
+msgid "Kennzahl"
+msgstr "المؤشر"
+
+#: includes/Frontend/SupplierPortal.php:92
+msgid "Fertigung und Produktion"
+msgstr "التصنيع والإنتاج"
+
+#: includes/Frontend/SupplierPortal.php:93
+msgid "Elektronik und Halbleiter"
+msgstr "الإلكترونيات وأشباه الموصلات"
+
+#: includes/Frontend/SupplierPortal.php:94
+msgid "Textil- und Bekleidungsindustrie"
+msgstr "صناعة المنسوجات والملابس"
+
+#: includes/Frontend/SupplierPortal.php:95
+msgid "Rohstoffgewinnung und Bergbau"
+msgstr "استخراج المواد الخام والتعدين"
+
+#: includes/Frontend/SupplierPortal.php:96
+msgid "IT- und Cloud-Dienstleistungen"
+msgstr "خدمات تقنية المعلومات والسحابة"
+
+#: includes/Frontend/SupplierPortal.php:97
+msgid "Transport und Logistik"
+msgstr "النقل والخدمات اللوجستية"
+
+#: includes/Frontend/SupplierPortal.php:123
+msgid "Lieferanten-Selbstauskunft"
+msgstr "الإفصاح الذاتي للموردين"
+
+#: includes/Frontend/SupplierPortal.php:124
+msgid "Selbstauskunft für Lieferanten"
+msgstr "الإفصاح الذاتي للموردين"
+
+#: includes/Frontend/SupplierPortal.php:126
+msgid ""
+"Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen "
+"Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die "
+"Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde "
+"erfolgt hierdurch nicht."
+msgstr ""
+"تُرسل بياناتكم إلى مشغّل هذا الموقع وتُحفظ في سجل مورديه كإفصاح ذاتي غير مقيَّم. "
+"يتولى الطرف المتعاقد تقييم المخاطر. ولا يترتب على ذلك أي إبلاغ لجهة رسمية."
+
+#: includes/Frontend/SupplierPortal.php:131
+msgid "Wird übermittelt …"
+msgstr "جارٍ الإرسال …"
+
+#: includes/Frontend/SupplierPortal.php:132
+msgid ""
+"Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+msgstr "فشل الإرسال. لم يتم تقديم إقراركم."
+
+#: includes/Frontend/SupplierPortal.php:133
+msgid ""
+"Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+msgstr "فشل الاتصال. لم يتم تقديم إقراركم."
+
+#: includes/Frontend/SupplierPortal.php:136
+msgid "Unternehmensname *"
+msgstr "اسم الشركة *"
+
+#: includes/Frontend/SupplierPortal.php:140
+msgid "Standortland (ISO-3166-1-Code, zum Beispiel DE) *"
+msgstr "دولة المقر (رمز ISO 3166-1، مثل DE) *"
+
+#: includes/Frontend/SupplierPortal.php:147
+msgid "Branche *"
+msgstr "القطاع *"
+
+#: includes/Frontend/SupplierPortal.php:155
+msgid "Lieferantenstufe *"
+msgstr "مرتبة المورد *"
+
+#: includes/Frontend/SupplierPortal.php:157 blocks-src/index.js:37
+msgid "Stufe 1 (unmittelbarer Vertragslieferant)"
+msgstr "المرتبة 1 (مورد تعاقدي مباشر)"
+
+#: includes/Frontend/SupplierPortal.php:158 blocks-src/index.js:41
+msgid "Stufe 2 (Vorlieferant)"
+msgstr "المرتبة 2 (مورد فرعي)"
+
+#: includes/Frontend/SupplierPortal.php:159 blocks-src/index.js:45
+msgid "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)"
+msgstr "المرتبة 3 أو أبعد (مصدر مواد خام أو مكوّنات)"
+
+#: includes/Frontend/SupplierPortal.php:165
+msgid "Vorhandene Zertifizierungen"
+msgstr "الشهادات المتوفرة"
+
+#: includes/Frontend/SupplierPortal.php:166
+msgid "ISO 14001 (Umweltmanagement)"
+msgstr "ISO 14001 (الإدارة البيئية)"
+
+#: includes/Frontend/SupplierPortal.php:167
+msgid "SA8000 (Sozialstandard)"
+msgstr "SA8000 (المعيار الاجتماعي)"
+
+#: includes/Frontend/SupplierPortal.php:168
+msgid "ISO 45001 (Arbeitsschutzmanagement)"
+msgstr "ISO 45001 (إدارة الصحة والسلامة المهنية)"
+
+#: includes/Frontend/SupplierPortal.php:177
+msgid "Selbstauskunft übermitteln"
+msgstr "إرسال الإفصاح الذاتي"
+
+#: includes/Frontend/SupplierPortal.php:181
+msgid "Selbstauskunft übermittelt"
+msgstr "تم إرسال الإفصاح الذاتي"
+
+#: includes/Frontend/SupplierPortal.php:183
+msgid "Ihre Angaben wurden gespeichert. Vorgangsnummer:"
+msgstr "تم حفظ بياناتكم. الرقم المرجعي:"
+
+#: includes/Frontend/SupplierPortal.php:190
+msgid ""
+"Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die "
+"Grundlage dafür und stehen bis dahin als nicht bewertet im "
+"Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht."
+msgstr ""
+"يتولى الطرف المتعاقد تقييم المخاطر؛ وتشكل بياناتكم أساساً لذلك وتظل حتى حينه "
+"غير مقيَّمة في سجل الموردين. ولا يتم أي إبلاغ لجهة BAFA."
+
+#: blocks-src/index.js:22
+msgid "Formulareinstellungen"
+msgstr "إعدادات النموذج"
+
+#: blocks-src/index.js:26
+msgid "Einführungstext anzeigen"
+msgstr "إظهار النص التمهيدي"
+
+#: blocks-src/index.js:32
+msgid "Vorausgewählte Lieferantenstufe"
+msgstr "مرتبة المورد المحددة مسبقاً"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block title"
+msgid "LkSG-Lieferanten-Selbstauskunft"
+msgstr "الإفصاح الذاتي لموردي LkSG"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block description"
+msgid ""
+"Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung "
+"und HMAC-Signatur."
+msgstr "نموذج إفصاح ذاتي عام للموردين مع تأكيد إلزامي وتوقيع HMAC."
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "lksg"
+msgstr "lksg"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "lieferanten"
+msgstr "موردون"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "selbstauskunft"
+msgstr "إفصاح ذاتي"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "register"
+msgstr "سجل"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

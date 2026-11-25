@@ -1,0 +1,567 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "mt_MT",
+        "plural-forms": "nplurals=4; plural=(n==1 ? 0 : n==0 || (n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Reġistru tal-fornituri għall-Att Ġermaniż dwar id-Diliġenza Dovuta fil-Katina tal-Provvista (LkSG): punteġġ ewristiku tar-riskju f’żewġ livelli, formola pubblika ta’ awtodikjarazzjoni u sommarju annwali tar-reġistru. Ma joħloqx rapport tal-BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Il-Ġermanja"
+      ],
+      "Taiwan": [
+        "It-Tajwan"
+      ],
+      "China": [
+        "Iċ-Ċina"
+      ],
+      "Vietnam": [
+        "Il-Vjetnam"
+      ],
+      "Indien": [
+        "L-Indja"
+      ],
+      "Bangladesch": [
+        "Il-Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, softwer u hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Elettronika u komponenti"
+      ],
+      "Textil und Bekleidung": [
+        "Tessuti u ħwejjeġ"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Minjieri u materja prima"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Agrikoltura u ikel"
+      ],
+      "Kritisch": [
+        "Kritiku"
+      ],
+      "Hoch": [
+        "Għoli"
+      ],
+      "Mittel": [
+        "Medju"
+      ],
+      "Niedrig": [
+        "Baxx"
+      ],
+      "Nicht bewertet": [
+        "Mhux evalwat"
+      ],
+      "Unbekannt": [
+        "Mhux magħruf"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "It-tabella tal-fornituri hija nieqsa"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Iddiżattiva u erġa’ attiva l-plugin darba."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Għad m’hemm l-ebda fornitur fir-reġistru"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Irreġistra l-fornituri permezz tal-kalkulatur, POST /suppliers jew il-formola ta’ awtodikjarazzjoni."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d awtodikjarazzjoni mhux evalwata",
+        "%d awtodikjarazzjonijiet mhux evalwati",
+        "%d awtodikjarazzjoni mhux evalwati",
+        "%d awtodikjarazzjoni mhux evalwati"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Il-punteġġ huwa ewristika; ir-reġistru ma jissostitwixxix analiżi tar-riskju."
+      ],
+      "%d Lieferant im Register": [
+        "%d fornitur fir-reġistru",
+        "%d fornituri fir-reġistru",
+        "%d fornitur fir-reġistru",
+        "%d fornitur fir-reġistru"
+      ],
+      "Lieferanten": [
+        "Fornituri"
+      ],
+      "Hoch oder kritisch": [
+        "Għoli jew kritiku"
+      ],
+      "Register öffnen": [
+        "Iftaħ ir-reġistru"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "Fornituri LkSG"
+      ],
+      "Keine Berechtigung.": [
+        "Ebda permess."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Il-kontroll tas-sigurtà falla. Erġa’ għabbi l-paġna."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "L-isem tal-fornitur huwa nieqes."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Il-pajjiż huwa nieqes jew mhuwiex kodiċi ISO 3166-1 alpha-2 (pereżempju DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Il-livell tal-fornitur irid ikun 1, 2 jew 3."
+      ],
+      "Register": [
+        "Reġistru"
+      ],
+      "Rechner": [
+        "Kalkulatur"
+      ],
+      "Jahresübersicht": [
+        "Sommarju annwali"
+      ],
+      "Einstellungen": [
+        "Settings"
+      ],
+      "Begriffe": [
+        "Termini"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Reġistru tal-fornituri b’punteġġ ewristiku tar-riskju, formola ta’ awtodikjarazzjoni u sommarju annwali tan-numri tar-reġistru."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Parti mill-familja ta’ plugins ta’ WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Awtonomu"
+      ],
+      "Keine externen Anfragen": [
+        "Ebda talbiet esterni"
+      ],
+      "Bereiche": [
+        "Taqsimiet"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Ma żdiedu l-ebda fornituri ta’ eżempju: diġà qegħdin fir-reġistru."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Żdied %d fornitur ta’ eżempju.",
+        "Żdiedu %d fornituri ta’ eżempju.",
+        "Żdiedu %d fornitur ta’ eżempju.",
+        "Żdiedu %d fornitur ta’ eżempju."
+      ],
+      "Einstellungen gespeichert.": [
+        "Is-settings ġew salvati."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Is-sena ma ġietx salvata: daħħal sena bejn %1$d u %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "It-tabella tal-fornituri hija nieqsa. Iddiżattiva u erġa’ attiva l-plugin darba."
+      ],
+      "Im Register": [
+        "Fir-reġistru"
+      ],
+      "alle Einträge": [
+        "l-entrati kollha"
+      ],
+      "Bewertet": [
+        "Evalwati"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "permezz tal-kalkulatur jew POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Awtodikjarazzjonijiet"
+      ],
+      "aktuelle Stufe": [
+        "livell attwali"
+      ],
+      "Lieferantenregister": [
+        "Reġistru tal-fornituri"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "L-awtodikjarazzjonijiet mhux evalwati jidhru l-ewwel. Awtodikjarazzjoni eżistenti ma tistax tiġi evalwata f’postha hawnhekk: evalwazzjoni bil-kalkulatur jew POST /suppliers toħloq entrata ġdida."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Għad m’hemm l-ebda fornitur fir-reġistru."
+      ],
+      "Lieferant": [
+        "Fornitur"
+      ],
+      "Land": [
+        "Pajjiż"
+      ],
+      "Branche": [
+        "Settur"
+      ],
+      "Stufe": [
+        "Livell"
+      ],
+      "Punktzahl": [
+        "Punteġġ"
+      ],
+      "Einstufung": [
+        "Klassifikazzjoni"
+      ],
+      "Status": [
+        "Stat"
+      ],
+      "Seiten des Registers": [
+        "Paġni tar-reġistru"
+      ],
+      "Seite %1$d von %2$d": [
+        "Paġna %1$d minn %2$d"
+      ],
+      "Vorherige Seite": [
+        "Il-paġna ta’ qabel"
+      ],
+      "Nächste Seite": [
+        "Il-paġna li jmiss"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Oħloq fornituri ta’ eżempju (ismijiet fittizji, punteġġi kkalkulati)"
+      ],
+      "Lieferanten bewerten": [
+        "Evalwa fornitur"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Livell astratt mill-pajjiż u s-settur, livell konkret mis-severità, il-probabbiltà, id-dipendenza fuq il-fornitur u l-kontribut kawżali proprju nieqes iċ-ċertifikazzjonijiet. Il-piżijiet u l-limiti huma ewristiċi ta’ WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Isem il-fornitur"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), livell tal-pajjiż %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (settur %2$s, prodott %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Livell tal-fornitur"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (fornitur dirett)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (fornitur indirett)"
+      ],
+      "3 oder weiter": [
+        "3 jew aktar ’il bogħod"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Livell konkret, kull wieħed minn 0 sa 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Severità ta’ 85 jew aktar hija kritika waħedha."
+      ],
+      "Schwere": [
+        "Severità"
+      ],
+      "Wahrscheinlichkeit": [
+        "Probabbiltà"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Dipendenza fuq il-fornitur"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Kontribut kawżali proprju"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Ċertifikazzjonijiet tal-fornitur"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (nieqes 10 punti fil-livell konkret)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (nieqes 15-il punt fil-livell konkret)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Issejvja r-riżultat fir-reġistru"
+      ],
+      "Punktzahl berechnen": [
+        "Ikkalkula l-punteġġ"
+      ],
+      "Ergebnis": [
+        "Riżultat"
+      ],
+      "Noch keine Berechnung.": [
+        "Għad m’hemm l-ebda kalkolu."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Livell astratt %1$s (pajjiż %2$s, settur %3$s, prodott %4$s) · livell konkret %5$s (severità %6$s, probabbiltà %7$s, dipendenza %8$s, kontribut kawżali %9$s)"
+      ],
+      "Hinweise:": [
+        "Noti:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Issejvjat fir-reġistru bil-valutazzjoni fl-istorja."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Din il-formola diġà ġiet salvata (il-paġna reġgħet tgħabbiet); ma nħolqitx it-tieni entrata."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Mhux salvat fir-reġistru. Il-valutazzjoni tidher iżda ma ġietx irreġistrata."
+      ],
+      "Einordnung": [
+        "Interpretazzjoni"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 (2) u § 5 (2) LkSG jsemmu kriterji iżda mhux piżijiet. Liema miżuri preventivi jew rimedjali huma xierqa tiddeċidih il-kumpanija, mhux dan in-numru."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritiku: punteġġ minn 75 jew severità minn 85. Il-plugin jassenja CAPA_REQUIRED. Il-miżuri ta’ rimedju taħt § 7 LkSG jintrabtu ma’ ksur stabbilit jew imminenti, mhux ma’ punteġġ."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Għoli: punteġġ minn 50 sa taħt 75. Il-plugin jassenja AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Medju: punteġġ minn 25 sa taħt 50. Il-plugin jassenja QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Baxx: punteġġ taħt 25. Il-plugin jassenja NO_ACTION. Punteġġ baxx ma jippruvax in-nuqqas ta’ riskji; jista’ jiddependi kollu kemm hu fuq valuri predefiniti."
+      ],
+      "Unbekannte Stufe.": [
+        "Livell mhux magħruf."
+      ],
+      "Jahresübersicht %d": [
+        "Sommarju annwali %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Jgħodd dak li fih ir-reġistru għas-sena kalendarja %d (UTC). Dan mhuwiex rapport skont § 10 (2) LkSG u mhuwiex formola tal-BAFA. Issettja s-sena fis-Settings."
+      ],
+      "JSON öffnen": [
+        "Iftaħ JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Ma jiġux irreġistrati: ir-responsabbiltà interna (§ 4 (3) LkSG), id-dikjarazzjoni ta’ politika (§ 6 (2)), il-miżuri preventivi (§ 6), il-miżuri ta’ rimedju (§ 7), il-proċedura tal-ilmenti (§ 8) u l-evalwazzjoni tal-effettività."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Sena tas-sommarju annwali"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Is-sena kalendarja magħduda mis-sommarju annwali, WP-CLI u r-rotta /bafa-report mingħajr sena speċifikata. B’mod predefinit tgħodd is-sena ta’ qabel."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Neħħi b’mod irrevokabbli t-tabelli u s-settings kollha tal-plugin meta jitħassar il-plugin"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "B’mod predefinit, ir-reġistru tal-fornituri, l-istorja tal-valutazzjonijiet u l-awtodikjarazzjonijiet jinżammu meta jitħassar il-plugin (§ 10 (1) LkSG jeħtieġ żamma għal mill-inqas seba’ snin). Ippermetti biss jekk id-dejta kollha għandha titħassar b’mod permanenti."
+      ],
+      "Speichern": [
+        "Issejvja"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "M’hemmx limitu personalizzat: il-livelli jsegwu limiti fissi (kritiku minn 75 punt jew severità 85, għoli minn 50, medju minn 25). Il-qasam tal-limitu preċedenti qatt ma kien jinqara."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Żewġ livelli, piżijiet fissi"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Livell astratt: 0.40 × pajjiż + 0.40 × settur + 0.20 × prodott. Livell konkret: 0.40 × severità + 0.40 × probabbiltà + 0.10 × dipendenza + 0.10 × kontribut kawżali, nieqes 10 għal ISO 14001 u 15 għal SA 8000. Total: 0.30 × astratt + 0.70 × konkret. Il-livelli tal-pajjiżi (DE 15 sa BD 85) u l-profili tas-setturi huma ewristiċi ta’ WM Suite, mhux indiċi ta’ korruzzjoni."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 (2) LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "L-azzjoni xierqa tiġi ddeterminata mit-tip u l-ambitu tan-negozju, il-kapaċità ta’ influwenza fuq min jikkawża r-riskju direttament, is-severità mistennija, ir-riversibbiltà u l-probabbiltà tal-ksur kif ukoll in-natura tal-kontribut kawżali. Il-kalkulatur jistaqsi dwar is-severità, il-probabbiltà, id-dipendenza u l-kontribut kawżali; ma jistaqsix dwar l-ambitu tan-negozju, l-influwenza jew ir-riversibbiltà."
+      ],
+      "Selbstauskunft": [
+        "Awtodikjarazzjoni"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Il-formola [wm_lksg_supplier_portal] taħżen l-isem tal-kumpanija, il-pajjiż, is-settur, il-livell, iċ-ċertifikazzjonijiet immarkati u t-test ikkonfermat b’firma HMAC. Min jibgħat ma jiġix identifikat. L-awtodikjarazzjoni tibqa’ “mhux evalwata”."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Jgħodd l-entrati tar-reġistru għal sena kalendarja waħda. Mhuwiex rapport taħt § 10 (2) LkSG u mhuwiex formola tal-BAFA."
+      ],
+      "Aufbewahrung": [
+        "Żamma"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 (1) LkSG: “Id-dokumentazzjoni għandha tinżamm għal mill-inqas seba’ snin mill-ħolqien tagħha.” B’mod predefinit it-tabelli u s-settings kollha jinżammu meta jitħassar il-plugin sakemm it-tħassir permanenti ma jkunx attivat fis-Settings."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Wisq sottomissjonijiet minn dan l-indirizz. Erġa’ pprova aktar tard."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Il-fornitur ma setax jiġi salvat."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Il-valutazzjoni ma setgħetx tiġi rreġistrata; għalhekk il-fornitur ma ġiex salvat."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "L-isem tal-kumpanija huwa nieqes."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Is-settur mhuwiex wieħed mill-għażliet tal-formola."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Id-dikjarazzjoni ma ġietx ikkonfermata."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Is-sottomissjoni ma setgħetx tiġi salvata."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "L-awtodikjarazzjoni tiegħek intbagħtet u ġiet salvata. Il-valutazzjoni tar-riskju ssir mill-klijent."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Nikkonferma li fis-sit operattiv tagħna u fil-katina tal-provvista tagħna m’hemm l-ebda ksur tal-projbizzjonijiet tax-xogħol tat-tfal u tax-xogħol furzat (§ 2 (2) nri 1 sa 3 LkSG) u tal-projbizzjonijiet ambjentali ta’ § 2 (3) LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Is-sena tinsab barra mill-medda permessa."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Metriċi tar-reġistru LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Metrika tar-reġistru LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Juri għadd mir-reġistru tal-fornituri LkSG."
+      ],
+      "Kennzahl": [
+        "Metrika"
+      ],
+      "Fertigung und Produktion": [
+        "Manifattura u produzzjoni"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elettronika u semikondutturi"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Industrija tat-tessuti u tal-ħwejjeġ"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Estrazzjoni tal-materja prima u minjieri"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "Servizzi tal-IT u tal-cloud"
+      ],
+      "Transport und Logistik": [
+        "Trasport u loġistika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Awtodikjarazzjoni tal-fornitur"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Awtodikjarazzjoni għall-fornituri"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Id-dettalji tiegħek jintbagħtu lill-operatur ta’ dan is-sit web u jinħażnu fir-reġistru tal-fornituri tiegħu bħala awtodikjarazzjoni mhux evalwata. Il-valutazzjoni tar-riskju titwettaq mill-klijent. Ma jsir l-ebda rapport lil xi awtorità."
+      ],
+      "Wird übermittelt …": [
+        "Qed jintbagħat …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "It-trażmissjoni falliet. Id-dikjarazzjoni tiegħek MA ġietx sottomessa."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Il-konnessjoni falliet. Id-dikjarazzjoni tiegħek MA ġietx sottomessa."
+      ],
+      "Unternehmensname *": [
+        "Isem il-kumpanija *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Pajjiż tas-sede (kodiċi ISO 3166-1, pereżempju DE) *"
+      ],
+      "Branche *": [
+        "Settur *"
+      ],
+      "Lieferantenstufe *": [
+        "Livell tal-fornitur *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Livell 1 (fornitur kuntrattwali dirett)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Livell 2 (subfornitur)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Livell 3 jew aktar ’il bogħod (sors ta’ materja prima jew komponenti)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Ċertifikazzjonijiet eżistenti"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (ġestjoni ambjentali)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (standard soċjali)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (saħħa u sigurtà fuq il-post tax-xogħol)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Ibgħat l-awtodikjarazzjoni"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Awtodikjarazzjoni mibgħuta"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Id-dettalji tiegħek ġew salvati. Numru ta’ referenza:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Il-valutazzjoni tar-riskju ssir mill-klijent; id-dettalji tiegħek iservu bħala bażi għaliha u jibqgħu mhux evalwati fir-reġistru tal-fornituri sa dakinhar. Ma jsir l-ebda rapport lill-BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Settings tal-formola"
+      ],
+      "Einführungstext anzeigen": [
+        "Uri t-test introduttorju"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Livell tal-fornitur magħżul minn qabel"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "Awtodikjarazzjoni tal-fornitur LkSG"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Formola pubblika ta’ awtodikjarazzjoni għall-fornituri b’konferma obbligatorja u firma HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "fornituri"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "awtodikjarazzjoni"
+      ],
+      "block keyword\u0004register": [
+        "reġistru"
+      ]
+    }
+  }
+}

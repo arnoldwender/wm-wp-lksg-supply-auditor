@@ -1,0 +1,570 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "ga",
+        "plural-forms": "nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Clár soláthróirí d’Acht Díchill Chuí um Shlabhra Soláthair na Gearmáine (LkSG): scór riosca heorastúil dhá leibhéal, foirm phoiblí féindearbhaithe agus achoimre bhliantúil ar an gclár. Ní chruthaíonn sé tuarascáil BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "An Ghearmáin"
+      ],
+      "Taiwan": [
+        "An Téaváin"
+      ],
+      "China": [
+        "An tSín"
+      ],
+      "Vietnam": [
+        "Vítneam"
+      ],
+      "Indien": [
+        "An India"
+      ],
+      "Bangladesch": [
+        "An Bhanglaidéis"
+      ],
+      "IT, Software und Hosting": [
+        "TF, Bogearraí agus Óstáil"
+      ],
+      "Elektronik und Bauteile": [
+        "Leictreonaic agus Comhpháirteanna"
+      ],
+      "Textil und Bekleidung": [
+        "Teicstílí agus Éadaí"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Mianadóireacht agus Amhábhair"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Talmhaíocht agus Bia"
+      ],
+      "Kritisch": [
+        "Criticiúil"
+      ],
+      "Hoch": [
+        "Ard"
+      ],
+      "Mittel": [
+        "Measartha"
+      ],
+      "Niedrig": [
+        "Íseal"
+      ],
+      "Nicht bewertet": [
+        "Neamhmheasta"
+      ],
+      "Unbekannt": [
+        "Anaithnid"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Tá tábla na soláthróirí ar iarraidh"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Díchumasaigh agus athchumasaigh an breiseán uair amháin."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Níl aon soláthróir sa chlár fós"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Taifead soláthróirí tríd an áireamhán, POST /suppliers nó tríd an bhfoirm féindearbhaithe."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "Féindearbhú gan mheasúnú: %d",
+        "Féindearbhuithe gan mheasúnú: %d",
+        "Féindearbhuithe gan mheasúnú: %d",
+        "Féindearbhuithe gan mheasúnú: %d",
+        "Féindearbhuithe gan mheasúnú: %d"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Is heoristic é an scór; ní chuireann an clár anailís riosca as áit."
+      ],
+      "%d Lieferant im Register": [
+        "Soláthróir sa chlár: %d",
+        "Soláthróirí sa chlár: %d",
+        "Soláthróirí sa chlár: %d",
+        "Soláthróirí sa chlár: %d",
+        "Soláthróirí sa chlár: %d"
+      ],
+      "Lieferanten": [
+        "Soláthróirí"
+      ],
+      "Hoch oder kritisch": [
+        "Ard nó criticiúil"
+      ],
+      "Register öffnen": [
+        "Oscail an clár"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "Soláthróirí LkSG"
+      ],
+      "Keine Berechtigung.": [
+        "Gan cead."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Theip ar an tseiceáil slándála. Athlódáil an leathanach le do thoil."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Tá ainm an tsoláthróra ar iarraidh."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Tá an tír ar iarraidh nó ní cód ISO 3166-1 alfa-2 í (mar shampla DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Ní mór do shraith an tsoláthróra a bheith ina 1, 2 nó 3."
+      ],
+      "Register": [
+        "Clár"
+      ],
+      "Rechner": [
+        "Áireamhán"
+      ],
+      "Jahresübersicht": [
+        "Achoimre Bhliantúil"
+      ],
+      "Einstellungen": [
+        "Socruithe"
+      ],
+      "Begriffe": [
+        "Téarmaí"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Clár soláthróirí le scór riosca heorastúil, foirm féindearbhaithe agus achoimre bhliantúil ar líon an chláir."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Cuid de theaghlach breiseán WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Neamhspleách"
+      ],
+      "Keine externen Anfragen": [
+        "Gan iarratais sheachtracha"
+      ],
+      "Bereiche": [
+        "Rannóga"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Níor cuireadh aon soláthróir samplach leis: tá siad sa chlár cheana féin."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Soláthróir samplach curtha leis: %d.",
+        "Soláthróirí samplacha curtha leis: %d.",
+        "Soláthróirí samplacha curtha leis: %d.",
+        "Soláthróirí samplacha curtha leis: %d.",
+        "Soláthróirí samplacha curtha leis: %d."
+      ],
+      "Einstellungen gespeichert.": [
+        "Socruithe sábháilte."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Níor sábháladh an bhliain: cuir isteach bliain idir %1$d agus %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Tá tábla na soláthróirí ar iarraidh. Díchumasaigh agus athchumasaigh an breiseán uair amháin."
+      ],
+      "Im Register": [
+        "Sa chlár"
+      ],
+      "alle Einträge": [
+        "gach iontráil"
+      ],
+      "Bewertet": [
+        "Measta"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "tríd an áireamhán nó POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Féindearbhuithe"
+      ],
+      "aktuelle Stufe": [
+        "leibhéal reatha"
+      ],
+      "Lieferantenregister": [
+        "Clár Soláthróirí"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Taispeántar féindearbhuithe neamhmheasta ar bharr. Ní féidir féindearbhú atá ann cheana a mheasúnú san áit anseo: cruthaíonn measúnú tríd an áireamhán nó POST /suppliers iontráil nua."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Níl aon soláthróir sa chlár fós."
+      ],
+      "Lieferant": [
+        "Soláthróir"
+      ],
+      "Land": [
+        "Tír"
+      ],
+      "Branche": [
+        "Earnáil"
+      ],
+      "Stufe": [
+        "Sraith"
+      ],
+      "Punktzahl": [
+        "Scór"
+      ],
+      "Einstufung": [
+        "Aicmiú"
+      ],
+      "Status": [
+        "Stádas"
+      ],
+      "Seiten des Registers": [
+        "Leathanaigh an chláir"
+      ],
+      "Seite %1$d von %2$d": [
+        "Leathanach %1$d as %2$d"
+      ],
+      "Vorherige Seite": [
+        "An leathanach roimhe"
+      ],
+      "Nächste Seite": [
+        "An chéad leathanach eile"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Cruthaigh soláthróirí samplacha (ainmneacha cumtha, scóir ríofa)"
+      ],
+      "Lieferanten bewerten": [
+        "Measúnaigh soláthróir"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Leibhéal teibí ón tír agus ón earnáil, leibhéal nithiúil ó dhéine, dóchúlacht, spleáchas ar an soláthróir agus rannchuidiú cúisíoch féin lúide deimhniúcháin. Is heoristicí de chuid WM Suite iad na meáchain agus na tairseacha."
+      ],
+      "Name des Lieferanten": [
+        "Ainm an tsoláthróra"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), sraith tíre %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (earnáil %2$s, táirge %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Sraith an tsoláthróra"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (soláthróir díreach)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (soláthróir indíreach)"
+      ],
+      "3 oder weiter": [
+        "3 nó níos faide"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Leibhéal nithiúil, gach ceann ó 0 go 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Tá déine 85 nó níos mó criticiúil inti féin."
+      ],
+      "Schwere": [
+        "Déine"
+      ],
+      "Wahrscheinlichkeit": [
+        "Dóchúlacht"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Spleáchas ar an soláthróir"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Rannchuidiú cúisíoch féin"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Deimhniúcháin an tsoláthróra"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (lúide 10 bpointe ar an leibhéal nithiúil)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (lúide 15 phointe ar an leibhéal nithiúil)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Sábháil an toradh sa chlár"
+      ],
+      "Punktzahl berechnen": [
+        "Ríomh an scór"
+      ],
+      "Ergebnis": [
+        "Toradh"
+      ],
+      "Noch keine Berechnung.": [
+        "Gan aon ríomh fós."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Leibhéal teibí %1$s (tír %2$s, earnáil %3$s, táirge %4$s) · leibhéal nithiúil %5$s (déine %6$s, dóchúlacht %7$s, spleáchas %8$s, rannchuidiú cúisíoch %9$s)"
+      ],
+      "Hinweise:": [
+        "Bratacha:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Sábháilte sa chlár leis an measúnú sa stair."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Sábháladh an fhoirm seo cheana féin (athlódáladh an leathanach); níor cruthaíodh dara hiontráil."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Níor sábháladh sa chlár é. Taispeántar an measúnú ach níor taifeadadh é."
+      ],
+      "Einordnung": [
+        "Míniú"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "Ainmníonn Alt 3 (2) agus Alt 5 (2) LkSG critéir ach ní meáchain. Is í an chuideachta a chinneann cé na bearta coisctheacha nó ceartaitheacha atá iomchuí, ní an uimhir seo."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Criticiúil: scór ó 75 nó déine ó 85. Sannann an breiseán an truicear CAPA_REQUIRED. Baineann bearta ceartaitheacha faoi Alt 7 LkSG le sárú aitheanta nó láithreach, ní le scór."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Ard: scór ó 50 go dtí faoi bhun 75. Sannann an breiseán an truicear AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Measartha: scór ó 25 go dtí faoi bhun 50. Sannann an breiseán an truicear QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Íseal: scór faoi bhun 25. Sannann an breiseán an truicear NO_ACTION. Ní chruthaíonn scór íseal nach bhfuil rioscaí ann; d’fhéadfadh sé a bheith bunaithe go hiomlán ar luachanna réamhshocraithe."
+      ],
+      "Unbekannte Stufe.": [
+        "Leibhéal anaithnid."
+      ],
+      "Jahresübersicht %d": [
+        "Achoimre Bhliantúil %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Áiríonn sé a bhfuil sa chlár don bhliain féilire %d (UTC). Ní tuarascáil faoi Alt 10 (2) LkSG é seo ná foirm BAFA. Socraigh an bhliain faoi Socruithe."
+      ],
+      "JSON öffnen": [
+        "Oscail JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Ní thaifeadtar: freagracht inmheánach (Alt 4 (3) LkSG), ráiteas beartais (Alt 6 (2)), bearta coisctheacha (Alt 6), bearta ceartaitheacha (Alt 7), nós imeachta gearán (Alt 8) ná athbhreithniú éifeachtachta."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Bliain na hachoimre bliantúla"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "An bhliain féilire a áiríonn an achoimre bhliantúil, WP-CLI agus an bealach /bafa-report nuair nach dtugtar bliain. Is í an bhliain féilire roimhe sin an réamhshocrú."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Bain gach tábla agus socrú breiseáin go do-aisiompaithe nuair a scriostar an breiseán"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "De réir réamhshocraithe, coinnítear clár na soláthróirí, stair na measúnuithe agus na féindearbhuithe nuair a scriostar an breiseán (éilíonn Alt 10 (1) LkSG coinneáil ar feadh seacht mbliana ar a laghad). Ná cumasaigh ach más mian leat na sonraí go léir a scriosadh go buan."
+      ],
+      "Speichern": [
+        "Sábháil"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Níl aon tairseach shaincheaptha ann: leanann na leibhéil teorainneacha socra (criticiúil ó 75 phointe nó déine 85, ard ó 50, measartha ó 25). Níor léadh an seanchló tairsí in aon áit."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Dhá leibhéal, meáchain shocra"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Leibhéal teibí: 0.40 × tír + 0.40 × earnáil + 0.20 × táirge. Leibhéal nithiúil: 0.40 × déine + 0.40 × dóchúlacht + 0.10 × spleáchas + 0.10 × rannchuidiú cúisíoch, lúide 10 do ISO 14001 agus 15 do SA 8000. Iomlán: 0.30 × teibí + 0.70 × nithiúil. Is heoristicí de chuid WM Suite iad sraitheanna tíre (DE 15 go BD 85) agus próifílí earnála, ní innéacs éillithe."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "Alt 3 (2) LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Cinntear gníomh iomchuí de réir chineál agus raon feidhme na gníomhaíochta gnó, cumas tionchair ar an déantóir díreach, déine ionchais, inchúlaitheacht agus dóchúlacht an tsáraithe mar aon le cineál an rannchuidithe chúisíoch. Fiafraíonn an t-áireamhán déine, dóchúlacht, spleáchas agus rannchuidiú cúisíoch; ní fhiafraíonn sé raon gnó, tionchar ná inchúlaitheacht."
+      ],
+      "Selbstauskunft": [
+        "Féindearbhú"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Sábhálann foirm [wm_lksg_supplier_portal] ainm na cuideachta, tír, earnáil, sraith, deimhniúcháin marcáilte agus an téacs deimhnithe le síniú HMAC. Ní shainaithnítear an seoltóir. Fanann féindearbhú “neamhmheasta”."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Áiríonn sé iontrálacha an chláir do bhliain féilire amháin. Ní tuarascáil faoi Alt 10 (2) LkSG é ná foirm BAFA."
+      ],
+      "Aufbewahrung": [
+        "Coinneáil"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "Alt 10 (1) LkSG: “Ní mór doiciméadú a choinneáil ar feadh seacht mbliana ar a laghad ón uair a chruthaítear é.” De réir réamhshocraithe coinnítear gach tábla agus socrú nuair a scriostar an breiseán mura gcumasaítear scriosadh buan faoi Socruithe."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "An iomarca aighneachtaí ón seoladh seo. Bain triail eile as níos déanaí."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Níorbh fhéidir an soláthróir a shábháil."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Níorbh fhéidir an measúnú a logáil; dá bhrí sin níor sábháladh an soláthróir."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Tá ainm na cuideachta ar iarraidh."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Níl an earnáil i measc roghanna na foirme."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Níor deimhníodh an dearbhú."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Níorbh fhéidir an aighneacht a shábháil."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Cuireadh isteach agus sábháladh do fhéindearbhú. Déanann an conraitheoir an measúnú riosca."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Deimhním nach bhfuil aon sárú ar na toirmisc ar shaothar leanaí agus ar shaothar éigeantais (Alt 2 (2) Uimh. 1 go 3 LkSG) ná ar thoirmisc chomhshaoil Alt 2 (3) LkSG inár n-ionad oibre ná inár slabhra soláthair."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Tá an bhliain lasmuigh den raon ceadaithe."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Méadrachtaí Chláir LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Méadracht Chláir LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Aschuireann sé líon ó chlár soláthróirí LkSG."
+      ],
+      "Kennzahl": [
+        "Méadracht"
+      ],
+      "Fertigung und Produktion": [
+        "Déantúsaíocht agus Táirgeadh"
+      ],
+      "Elektronik und Halbleiter": [
+        "Leictreonaic agus Leathsheoltóirí"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tionscal Teicstílí agus Éadaí"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Eastóscadh Amhábhar agus Mianadóireacht"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "Seirbhísí TF agus Néil"
+      ],
+      "Transport und Logistik": [
+        "Iompar agus Lóistíocht"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Féindearbhú Soláthróra"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Féindearbhú do Sholáthróirí"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Seoltar do chuid sonraí chuig oibreoir an tsuímh ghréasáin seo agus stóráiltear iad ina chlár soláthróirí mar fhéindearbhú neamhmheasta. Déanann an conraitheoir an measúnú riosca. Ní dhéantar aon tuairisciú d’údarás ar bith."
+      ],
+      "Wird übermittelt …": [
+        "Á sheoladh …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Theip ar an aighneacht. NÍOR cuireadh do dhearbhú isteach."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Theip ar an nasc. NÍOR cuireadh do dhearbhú isteach."
+      ],
+      "Unternehmensname *": [
+        "Ainm na cuideachta *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Tír lonnaithe (cód ISO 3166-1, mar shampla DE) *"
+      ],
+      "Branche *": [
+        "Earnáil *"
+      ],
+      "Lieferantenstufe *": [
+        "Sraith an tsoláthróra *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Sraith 1 (soláthróir díreach conarthach)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Sraith 2 (foshonraí / fosholáthróir)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Sraith 3 nó níos faide (foinse amhábhar nó comhpháirteanna)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Deimhniúcháin atá ann"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (bainistíocht chomhshaoil)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (caighdeán sóisialta)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (sláinte agus sábháilteacht ceirde)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Cuir féindearbhú isteach"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Féindearbhú curtha isteach"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Sábháladh do chuid sonraí. Uimhir thagartha:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Déanann an conraitheoir an measúnú riosca; is iad do chuid sonraí an bunús leis sin agus fanann siad neamhmheasta i gclár na soláthróirí go dtí sin. Ní dhéantar aon tuairisciú chuig BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Socruithe foirme"
+      ],
+      "Einführungstext anzeigen": [
+        "Taispeáin téacs réamhrá"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Sraith sholáthróra réamhroghnaithe"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "Féindearbhú Soláthróra LkSG"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Foirm phoiblí féindearbhaithe do sholáthróirí le deimhniú éigeantach agus síniú HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "soláthróirí"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "féindearbhú"
+      ],
+      "block keyword\u0004register": [
+        "clár"
+      ]
+    }
+  }
+}

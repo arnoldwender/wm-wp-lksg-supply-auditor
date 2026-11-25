@@ -1,0 +1,45 @@
+/* humanstxt.org */
+/* The humans responsible & technology colophon */
+
+# TEAM
+
+    Author: Arnold Wender
+
+    Built with: an agentic workflow (AI coding agents)
+
+# THANKS
+
+    To My Family -- For unconditional love, strength & continuous inspiration
+    WordPress Community & Core Contributors -- For democratizing publishing and powering the open web
+    Open Source Community -- For making software accessible to everyone
+
+# TECHNOLOGY COLOPHON
+
+    ## Architecture & Core
+    WordPress 6.4+, tested up to 7.1
+    PHP 8.2+ (strict types)
+    MySQL (five plugin tables: suppliers, assessment history, self-disclosures, and two unused tables)
+    WP-CLI command and REST routes
+
+    ## Admin & Front End
+    German admin screen on the WM Suite family sheets (self-hosted, no CDN)
+    Self-disclosure form with its own stylesheet and script (no inline script)
+
+    ## Quality
+    Standalone test suite on SQLite with a mutation check, PHPUnit unit tests, a rolled-back runtime check in WordPress
+
+# SITE & PROJECT
+
+    Plugin: wm-lksg-supply-auditor
+    Stack: WordPress Enterprise Extension
+    Standards: no outbound requests, no runtime dependency on other plugins
+
+# CONTACT
+
+    Author Website: https://arnoldwender.com
+    Repository: https://github.com/arnoldwender/wm-wp-lksg-supply-auditor
+    Support: Zero support — reproducible bugs on GitHub Issues only (SUPPORT.md)
+
+# DEDICATION
+
+    Dedicated to my family with eternal love and gratitude.

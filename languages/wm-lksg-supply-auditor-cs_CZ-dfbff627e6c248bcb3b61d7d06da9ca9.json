@@ -1,0 +1,564 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "cs_CZ",
+        "plural-forms": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Registr dodavatelů pro německý zákon o náležité péči v dodavatelském řetězci (LkSG): dvouúrovňové heuristické skóre rizika, veřejný formulář čestného prohlášení a roční přehled registru. Nevytváří zprávu BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Německo"
+      ],
+      "Taiwan": [
+        "Tchaj-wan"
+      ],
+      "China": [
+        "Čína"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "Indie"
+      ],
+      "Bangladesch": [
+        "Bangladéš"
+      ],
+      "IT, Software und Hosting": [
+        "IT, software a hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronika a součástky"
+      ],
+      "Textil und Bekleidung": [
+        "Textil a oděvnictví"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Těžba a suroviny"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Zemědělství a potravinářství"
+      ],
+      "Kritisch": [
+        "Kritické"
+      ],
+      "Hoch": [
+        "Vysoké"
+      ],
+      "Mittel": [
+        "Střední"
+      ],
+      "Niedrig": [
+        "Nízké"
+      ],
+      "Nicht bewertet": [
+        "Nehodnoceno"
+      ],
+      "Unbekannt": [
+        "Neznámé"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Chybí tabulka dodavatelů"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Plugin jednou deaktivujte a znovu aktivujte."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "V registru zatím nejsou žádní dodavatelé"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Zadejte dodavatele pomocí kalkulačky, POST /suppliers nebo formuláře čestného prohlášení."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d čestné prohlášení nehodnoceno",
+        "%d čestná prohlášení nehodnocena",
+        "%d čestných prohlášení nehodnoceno"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Skóre je heuristika; registr nenahrazuje analýzu rizik."
+      ],
+      "%d Lieferant im Register": [
+        "%d dodavatel v registru",
+        "%d dodavatelé v registru",
+        "%d dodavatelů v registru"
+      ],
+      "Lieferanten": [
+        "Dodavatelé"
+      ],
+      "Hoch oder kritisch": [
+        "Vysoké nebo kritické"
+      ],
+      "Register öffnen": [
+        "Otevřít registr"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG dodavatelé"
+      ],
+      "Keine Berechtigung.": [
+        "Nedostatečná oprávnění."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Bezpečnostní kontrola selhala. Načtěte stránku znovu."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Chybí název dodavatele."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Chybí země nebo nejde o kód ISO 3166-1 alpha-2 (například DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Úroveň dodavatele musí být 1, 2 nebo 3."
+      ],
+      "Register": [
+        "Registr"
+      ],
+      "Rechner": [
+        "Kalkulačka"
+      ],
+      "Jahresübersicht": [
+        "Roční přehled"
+      ],
+      "Einstellungen": [
+        "Nastavení"
+      ],
+      "Begriffe": [
+        "Pojmy"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Registr dodavatelů s heuristickým skóre rizika, formulářem čestného prohlášení a ročním přehledem počtů v registru."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Součást rodiny pluginů WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samostatný"
+      ],
+      "Keine externen Anfragen": [
+        "Žádné externí požadavky"
+      ],
+      "Bereiche": [
+        "Sekce"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Nebyli přidáni žádní ukázkoví dodavatelé: již jsou v registru."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "Přidán %d ukázkový dodavatel.",
+        "Přidáni %d ukázkoví dodavatelé.",
+        "Přidáno %d ukázkových dodavatelů."
+      ],
+      "Einstellungen gespeichert.": [
+        "Nastavení uloženo."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Rok nebyl uložen: zadejte rok mezi %1$d a %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Chybí tabulka dodavatelů. Plugin jednou deaktivujte a znovu aktivujte."
+      ],
+      "Im Register": [
+        "V registru"
+      ],
+      "alle Einträge": [
+        "všechny záznamy"
+      ],
+      "Bewertet": [
+        "Hodnoceno"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "přes kalkulačku nebo POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Čestná prohlášení"
+      ],
+      "aktuelle Stufe": [
+        "aktuální úroveň"
+      ],
+      "Lieferantenregister": [
+        "Registr dodavatelů"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Nehodnocená čestná prohlášení jsou nahoře. Existující prohlášení zde nelze přímo vyhodnotit: vyhodnocení přes kalkulačku nebo POST /suppliers vytvoří nový záznam."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "V registru zatím nejsou žádní dodavatelé."
+      ],
+      "Lieferant": [
+        "Dodavatel"
+      ],
+      "Land": [
+        "Země"
+      ],
+      "Branche": [
+        "Odvětví"
+      ],
+      "Stufe": [
+        "Úroveň"
+      ],
+      "Punktzahl": [
+        "Skóre"
+      ],
+      "Einstufung": [
+        "Klasifikace"
+      ],
+      "Status": [
+        "Stav"
+      ],
+      "Seiten des Registers": [
+        "Stránky registru"
+      ],
+      "Seite %1$d von %2$d": [
+        "Stránka %1$d z %2$d"
+      ],
+      "Vorherige Seite": [
+        "Předchozí stránka"
+      ],
+      "Nächste Seite": [
+        "Další stránka"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Vytvořit ukázkové dodavatele (smyšlené názvy, vypočtené skóre)"
+      ],
+      "Lieferanten bewerten": [
+        "Vyhodnotit dodavatele"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstraktní úroveň ze země a odvětví, konkrétní úroveň ze závažnosti, pravděpodobnosti, závislosti na dodavateli a vlastního příčinného podílu mínus certifikace. Váhy a hranice jsou heuristiky WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Název dodavatele"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), pásmo země %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektor %2$s, produkt %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Úroveň dodavatele"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (přímý dodavatel)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (nepřímý dodavatel)"
+      ],
+      "3 oder weiter": [
+        "3 nebo další"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkrétní úroveň, vždy 0 až 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "Závažnost od 85 je sama o sobě kritická."
+      ],
+      "Schwere": [
+        "Závažnost"
+      ],
+      "Wahrscheinlichkeit": [
+        "Pravděpodobnost"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Závislost na dodavateli"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Vlastní příčinný podíl"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Certifikace dodavatele"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 bodů na konkrétní úrovni)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 bodů na konkrétní úrovni)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Uložit výsledek do registru"
+      ],
+      "Punktzahl berechnen": [
+        "Vypočítat skóre"
+      ],
+      "Ergebnis": [
+        "Výsledek"
+      ],
+      "Noch keine Berechnung.": [
+        "Zatím žádný výpočet."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstraktní úroveň %1$s (země %2$s, sektor %3$s, produkt %4$s) · konkrétní úroveň %5$s (závažnost %6$s, pravděpodobnost %7$s, závislost %8$s, příčinný podíl %9$s)"
+      ],
+      "Hinweise:": [
+        "Příznaky:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Uloženo v registru včetně hodnocení v historii."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Tento formulář již byl uložen (stránka byla znovu načtena); druhá položka nebyla vytvořena."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Neuloženo v registru. Hodnocení se zobrazuje, ale není zaznamenáno."
+      ],
+      "Einordnung": [
+        "Zařazení"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 odst. 2 a § 5 odst. 2 LkSG uvádějí kritéria, nikoli váhy. O vhodných preventivních či nápravných opatřeních rozhoduje podnik, ne toto číslo."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritické: skóre od 75 nebo závažnost od 85. Plugin přiřadí spouštěč CAPA_REQUIRED. Nápravná opatření podle § 7 LkSG navazují na zjištěné nebo bezprostředně hrozící porušení, ne na skóre."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Vysoké: skóre od 50 do méně než 75. Plugin přiřadí spouštěč AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Střední: skóre od 25 do méně než 50. Plugin přiřadí spouštěč QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Nízké: skóre pod 25. Plugin přiřadí spouštěč NO_ACTION. Nízké skóre nedokládá neexistenci rizik; může vycházet výhradně z výchozích hodnot."
+      ],
+      "Unbekannte Stufe.": [
+        "Neznámá úroveň."
+      ],
+      "Jahresübersicht %d": [
+        "Roční přehled %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Počítá obsah registru za kalendářní rok %d (UTC). Nejde o zprávu podle § 10 odst. 2 LkSG ani o formulář BAFA. Rok nastavíte v Nastavení."
+      ],
+      "JSON öffnen": [
+        "Otevřít JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Nezaznamenává se: vnitřní odpovědnost (§ 4 odst. 3 LkSG), prohlášení o zásadách (§ 6 odst. 2), preventivní opatření (§ 6), nápravná opatření (§ 7), reklamační postup (§ 8) a hodnocení účinnosti opatření."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Rok ročního přehledu"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalendářní rok počítaný ročním přehledem, WP-CLI a cestou /bafa-report bez zadání roku. Výchozí je předchozí kalendářní rok."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Při smazání pluginu nevratně odstranit všechny tabulky a nastavení pluginu"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Ve výchozím stavu zůstávají registr dodavatelů, historie hodnocení a čestná prohlášení při smazání pluginu zachovány (§ 10 odst. 1 LkSG vyžaduje uchovávání po dobu nejméně sedmi let). Aktivujte pouze tehdy, mají-li být všechna data trvale odstraněna."
+      ],
+      "Speichern": [
+        "Uložit"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Vlastní prahová hodnota neexistuje: úrovně se řídí pevnými hranicemi (kritické od 75 bodů nebo závažnosti 85, vysoké od 50, střední od 25). Dřívější prahové pole nic nečetlo."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Dvě úrovně, pevné váhy"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstraktní úroveň: 0,40 × země + 0,40 × sektor + 0,20 × produkt. Konkrétní úroveň: 0,40 × závažnost + 0,40 × pravděpodobnost + 0,10 × závislost + 0,10 × příčinný podíl, minus 10 za ISO 14001 a 15 za SA 8000. Celkem: 0,30 × abstraktní + 0,70 × konkrétní. Pásma zemí (DE 15 až BD 85) a profily odvětví jsou heuristiky WM Suite, nikoli index korupce."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 odst. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Přiměřený postup se určuje podle druhu a rozsahu podnikání, možnosti ovlivnit přímého původce, typicky očekávané závažnosti, vratnosti a pravděpodobnosti porušení i povahy příčinného podílu. Kalkulačka zjišťuje závažnost, pravděpodobnost, závislost a příčinný podíl; nezjišťuje rozsah činnosti, vliv ani vratnost."
+      ],
+      "Selbstauskunft": [
+        "Čestné prohlášení"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Formulář [wm_lksg_supplier_portal] ukládá název firmy, zemi, odvětví, úroveň, zaškrtnuté certifikace a potvrzený text s podpisem HMAC. Odesílatel není identifikován. Prohlášení zůstává „nehodnoceno“."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Počítá záznamy registru za jeden kalendářní rok. Nejde o zprávu podle § 10 odst. 2 LkSG ani o formulář BAFA."
+      ],
+      "Aufbewahrung": [
+        "Uchovávání"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 odst. 1 LkSG: „Dokumentace musí být uchovávána nejméně sedm let od jejího vyhotovení.“ Ve výchozím nastavení zůstávají při odstranění pluginu všechny tabulky a nastavení zachovány, pokud nebylo v Nastavení výslovně zapnuto trvalé smazání."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Příliš mnoho odeslání z této adresy. Zkuste to prosím později."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Dodavatele se nepodařilo uložit."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Hodnocení se nepodařilo zaznamenat; dodavatel proto nebyl uložen."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Chybí název společnosti."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Odvětví nepatří mezi možnosti formuláře."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Prohlášení nebylo potvrzeno."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Odeslání se nepodařilo uložit."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Vaše čestné prohlášení bylo odesláno a uloženo. Hodnocení rizik provádí objednatel."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Potvrzuji, že v našem provozu ani v našem dodavatelském řetězci nedochází k porušení zákazů dětské práce a nucené práce (§ 2 odst. 2 č. 1 až 3 LkSG) ani environmentálních zákazů podle § 2 odst. 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Rok je mimo povolený rozsah."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Ukazatele registru LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Ukazatel registru LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Vypíše počet z registru dodavatelů LkSG."
+      ],
+      "Kennzahl": [
+        "Ukazatel"
+      ],
+      "Fertigung und Produktion": [
+        "Výroba a produkce"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronika a polovodiče"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Textilní a oděvní průmysl"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Těžba surovin a hornictví"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT a cloudové služby"
+      ],
+      "Transport und Logistik": [
+        "Doprava a logistika"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Čestné prohlášení dodavatele"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Čestné prohlášení pro dodavatele"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Vaše údaje jsou zaslány provozovateli tohoto webu a uloženy v jeho registru dodavatelů jako nehodnocené čestné prohlášení. Hodnocení rizik provádí objednatel. Žádné hlášení úřadům tímto neprobíhá."
+      ],
+      "Wird übermittelt …": [
+        "Odesílá se …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Odeslání selhalo. Vaše prohlášení NEBYLO podáno."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Spojení selhalo. Vaše prohlášení NEBYLO podáno."
+      ],
+      "Unternehmensname *": [
+        "Název společnosti *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Země sídla (kód ISO 3166-1, například DE) *"
+      ],
+      "Branche *": [
+        "Odvětví *"
+      ],
+      "Lieferantenstufe *": [
+        "Úroveň dodavatele *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Úroveň 1 (přímý smluvní dodavatel)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Úroveň 2 (subdodavatel)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Úroveň 3 nebo další (zdroj surovin či komponent)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Existující certifikace"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (environmentální management)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (sociální standard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (BOZP management)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Odeslat čestné prohlášení"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Čestné prohlášení odesláno"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Vaše údaje byly uloženy. Referenční číslo:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Hodnocení rizik provádí objednatel; vaše údaje jsou jeho podkladem a do té doby zůstávají v registru dodavatelů jako nehodnocené. Žádné hlášení úřadu BAFA tímto neprobíhá."
+      ],
+      "Formulareinstellungen": [
+        "Nastavení formuláře"
+      ],
+      "Einführungstext anzeigen": [
+        "Zobrazit úvodní text"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Předvybraná úroveň dodavatele"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG čestné prohlášení dodavatele"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Veřejný formulář čestného prohlášení pro dodavatele s povinným potvrzením a podpisem HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "dodavatelé"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "prohlášení"
+      ],
+      "block keyword\u0004register": [
+        "registr"
+      ]
+    }
+  }
+}

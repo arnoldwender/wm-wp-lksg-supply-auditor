@@ -1,0 +1,21 @@
+# WM LkSG Supply Chain Auditor
+
+> WordPress plugin with a supplier register for the German supply-chain due-diligence act (LkSG): a two-level risk score with fixed heuristic weights, a public self-disclosure form (`[wm_lksg_supplier_portal]`) that stores and signs the declared facts, and a yearly count of the register (REST `wm-lksg/v1/bafa-report`, `wp lksg export-bafa`), with a German admin screen, REST routes and WP-CLI. It does not write the report under § 10 Abs. 2 LkSG and sends nothing to the BAFA.
+
+## Overview
+
+`wm-lksg-supply-auditor` is a WordPress plugin developed with an agentic workflow (AI coding agents). The score is a heuristic: six country tiers, sector profiles and weights chosen by WM Suite; the act names criteria, not weights. Not included: assessing an existing self-disclosure, a complaints procedure, corrective-action management, a policy statement, a submission to the BAFA, country index data. Whether a company falls under the act and whether its due diligence is adequate is not decided by the plugin.
+
+## Standards
+
+- PHP 8.2+ with strict types
+- No outbound requests, no assets from other hosts
+- REST arguments declared; countries checked against the ISO 3166-1 alpha-2 list; writes are all or nothing
+- Standalone test suite on SQLite with a mutation check, PHPUnit unit tests, a rolled-back runtime check in WordPress
+- Version 1.2.3.
+
+## Official Links
+
+- Plugin Page: https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/
+- GitHub Repository: https://github.com/arnoldwender/wm-wp-lksg-supply-auditor
+- Support & Liability: Zero support — reproducible bugs on https://github.com/arnoldwender/wm-wp-lksg-supply-auditor/issues only · no private support · AS IS / no liability (SUPPORT.md)

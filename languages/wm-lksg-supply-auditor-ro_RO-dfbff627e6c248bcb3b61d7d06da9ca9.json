@@ -1,0 +1,564 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "ro_RO",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Registru de furnizori pentru legea germană privind diligența necesară în lanțul de aprovizionare (LkSG): scor euristic de risc pe două niveluri, formular public de autodeclarare și sinteză anuală a registrului. Nu generează raport BAFA."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Germania"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "China"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "India"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, software și găzduire"
+      ],
+      "Elektronik und Bauteile": [
+        "Electronică și componente"
+      ],
+      "Textil und Bekleidung": [
+        "Textile și confecții"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Minerit și materii prime"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Agricultură și alimentație"
+      ],
+      "Kritisch": [
+        "Critic"
+      ],
+      "Hoch": [
+        "Ridicat"
+      ],
+      "Mittel": [
+        "Mediu"
+      ],
+      "Niedrig": [
+        "Scăzut"
+      ],
+      "Nicht bewertet": [
+        "Neevaluat"
+      ],
+      "Unbekannt": [
+        "Necunoscut"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Tabelul furnizorilor lipsește"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Dezactivați și reactivați modulul o dată."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Niciun furnizor în registru momentan"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Înregistrați furnizori prin calculator, POST /suppliers sau formularul de autodeclarare."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d autodeclarație neevaluată",
+        "%d autodeclarații neevaluate",
+        "%d de autodeclarații neevaluate"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Scorul este o euristică; registrul nu înlocuiește o analiză de risc."
+      ],
+      "%d Lieferant im Register": [
+        "%d furnizor în registru",
+        "%d furnizori în registru",
+        "%d de furnizori în registru"
+      ],
+      "Lieferanten": [
+        "Furnizori"
+      ],
+      "Hoch oder kritisch": [
+        "Ridicat sau critic"
+      ],
+      "Register öffnen": [
+        "Deschide registrul"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "Furnizori LkSG"
+      ],
+      "Keine Berechtigung.": [
+        "Permisiuni insuficiente."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Verificarea de securitate a eșuat. Reîncărcați pagina."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Lipsește numele furnizorului."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Lipsește țara sau nu este un cod ISO 3166-1 alpha-2 (de exemplu DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Nivelul furnizorului trebuie să fie 1, 2 sau 3."
+      ],
+      "Register": [
+        "Registru"
+      ],
+      "Rechner": [
+        "Calculator"
+      ],
+      "Jahresübersicht": [
+        "Sinteză anuală"
+      ],
+      "Einstellungen": [
+        "Setări"
+      ],
+      "Begriffe": [
+        "Termeni"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Registru de furnizori cu scor euristic de risc, formular de autodeclarare și sinteză anuală a cifrelor din registru."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Parte a familiei de module WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autonom"
+      ],
+      "Keine externen Anfragen": [
+        "Fără cereri externe"
+      ],
+      "Bereiche": [
+        "Secțiuni"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Nu au fost adăugați furnizori demonstrativi: aceștia există deja în registru."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d furnizor demonstrativ adăugat.",
+        "%d furnizori demonstrativi adăugați.",
+        "%d de furnizori demonstrativi adăugați."
+      ],
+      "Einstellungen gespeichert.": [
+        "Setările au fost salvate."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Anul nu a fost salvat: introduceți un an între %1$d și %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Tabelul furnizorilor lipsește. Dezactivați și reactivați modulul o dată."
+      ],
+      "Im Register": [
+        "În registru"
+      ],
+      "alle Einträge": [
+        "toate înregistrările"
+      ],
+      "Bewertet": [
+        "Evaluați"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "prin calculator sau POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Autodeclarații"
+      ],
+      "aktuelle Stufe": [
+        "nivelul actual"
+      ],
+      "Lieferantenregister": [
+        "Registrul furnizorilor"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Autodeclarațiile neevaluate apar primele. O autodeclarație nu poate fi evaluată direct aici: o evaluare prin calculator sau POST /suppliers creează o înregistrare nouă."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Niciun furnizor în registru momentan."
+      ],
+      "Lieferant": [
+        "Furnizor"
+      ],
+      "Land": [
+        "Țară"
+      ],
+      "Branche": [
+        "Sector"
+      ],
+      "Stufe": [
+        "Nivel"
+      ],
+      "Punktzahl": [
+        "Scor"
+      ],
+      "Einstufung": [
+        "Încadrare"
+      ],
+      "Status": [
+        "Stare"
+      ],
+      "Seiten des Registers": [
+        "Paginile registrului"
+      ],
+      "Seite %1$d von %2$d": [
+        "Pagina %1$d din %2$d"
+      ],
+      "Vorherige Seite": [
+        "Pagina anterioară"
+      ],
+      "Nächste Seite": [
+        "Pagina următoare"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Adaugă furnizori demonstrativi (nume fictive, scoruri calculate)"
+      ],
+      "Lieferanten bewerten": [
+        "Evaluează furnizor"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Nivel abstract din țară și sector, nivel concret din gravitate, probabilitate, dependența față de furnizor și contribuția cauzală proprie, minus certificările. Ponderile și pragurile sunt euristici WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Numele furnizorului"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), prag țară %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sector %2$s, produs %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Nivel furnizor"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (furnizor direct)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (furnizor indirect)"
+      ],
+      "3 oder weiter": [
+        "3 sau ulterior"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Nivel concret, fiecare de la 0 la 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "O gravitate de cel puțin 85 este critică prin ea însăși."
+      ],
+      "Schwere": [
+        "Gravitate"
+      ],
+      "Wahrscheinlichkeit": [
+        "Probabilitate"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Dependența față de furnizor"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Contribuția cauzală proprie"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Certificările furnizorului"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 puncte la nivelul concret)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 puncte la nivelul concret)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Salvează rezultatul în registru"
+      ],
+      "Punktzahl berechnen": [
+        "Calculează scorul"
+      ],
+      "Ergebnis": [
+        "Rezultat"
+      ],
+      "Noch keine Berechnung.": [
+        "Niciun calcul încă."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Nivel abstract %1$s (țară %2$s, sector %3$s, produs %4$s) · nivel concret %5$s (gravitate %6$s, probabilitate %7$s, dependență %8$s, contribuție cauzală %9$s)"
+      ],
+      "Hinweise:": [
+        "Semnale:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Salvat în registru, cu evaluarea în istoric."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Acest formular a fost deja salvat (pagina a fost reîncărcată); nu a fost creată o a doua înregistrare."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Nesalvat în registru. Evaluarea este afișată, dar nu a fost înregistrată."
+      ],
+      "Einordnung": [
+        "Încadrare"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 alin. 2 și § 5 alin. 2 LkSG menționează criterii, nu ponderi. Ce măsuri preventive sau corective sunt adecvate decide întreprinderea, nu acest număr."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Critic: scor de la 75 sau gravitate de la 85. Modulul atribuie declanșatorul CAPA_REQUIRED. Măsurile corective conform § 7 LkSG vizează o încălcare constatată sau iminentă, nu un scor."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Ridicat: scor de la 50 la sub 75. Modulul atribuie declanșatorul AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Mediu: scor de la 25 la sub 50. Modulul atribuie declanșatorul QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Scăzut: scor sub 25. Modulul atribuie declanșatorul NO_ACTION. Un scor scăzut nu dovedește lipsa riscurilor; se poate baza exclusiv pe valori implicite."
+      ],
+      "Unbekannte Stufe.": [
+        "Nivel necunoscut."
+      ],
+      "Jahresübersicht %d": [
+        "Sinteză anuală %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Numără conținutul registrului pentru anul calendaristic %d (UTC). Acesta nu este un raport conform § 10 alin. 2 LkSG și nici un formular BAFA. Setați anul în Setări."
+      ],
+      "JSON öffnen": [
+        "Deschide JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Nu se înregistrează: responsabilitatea internă (§ 4 alin. 3 LkSG), declarația de principii (§ 6 alin. 2), măsurile preventive (§ 6), măsurile corective (§ 7), procedura de reclamații (§ 8) și evaluarea eficacității."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Anul sintezei anuale"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Anul calendaristic numărat de sinteza anuală, WP-CLI și ruta /bafa-report fără parametru de an. Implicit: anul calendaristic precedent."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Șterge ireversibil toate tabelele și setările modulului la ștergerea modulului"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "În mod implicit, registrul furnizorilor, istoricul evaluărilor și autodeclarațiile sunt păstrate la ștergerea modulului (§ 10 alin. 1 LkSG prevede păstrarea timp de cel puțin șapte ani). Activați doar dacă doriți ștergerea definitivă a tuturor datelor."
+      ],
+      "Speichern": [
+        "Salvează"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Nu există un prag personalizat: nivelurile urmează limite fixe (critic de la 75 puncte sau gravitate 85, ridicat de la 50, mediu de la 25). Vechiul câmp de prag nu era citit nicăieri."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Două niveluri, ponderi fixe"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Nivel abstract: 0,40 × țară + 0,40 × sector + 0,20 × produs. Nivel concret: 0,40 × gravitate + 0,40 × probabilitate + 0,10 × dependență + 0,10 × contribuție cauzală, minus 10 pentru ISO 14001 și 15 pentru SA 8000. Total: 0,30 × abstract + 0,70 × concret. Pragurile de țară (DE 15 până la BD 85) și profilurile sectoriale sunt euristici WM Suite, nu un indice de corupție."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 alin. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Conduita adecvată se stabilește după natura și amploarea activității, capacitatea de influență asupra autorului direct, gravitatea așteptată, reversibilitatea și probabilitatea încălcării, precum și tipul contribuției cauzale. Calculatorul solicită gravitatea, probabilitatea, dependența și contribuția cauzală; nu solicită amploarea activității, influența ori reversibilitatea."
+      ],
+      "Selbstauskunft": [
+        "Autodeclarație"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Formularul [wm_lksg_supplier_portal] salvează denumirea companiei, țara, sectorul, nivelul, certificările bifate și textul confirmat cu semnătură HMAC. Expeditorul nu este identificat. O autodeclarație rămâne „neevaluată”."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Numără înregistrările registrului pentru un an calendaristic. Nu este un raport conform § 10 alin. 2 LkSG și nici un formular BAFA."
+      ],
+      "Aufbewahrung": [
+        "Păstrare"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 alin. 1 LkSG: „Documentația trebuie păstrată cel puțin șapte ani de la întocmire.” În mod implicit, toate tabelele și setările sunt păstrate la ștergerea modulului, cu excepția cazului în care ștergerea definitivă este activată explicit în Setări."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Prea multe transmiteri de la această adresă. Încercați din nou mai târziu."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Furnizorul nu a putut fi salvat."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Evaluarea nu a putut fi înregistrată în istoric; furnizorul nu a fost salvat."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Lipsește denumirea companiei."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Sectorul nu se numără printre opțiunile formularului."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Declarația nu a fost confirmată."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Transmiterea nu a putut fi salvată."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Autodeclarația dvs. a fost transmisă și salvată. Evaluarea riscurilor este efectuată de beneficiar."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Confirm că în unitatea noastră și în lanțul nostru de aprovizionare nu există nicio încălcare a interdicțiilor privind munca copiilor și munca forțată (§ 2 alin. 2 nr. 1–3 LkSG) sau a interdicțiilor de mediu din § 2 alin. 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Anul este în afara intervalului permis."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "Indicatori registru LkSG"
+      ],
+      "LkSG-Registerkennzahl": [
+        "Indicator registru LkSG"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Afișează o numărătoare din registrul furnizorilor LkSG."
+      ],
+      "Kennzahl": [
+        "Indicator"
+      ],
+      "Fertigung und Produktion": [
+        "Fabricație și producție"
+      ],
+      "Elektronik und Halbleiter": [
+        "Electronică și semiconductori"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Industria textilă și a confecțiilor"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Extracția materiilor prime și minerit"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "Servicii IT și cloud"
+      ],
+      "Transport und Logistik": [
+        "Transport și logistică"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Autodeclarație furnizor"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Autodeclarație pentru furnizori"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Datele dvs. sunt trimise operatorului acestui site și stocate în registrul său de furnizori ca autodeclarație neevaluată. Evaluarea riscurilor revine beneficiarului. Nu are loc nicio raportare către autorități."
+      ],
+      "Wird übermittelt …": [
+        "Se transmite …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Transmiterea a eșuat. Declarația dvs. NU a fost depusă."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Conexiunea a eșuat. Declarația dvs. NU a fost depusă."
+      ],
+      "Unternehmensname *": [
+        "Denumirea companiei *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Țara sediului (cod ISO 3166-1, de exemplu DE) *"
+      ],
+      "Branche *": [
+        "Sector *"
+      ],
+      "Lieferantenstufe *": [
+        "Nivel furnizor *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Nivel 1 (furnizor contractual direct)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Nivel 2 (subfurnizor)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Nivel 3 sau ulterior (sursă de materii prime sau componente)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Certificări existente"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (management de mediu)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (standard social)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (sănătate și securitate în muncă)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Trimite autodeclarația"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Autodeclarație transmisă"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Datele dvs. au fost salvate. Număr de referință:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Evaluarea riscurilor este efectuată de beneficiar; datele dvs. constituie baza acesteia și rămân până atunci neevaluate în registrul furnizorilor. Nu se efectuează nicio raportare către BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Setări formular"
+      ],
+      "Einführungstext anzeigen": [
+        "Afișează textul introductiv"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Nivel de furnizor preselectat"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "Autodeclarație furnizor LkSG"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Formular public de autodeclarare pentru furnizori cu confirmare obligatorie și semnătură HMAC."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "furnizori"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "autodeclarație"
+      ],
+      "block keyword\u0004register": [
+        "registru"
+      ]
+    }
+  }
+}

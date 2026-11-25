@@ -1,0 +1,28 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm/lksg-supplier-portal",
+	"version": "1.2.3",
+	"title": "LkSG-Lieferanten-Selbstauskunft",
+	"category": "widgets",
+	"icon": "networking",
+	"description": "Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.",
+	"keywords": [ "lksg", "lieferanten", "selbstauskunft", "register" ],
+	"textdomain": "wm-lksg-supply-auditor",
+	"attributes": {
+		"showIntro": {
+			"type": "boolean",
+			"default": true
+		},
+		"defaultTier": {
+			"type": "integer",
+			"default": 1
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ]
+	},
+	"editorScript": "wm-lksg-blocks-editor",
+	"style": "wm-lksg-portal"
+}

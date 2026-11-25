@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "en_GB",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Supplier register for the German Supply Chain Due Diligence Act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Germany"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "China"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "India"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, Software and Hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Electronics and Components"
+      ],
+      "Textil und Bekleidung": [
+        "Textiles and Apparel"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Mining and Raw Materials"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Agriculture and Food"
+      ],
+      "Kritisch": [
+        "Critical"
+      ],
+      "Hoch": [
+        "High"
+      ],
+      "Mittel": [
+        "Medium"
+      ],
+      "Niedrig": [
+        "Low"
+      ],
+      "Nicht bewertet": [
+        "Unassessed"
+      ],
+      "Unbekannt": [
+        "Unknown"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Supplier table is missing"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Deactivate and reactivate the plugin once."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "No suppliers in the register yet"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Record suppliers via the calculator, POST /suppliers, or the self-disclosure form."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d self-disclosure unassessed",
+        "%d self-disclosures unassessed"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "The score is a heuristic; the register does not replace a risk analysis."
+      ],
+      "%d Lieferant im Register": [
+        "%d supplier in register",
+        "%d suppliers in register"
+      ],
+      "Lieferanten": [
+        "Suppliers"
+      ],
+      "Hoch oder kritisch": [
+        "High or critical"
+      ],
+      "Register öffnen": [
+        "Open register"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG Suppliers"
+      ],
+      "Keine Berechtigung.": [
+        "Insufficient permissions."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Security check failed. Please reload the page."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Supplier name is missing."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Country is missing or is not an ISO 3166-1 alpha-2 code (for example DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Supplier tier must be 1, 2, or 3."
+      ],
+      "Register": [
+        "Register"
+      ],
+      "Rechner": [
+        "Calculator"
+      ],
+      "Jahresübersicht": [
+        "Annual Summary"
+      ],
+      "Einstellungen": [
+        "Settings"
+      ],
+      "Begriffe": [
+        "Glossary"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Supplier register with heuristic risk score, self-disclosure form, and annual summary of register counts."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "Part of the WM Suite plugin family"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Standalone"
+      ],
+      "Keine externen Anfragen": [
+        "No outbound requests"
+      ],
+      "Bereiche": [
+        "Sections"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "No demo suppliers added: they are already in the register."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d demo supplier added.",
+        "%d demo suppliers added."
+      ],
+      "Einstellungen gespeichert.": [
+        "Settings saved."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "The year was not saved: please enter a year between %1$d and %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "The supplier table is missing. Deactivate and reactivate the plugin once."
+      ],
+      "Im Register": [
+        "In register"
+      ],
+      "alle Einträge": [
+        "all entries"
+      ],
+      "Bewertet": [
+        "Assessed"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "via the calculator or POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Self-disclosures"
+      ],
+      "aktuelle Stufe": [
+        "current level"
+      ],
+      "Lieferantenregister": [
+        "Supplier Register"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Unassessed self-disclosures appear first. A self-disclosure cannot be assessed in place here: scoring via the calculator or POST /suppliers creates a new entry."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "No suppliers in the register yet."
+      ],
+      "Lieferant": [
+        "Supplier"
+      ],
+      "Land": [
+        "Country"
+      ],
+      "Branche": [
+        "Sector"
+      ],
+      "Stufe": [
+        "Tier"
+      ],
+      "Punktzahl": [
+        "Score"
+      ],
+      "Einstufung": [
+        "Rating"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Seiten des Registers": [
+        "Register pages"
+      ],
+      "Seite %1$d von %2$d": [
+        "Page %1$d of %2$d"
+      ],
+      "Vorherige Seite": [
+        "Previous page"
+      ],
+      "Nächste Seite": [
+        "Next page"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Add demo suppliers (fictional names, calculated scores)"
+      ],
+      "Lieferanten bewerten": [
+        "Evaluate supplier"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstract level from country and sector, concrete level from severity, probability, supplier dependency, and own causal contribution, minus certifications. Weights and thresholds are WM Suite heuristics."
+      ],
+      "Name des Lieferanten": [
+        "Supplier name"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), country tier %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sector %2$s, product %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Supplier tier"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (direct supplier)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (indirect supplier)"
+      ],
+      "3 oder weiter": [
+        "3 or deeper"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Concrete level, 0 to 100 each"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "A severity of 85 or higher is critical on its own."
+      ],
+      "Schwere": [
+        "Severity"
+      ],
+      "Wahrscheinlichkeit": [
+        "Probability"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Dependency on supplier"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Own causal contribution"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Supplier certifications"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 points on the concrete level)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 points on the concrete level)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Save result in register"
+      ],
+      "Punktzahl berechnen": [
+        "Calculate score"
+      ],
+      "Ergebnis": [
+        "Result"
+      ],
+      "Noch keine Berechnung.": [
+        "No calculation yet."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstract level %1$s (country %2$s, sector %3$s, product %4$s) · concrete level %5$s (severity %6$s, probability %7$s, dependency %8$s, causal contribution %9$s)"
+      ],
+      "Hinweise:": [
+        "Flags:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Saved in the register, with the evaluation logged in history."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "This form has already been saved (the page was reloaded); no duplicate entry was created."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Not saved in the register. The evaluation is displayed, but was not recorded."
+      ],
+      "Einordnung": [
+        "Interpretation"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "Section 3 (2) and Section 5 (2) LkSG name criteria, not weights. Which preventive or remedial measures are appropriate is decided by the company, not by this number."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Critical: score from 75 or severity from 85. The plugin assigns the trigger CAPA_REQUIRED. Remedial measures under Section 7 LkSG attach to an identified or imminent violation, not to a score."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "High: score from 50 to under 75. The plugin assigns the trigger AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Medium: score from 25 to under 50. The plugin assigns the trigger QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Low: score under 25. The plugin assigns the trigger NO_ACTION. A low score does not prove the absence of risks; it may rest entirely on default values."
+      ],
+      "Unbekannte Stufe.": [
+        "Unknown level."
+      ],
+      "Jahresübersicht %d": [
+        "Annual Summary %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Counts what the register holds for calendar year %d (UTC). This is not a report under Section 10 (2) LkSG and not a BAFA form. Configure the year under Settings."
+      ],
+      "JSON öffnen": [
+        "Open JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Not recorded: internal responsibility (Section 4 (3) LkSG), policy statement (Section 6 (2)), preventive measures (Section 6), remedial measures (Section 7), complaints procedure (Section 8), and review of effectiveness."
+      ],
+      "Jahr der Jahresübersicht": [
+        "Annual summary year"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Calendar year counted by the annual summary, WP-CLI, and the /bafa-report route when no year parameter is passed. Defaults to the previous calendar year."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Permanently delete all plugin tables and settings when uninstalling the plugin"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "By default, the supplier register, assessment history, and self-disclosures are preserved when deleting the plugin (Section 10 (1) LkSG requires retention for at least seven years). Enable only if all data should be permanently removed."
+      ],
+      "Speichern": [
+        "Save"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "There is no custom threshold: levels follow fixed boundaries (critical from 75 points or severity 85, high from 50, medium from 25). The earlier threshold field was never read."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "Two levels, fixed weights"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstract level: 0.40 × country + 0.40 × sector + 0.20 × product. Concrete level: 0.40 × severity + 0.40 × probability + 0.10 × dependency + 0.10 × causal contribution, minus 10 for ISO 14001 and 15 for SA 8000. Overall: 0.30 × abstract + 0.70 × concrete. Country tiers (DE 15 to BD 85) and sector profiles are WM Suite heuristics, not a corruption index."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "Section 3 (2) LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Appropriate due-diligence action is determined by the nature and scope of business activity, ability to influence the direct perpetrator, typically expected severity, reversibility, and probability of a violation, as well as the nature of causal contribution. The calculator asks for severity, probability, supplier dependency, and causal contribution; it does not ask for business scope, leverage, or reversibility."
+      ],
+      "Selbstauskunft": [
+        "Self-disclosure"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "The [wm_lksg_supplier_portal] form stores company name, country, sector, tier, checked certifications, and the confirmed wording with an HMAC signature. The submitter is not identified. A self-disclosure remains “unassessed”."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Counts register entries for one calendar year. It is not a report under Section 10 (2) LkSG and not a BAFA form."
+      ],
+      "Aufbewahrung": [
+        "Retention"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "Section 10 (1) LkSG: “Documentation must be retained for at least seven years from its creation.” By default, all tables and settings are kept when deleting the plugin unless permanent deletion is explicitly enabled under Settings."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "Too many submissions from this address. Please try again later."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "The supplier could not be saved."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "The evaluation could not be logged; the supplier was therefore not saved."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Company name is missing."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Sector is not one of the options offered by the form."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "The declaration was not confirmed."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "The submission could not be saved."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Your self-disclosure has been submitted and stored. The risk assessment is carried out by the contracting company."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "I confirm that there is no violation of the prohibitions of child labour and forced labour (Section 2 (2) Nos. 1 to 3 LkSG) or of the environment-related prohibitions of Section 2 (3) LkSG in our operations or our supply chain."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "The year is outside the allowed range."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG Register Metrics"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG Register Metric"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Outputs a count from the LkSG supplier register."
+      ],
+      "Kennzahl": [
+        "Metric"
+      ],
+      "Fertigung und Produktion": [
+        "Manufacturing and Production"
+      ],
+      "Elektronik und Halbleiter": [
+        "Electronics and Semiconductors"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Textiles and Apparel Industry"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Raw Materials Extraction and Mining"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT and Cloud Services"
+      ],
+      "Transport und Logistik": [
+        "Transport and Logistics"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Supplier Self-Disclosure"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Self-Disclosure for Suppliers"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Your details are sent to the operator of this website and stored in its supplier register as an unassessed self-disclosure. Risk evaluation is performed by the contracting company. No filing with any authority takes place."
+      ],
+      "Wird übermittelt …": [
+        "Submitting …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Submission failed. Your declaration was NOT submitted."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Connection failed. Your declaration was NOT submitted."
+      ],
+      "Unternehmensname *": [
+        "Company name *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Country of location (ISO 3166-1 code, for example DE) *"
+      ],
+      "Branche *": [
+        "Industry sector *"
+      ],
+      "Lieferantenstufe *": [
+        "Supplier tier *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Tier 1 (direct contracted supplier)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Tier 2 (sub-supplier)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Tier 3 or deeper (raw material or component source)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Existing certifications"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (environmental management)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (social accountability standard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (occupational health and safety)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Submit self-disclosure"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Self-disclosure submitted"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Your details have been saved. Reference number:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Risk evaluation is performed by the contracting company; your details form the basis for it and remain unassessed in the supplier register until then. No filing with BAFA takes place."
+      ],
+      "Formulareinstellungen": [
+        "Form settings"
+      ],
+      "Einführungstext anzeigen": [
+        "Show introductory text"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Preselected supplier tier"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG Supplier Self-Disclosure"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Public self-disclosure form for suppliers with mandatory confirmation and HMAC signature."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "suppliers"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "self-disclosure"
+      ],
+      "block keyword\u0004register": [
+        "register"
+      ]
+    }
+  }
+}

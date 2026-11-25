@@ -1,0 +1,561 @@
+{
+  "translation-revision-date": "2026-11-21T14:58:20+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-lksg-supply-auditor",
+        "lang": "da_DK",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM LkSG Supply Chain Auditor": [
+        "WM LkSG Supply Chain Auditor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+      ],
+      "Supplier register for the German supply-chain due-diligence act (LkSG): a two-level heuristic risk score, a public self-disclosure form and a yearly summary of the register counts. It does not produce a BAFA report.": [
+        "Leverandørregister til den tyske lov om rettidig omhu i leverandørkæden (LkSG): totrins heuristisk risikoscore, offentlig selverklæringsformular og årlig registeroversigt. Udleverer ingen BAFA-rapport."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Deutschland": [
+        "Tyskland"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "China": [
+        "Kina"
+      ],
+      "Vietnam": [
+        "Vietnam"
+      ],
+      "Indien": [
+        "Indien"
+      ],
+      "Bangladesch": [
+        "Bangladesh"
+      ],
+      "IT, Software und Hosting": [
+        "IT, software og hosting"
+      ],
+      "Elektronik und Bauteile": [
+        "Elektronik og komponenter"
+      ],
+      "Textil und Bekleidung": [
+        "Tekstil og beklædning"
+      ],
+      "Bergbau und Rohstoffe": [
+        "Minedrift og råstoffer"
+      ],
+      "Landwirtschaft und Lebensmittel": [
+        "Landbrug og fødevarer"
+      ],
+      "Kritisch": [
+        "Kritisk"
+      ],
+      "Hoch": [
+        "Høj"
+      ],
+      "Mittel": [
+        "Middel"
+      ],
+      "Niedrig": [
+        "Lav"
+      ],
+      "Nicht bewertet": [
+        "Ikke vurderet"
+      ],
+      "Unbekannt": [
+        "Ukendt"
+      ],
+      "WM LkSG Supply Auditor": [
+        "WM LkSG Supply Auditor"
+      ],
+      "Die Lieferantentabelle fehlt": [
+        "Leverandørtabellen mangler"
+      ],
+      "Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Deaktiver og genaktiver pluginet én gang."
+      ],
+      "Noch keine Lieferanten im Register": [
+        "Endnu ingen leverandører i registret"
+      ],
+      "Lieferanten über den Rechner, POST /suppliers oder das Selbstauskunftsformular erfassen.": [
+        "Registrer leverandører via beregneren, POST /suppliers eller selverklæringsformularen."
+      ],
+      "%d Selbstauskunft nicht bewertet": [
+        "%d selverklæring ikke vurderet",
+        "%d selverklæringer ikke vurderet"
+      ],
+      "Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse.": [
+        "Scoren er en heuristik; registret erstatter ikke en risikoanalyse."
+      ],
+      "%d Lieferant im Register": [
+        "%d leverandør i registret",
+        "%d leverandører i registret"
+      ],
+      "Lieferanten": [
+        "Leverandører"
+      ],
+      "Hoch oder kritisch": [
+        "Høj eller kritisk"
+      ],
+      "Register öffnen": [
+        "Åbn register"
+      ],
+      "LkSG Supply Chain Auditor": [
+        "LkSG Supply Chain Auditor"
+      ],
+      "LkSG-Lieferanten": [
+        "LkSG-leverandører"
+      ],
+      "Keine Berechtigung.": [
+        "Ingen tilladelse."
+      ],
+      "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden.": [
+        "Sikkerhedskontrollen mislykkedes. Genindlæs venligst siden."
+      ],
+      "Der Lieferantenname fehlt.": [
+        "Leverandørnavn mangler."
+      ],
+      "Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, BD).": [
+        "Land mangler eller er ikke en ISO 3166-1 alpha-2-kode (f.eks. DE, CN, BD)."
+      ],
+      "Die Lieferantenstufe muss 1, 2 oder 3 sein.": [
+        "Leverandørtrin skal være 1, 2 eller 3."
+      ],
+      "Register": [
+        "Register"
+      ],
+      "Rechner": [
+        "Beregner"
+      ],
+      "Jahresübersicht": [
+        "Årsoversigt"
+      ],
+      "Einstellungen": [
+        "Indstillinger"
+      ],
+      "Begriffe": [
+        "Begreber"
+      ],
+      "Lieferantenregister mit heuristischer Risikopunktzahl, Selbstauskunftsformular und Jahresübersicht der Registerzahlen.": [
+        "Leverandørregister med heuristisk risikoscore, selverklæringsformular og årlig oversigt over registertallene."
+      ],
+      "Teil der WM-Suite-Pluginfamilie": [
+        "En del af WM Suite-pluginfamilien"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Selvstændig"
+      ],
+      "Keine externen Anfragen": [
+        "Ingen eksterne forespørgsler"
+      ],
+      "Bereiche": [
+        "Områder"
+      ],
+      "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register.": [
+        "Ingen eksempelleverandører oprettet: de står allerede i registret."
+      ],
+      "%d Beispiel-Lieferant angelegt.": [
+        "%d eksempelleverandør oprettet.",
+        "%d eksempelleverandører oprettet."
+      ],
+      "Einstellungen gespeichert.": [
+        "Indstillinger gemt."
+      ],
+      "Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und %2$d eingeben.": [
+        "Året blev ikke gemt: indtast et årstal mellem %1$d og %2$d."
+      ],
+      "Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Leverandørtabellen mangler. Deaktiver og genaktiver pluginet én gang."
+      ],
+      "Im Register": [
+        "I registret"
+      ],
+      "alle Einträge": [
+        "alle poster"
+      ],
+      "Bewertet": [
+        "Vurderet"
+      ],
+      "über den Rechner oder POST /suppliers": [
+        "via beregneren eller POST /suppliers"
+      ],
+      "Selbstauskünfte": [
+        "Selverklæringer"
+      ],
+      "aktuelle Stufe": [
+        "aktuelt niveau"
+      ],
+      "Lieferantenregister": [
+        "Leverandørregister"
+      ],
+      "Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers legt einen neuen Eintrag an.": [
+        "Ikke-vurderede selverklæringer står øverst. En selverklæring kan ikke vurderes direkte her: en vurdering via beregneren eller POST /suppliers opretter en ny post."
+      ],
+      "Noch keine Lieferanten im Register.": [
+        "Endnu ingen leverandører i registret."
+      ],
+      "Lieferant": [
+        "Leverandør"
+      ],
+      "Land": [
+        "Land"
+      ],
+      "Branche": [
+        "Branche"
+      ],
+      "Stufe": [
+        "Trin"
+      ],
+      "Punktzahl": [
+        "Score"
+      ],
+      "Einstufung": [
+        "Klassificering"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Seiten des Registers": [
+        "Registersider"
+      ],
+      "Seite %1$d von %2$d": [
+        "Side %1$d af %2$d"
+      ],
+      "Vorherige Seite": [
+        "Forrige side"
+      ],
+      "Nächste Seite": [
+        "Næste side"
+      ],
+      "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)": [
+        "Opret eksempelleverandører (opdigtede navne, beregnede scorer)"
+      ],
+      "Lieferanten bewerten": [
+        "Vurder leverandør"
+      ],
+      "Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind Heuristiken von WM Suite.": [
+        "Abstrakt trin ud fra land og branche, konkret trin ud fra alvorlighed, sandsynlighed, afhængighed af leverandøren og eget årsagsbidrag fratrukket certificeringer. Vægte og grænser er heuristikker fra WM Suite."
+      ],
+      "Name des Lieferanten": [
+        "Leverandørens navn"
+      ],
+      "%1$s (%2$s), Länderstufe %3$s": [
+        "%1$s (%2$s), landetrin %3$s"
+      ],
+      "%1$s (Sektor %2$s, Produkt %3$s)": [
+        "%1$s (sektor %2$s, produkt %3$s)"
+      ],
+      "Lieferantenstufe": [
+        "Leverandørtrin"
+      ],
+      "1 (unmittelbarer Zulieferer)": [
+        "1 (direkte leverandør)"
+      ],
+      "2 (mittelbarer Zulieferer)": [
+        "2 (indirekte leverandør)"
+      ],
+      "3 oder weiter": [
+        "3 eller længere ude"
+      ],
+      "Konkrete Stufe, jeweils 0 bis 100": [
+        "Konkret trin, hver 0 til 100"
+      ],
+      "Eine Schwere ab 85 ist für sich allein kritisch.": [
+        "En alvorlighed på 85 eller derover er kritisk i sig selv."
+      ],
+      "Schwere": [
+        "Alvorlighed"
+      ],
+      "Wahrscheinlichkeit": [
+        "Sandsynlighed"
+      ],
+      "Abhängigkeit vom Lieferanten": [
+        "Afhængighed af leverandøren"
+      ],
+      "Eigener Verursachungsbeitrag": [
+        "Eget årsagsbidrag"
+      ],
+      "Zertifizierungen des Lieferanten": [
+        "Leverandørens certificeringer"
+      ],
+      "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)": [
+        "ISO 14001 (minus 10 point på det konkrete trin)"
+      ],
+      "SA 8000 (minus 15 Punkte auf der konkreten Stufe)": [
+        "SA 8000 (minus 15 point på det konkrete trin)"
+      ],
+      "Ergebnis im Register speichern": [
+        "Gem resultat i registret"
+      ],
+      "Punktzahl berechnen": [
+        "Beregn score"
+      ],
+      "Ergebnis": [
+        "Resultat"
+      ],
+      "Noch keine Berechnung.": [
+        "Endnu ingen beregning."
+      ],
+      "Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe %5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, Verursachungsbeitrag %9$s)": [
+        "Abstrakt trin %1$s (land %2$s, sektor %3$s, produkt %4$s) · konkret trin %5$s (alvorlighed %6$s, sandsynlighed %7$s, afhængighed %8$s, årsagsbidrag %9$s)"
+      ],
+      "Hinweise:": [
+        "Bemærkninger:"
+      ],
+      "Im Register gespeichert, mit der Bewertung im Verlauf.": [
+        "Gemt i registret med vurderingen i historikken."
+      ],
+      "Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es wurde kein zweiter Eintrag angelegt.": [
+        "Denne formular er allerede gemt (siden blev genindlæst); der blev ikke oprettet en ekstra post."
+      ],
+      "Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht festgehalten.": [
+        "Ikke gemt i registret. Vurderingen vises, men er ikke registreret."
+      ],
+      "Einordnung": [
+        "Fortolkning"
+      ],
+      "§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das Unternehmen, nicht diese Zahl.": [
+        "§ 3 stk. 2 og § 5 stk. 2 LkSG nævner kriterier, men ingen vægte. Hvilke forebyggende eller afhjælpende foranstaltninger der er passende, afgøres af virksomheden, ikke af dette tal."
+      ],
+      "Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine Punktzahl.": [
+        "Kritisk: score fra 75 eller alvorlighed fra 85. Pluginet tildeler udløseren CAPA_REQUIRED. Afhjælpende tiltag efter § 7 LkSG knytter sig til en konstateret eller umiddelbart forestående krænkelse, ikke til en score."
+      ],
+      "Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser AUDIT_REQUIRED zu.": [
+        "Høj: score fra 50 til under 75. Pluginet tildeler udløseren AUDIT_REQUIRED."
+      ],
+      "Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser QUESTIONNAIRE_REQUIRED zu.": [
+        "Middel: score fra 25 til under 50. Pluginet tildeler udløseren QUESTIONNAIRE_REQUIRED."
+      ],
+      "Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie kann ganz auf Standardwerten beruhen.": [
+        "Lav: score under 25. Pluginet tildeler udløseren NO_ACTION. En lav score dokumenterer ikke fravær af risici; den kan hvile udelukkende på standardværdier."
+      ],
+      "Unbekannte Stufe.": [
+        "Ukendt trin."
+      ],
+      "Jahresübersicht %d": [
+        "Årsoversigt %d"
+      ],
+      "Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie unter Einstellungen ein.": [
+        "Tæller hvad registret indeholder for kalenderåret %d (UTC). Dette er ikke en rapport efter § 10 stk. 2 LkSG og ikke en BAFA-formular. Indstil året under Indstillinger."
+      ],
+      "JSON öffnen": [
+        "Åbn JSON"
+      ],
+      "Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der Wirksamkeit der Maßnahmen.": [
+        "Ikke registreret: intern ansvarlighed (§ 4 stk. 3 LkSG), principperklæring (§ 6 stk. 2), forebyggende tiltag (§ 6), afhjælpende tiltag (§ 7), klageordning (§ 8) samt vurdering af effektivitet."
+      ],
+      "Jahr der Jahresübersicht": [
+        "År for årsoversigten"
+      ],
+      "Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr.": [
+        "Kalenderår som årsoversigten, WP-CLI og ruten /bafa-report uden årsangivelse tæller. Uden angivelse gælder det foregående kalenderår."
+      ],
+      "Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins unwiderruflich entfernen": [
+        "Fjern uigenkaldeligt alle plugintabeller og indstillinger ved sletning af pluginet"
+      ],
+      "Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn sämtliche Daten endgültig entfernt werden sollen.": [
+        "Som standard bevares leverandørregister, vurderingshistorik og selverklæringer ved sletning af pluginet (§ 10 stk. 1 LkSG foreskriver opbevaring i mindst syv år). Aktiver kun hvis samtlige data skal slettes permanent."
+      ],
+      "Speichern": [
+        "Gem"
+      ],
+      "Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen (kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab 25). Das frühere Schwellenwert-Feld wurde von nichts gelesen.": [
+        "Der findes ingen brugerdefineret tærskel: niveauerne følger faste grænser (kritisk fra 75 point eller alvorlighed 85, høj fra 50, middel fra 25). Det tidligere tærskelfelt blev aldrig læst."
+      ],
+      "Zwei Stufen, feste Gewichte": [
+        "To trin, faste vægte"
+      ],
+      "Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + 0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex.": [
+        "Abstrakt trin: 0,40 × land + 0,40 × sektor + 0,20 × produkt. Konkret trin: 0,40 × alvorlighed + 0,40 × sandsynlighed + 0,10 × afhængighed + 0,10 × årsagsbidrag, minus 10 for ISO 14001 og 15 for SA 8000. Samlet: 0,30 × abstrakt + 0,70 × konkret. Landetrin (DE 15 til BD 85) og sektorprofiler er heuristikker fra WM Suite, ikke et korruptionsindeks."
+      ],
+      "§ 3 Abs. 2 LkSG": [
+        "§ 3 stk. 2 LkSG"
+      ],
+      "Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, Einflussvermögen und Umkehrbarkeit fragt er nicht ab.": [
+        "Passende handling bestemmes ud fra virksomhedens art og omfang, påvirkningsmulighed over for den direkte skadevolder, forventet alvorlighed, genoprettelighed og sandsynlighed for krænkelsen samt arten af årsagsbidraget. Beregneren spørger til alvorlighed, sandsynlighed, afhængighed og årsagsbidrag; den spørger ikke til forretningsomfang, påvirkningsevne eller genoprettelighed."
+      ],
+      "Selbstauskunft": [
+        "Selverklæring"
+      ],
+      "Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine Selbstauskunft bleibt „nicht bewertet“.": [
+        "Formularen [wm_lksg_supplier_portal] gemmer firmanavn, land, branche, trin, afkrydsede certificeringer og den bekræftede ordlyd med en HMAC-signatur. Afsenderen identificeres ikke. En selverklæring forbliver »ikke vurderet«."
+      ],
+      "Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular.": [
+        "Tæller registrets poster for et kalenderår. Den er hverken en rapport efter § 10 stk. 2 LkSG eller en BAFA-formular."
+      ],
+      "Aufbewahrung": [
+        "Opbevaring"
+      ],
+      "§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen nicht ausdrücklich das endgültige Löschen aktiviert wurde.": [
+        "§ 10 stk. 1 LkSG: »Dokumentationen skal opbevares i mindst syv år fra udarbejdelsen.« Som standard bevares alle tabeller og indstillinger ved sletning af pluginet, medmindre permanent sletning udtrykkeligt er aktiveret under Indstillinger."
+      ],
+      "Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später erneut.": [
+        "For mange indsendelser fra denne adresse. Prøv venligst igen senere."
+      ],
+      "Der Lieferant konnte nicht gespeichert werden.": [
+        "Leverandøren kunne ikke gemmes."
+      ],
+      "Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb nicht gespeichert.": [
+        "Vurderingen kunne ikke logges; leverandøren blev derfor ikke gemt."
+      ],
+      "Der Unternehmensname fehlt.": [
+        "Virksomhedsnavn mangler."
+      ],
+      "Die Branche ist keine der Auswahlmöglichkeiten des Formulars.": [
+        "Branchen er ikke blandt formularens valgmuligheder."
+      ],
+      "Die Erklärung wurde nicht bestätigt.": [
+        "Erklæringen blev ikke bekræftet."
+      ],
+      "Die Übermittlung konnte nicht gespeichert werden.": [
+        "Indsendelsen kunne ikke gemmes."
+      ],
+      "Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung nimmt der Auftraggeber vor.": [
+        "Din selverklæring er indsendt og gemt. Risikovurderingen foretages af ordregiveren."
+      ],
+      "Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG vorliegt.": [
+        "Jeg bekræfter, at der på vores driftssted og i vores leverandørkæde ikke foreligger nogen overtrædelse af forbuddene mod børnearbejde og tvangsarbejde (§ 2 stk. 2 nr. 1 til 3 LkSG) eller de miljørelaterede forbud i § 2 stk. 3 LkSG."
+      ],
+      "Das Jahr liegt außerhalb des zulässigen Bereichs.": [
+        "Året ligger uden for det tilladte interval."
+      ],
+      "LkSG-Registerkennzahlen": [
+        "LkSG-registertal"
+      ],
+      "LkSG-Registerkennzahl": [
+        "LkSG-registertal (enkelt)"
+      ],
+      "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus.": [
+        "Viser en optælling fra LkSG-leverandørregistret."
+      ],
+      "Kennzahl": [
+        "Nøgletal"
+      ],
+      "Fertigung und Produktion": [
+        "Fremstilling og produktion"
+      ],
+      "Elektronik und Halbleiter": [
+        "Elektronik og halvledere"
+      ],
+      "Textil- und Bekleidungsindustrie": [
+        "Tekstil- og beklædningsindustri"
+      ],
+      "Rohstoffgewinnung und Bergbau": [
+        "Råstofudvinding og minedrift"
+      ],
+      "IT- und Cloud-Dienstleistungen": [
+        "IT- og cloudtjenester"
+      ],
+      "Transport und Logistik": [
+        "Transport og logistik"
+      ],
+      "Lieferanten-Selbstauskunft": [
+        "Leverandør-selverklæring"
+      ],
+      "Selbstauskunft für Lieferanten": [
+        "Selverklæring for leverandører"
+      ],
+      "Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde erfolgt hierdurch nicht.": [
+        "Dine oplysninger sendes til ejeren af dette websted og gemmes i dennes leverandørregister som en ikke-vurderet selverklæring. Risikovurderingen foretages af ordregiveren. Der sker ingen indberetning til nogen myndighed."
+      ],
+      "Wird übermittelt …": [
+        "Indsender …"
+      ],
+      "Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Indsendelsen mislykkedes. Din erklæring blev IKKE indsendt."
+      ],
+      "Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht.": [
+        "Forbindelsen mislykkedes. Din erklæring blev IKKE indsendt."
+      ],
+      "Unternehmensname *": [
+        "Virksomhedsnavn *"
+      ],
+      "Standortland (ISO-3166-1-Code, zum Beispiel DE) *": [
+        "Land (ISO 3166-1-kode, f.eks. DE) *"
+      ],
+      "Branche *": [
+        "Branche *"
+      ],
+      "Lieferantenstufe *": [
+        "Leverandørtrin *"
+      ],
+      "Stufe 1 (unmittelbarer Vertragslieferant)": [
+        "Trin 1 (direkte kontraktleverandør)"
+      ],
+      "Stufe 2 (Vorlieferant)": [
+        "Trin 2 (underleverandør)"
+      ],
+      "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)": [
+        "Trin 3 eller længere ude (råstof- eller komponentkilde)"
+      ],
+      "Vorhandene Zertifizierungen": [
+        "Eksisterende certificeringer"
+      ],
+      "ISO 14001 (Umweltmanagement)": [
+        "ISO 14001 (miljøledelse)"
+      ],
+      "SA8000 (Sozialstandard)": [
+        "SA8000 (social standard)"
+      ],
+      "ISO 45001 (Arbeitsschutzmanagement)": [
+        "ISO 45001 (arbejdsmiljøledelse)"
+      ],
+      "Selbstauskunft übermitteln": [
+        "Indsend selverklæring"
+      ],
+      "Selbstauskunft übermittelt": [
+        "Selverklæring indsendt"
+      ],
+      "Ihre Angaben wurden gespeichert. Vorgangsnummer:": [
+        "Dine oplysninger er gemt. Referencenummer:"
+      ],
+      "Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die Grundlage dafür und stehen bis dahin als nicht bewertet im Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht.": [
+        "Risikovurderingen foretages af ordregiveren; dine oplysninger danner grundlag herfor og står indtil da som ikke-vurderede i leverandørregistret. Der sker ingen indberetning til BAFA."
+      ],
+      "Formulareinstellungen": [
+        "Formularindstillinger"
+      ],
+      "Einführungstext anzeigen": [
+        "Vis introduktionstekst"
+      ],
+      "Vorausgewählte Lieferantenstufe": [
+        "Forudvalgt leverandørtrin"
+      ],
+      "block title\u0004LkSG-Lieferanten-Selbstauskunft": [
+        "LkSG-leverandør-selverklæring"
+      ],
+      "block description\u0004Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung und HMAC-Signatur.": [
+        "Offentlig selverklæringsformular for leverandører med obligatorisk bekræftelse og HMAC-signatur."
+      ],
+      "block keyword\u0004lksg": [
+        "lksg"
+      ],
+      "block keyword\u0004lieferanten": [
+        "leverandører"
+      ],
+      "block keyword\u0004selbstauskunft": [
+        "selverklæring"
+      ],
+      "block keyword\u0004register": [
+        "register"
+      ]
+    }
+  }
+}

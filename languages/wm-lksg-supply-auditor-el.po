@@ -1,0 +1,987 @@
+# Translation of wm-lksg-supply-auditor in el
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-lksg-supply-auditor 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-lksg-supply-"
+"auditor\n"
+"POT-Creation-Date: 2026-11-21T13:56:28+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:58+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-lksg-supply-"
+"auditor/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-lksg-supply-"
+"auditor/issues>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-lksg-supply-auditor\n"
+
+#. Plugin Name of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "WM LkSG Supply Chain Auditor"
+msgstr "WM LkSG Supply Chain Auditor"
+
+#. Plugin URI of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-lksg-supply-auditor/"
+
+#. Description of the plugin
+#: wm-lksg-supply-auditor.php
+msgid ""
+"Supplier register for the German supply-chain due-diligence act (LkSG): a "
+"two-level heuristic risk score, a public self-disclosure form and a yearly "
+"summary of the register counts. It does not produce a BAFA report."
+msgstr ""
+"Μητρώο προμηθευτών για τον γερμανικό νόμο δέουσας επιμέλειας στην "
+"εφοδιαστική αλυσίδα (LkSG): ευρετική βαθμολογία κινδύνου δύο επιπέδων, "
+"δημόσια φόρμα αυτοδήλωσης και ετήσια σύνοψη μητρώου. Δεν παράγει αναφορά "
+"BAFA."
+
+#. Author of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-lksg-supply-auditor.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:87
+msgid "Deutschland"
+msgstr "Γερμανία"
+
+#: includes/Admin/AdminDashboard.php:88
+msgid "Taiwan"
+msgstr "Ταϊβάν"
+
+#: includes/Admin/AdminDashboard.php:89
+msgid "China"
+msgstr "Κίνα"
+
+#: includes/Admin/AdminDashboard.php:90
+msgid "Vietnam"
+msgstr "Βιετνάμ"
+
+#: includes/Admin/AdminDashboard.php:91
+msgid "Indien"
+msgstr "Ινδία"
+
+#: includes/Admin/AdminDashboard.php:92
+msgid "Bangladesch"
+msgstr "Μπανγκλαντές"
+
+#: includes/Admin/AdminDashboard.php:99
+msgid "IT, Software und Hosting"
+msgstr "Πληροφορική, λογισμικό και φιλοξενία"
+
+#: includes/Admin/AdminDashboard.php:100
+msgid "Elektronik und Bauteile"
+msgstr "Ηλεκτρονικά και εξαρτήματα"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Textil und Bekleidung"
+msgstr "Κλωστοϋφαντουργία και ένδυση"
+
+#: includes/Admin/AdminDashboard.php:102
+msgid "Bergbau und Rohstoffe"
+msgstr "Εξόρυξη και πρώτες ύλες"
+
+#: includes/Admin/AdminDashboard.php:103
+msgid "Landwirtschaft und Lebensmittel"
+msgstr "Γεωργία και τρόφιμα"
+
+#: includes/Admin/AdminDashboard.php:115
+msgid "Kritisch"
+msgstr "Κρίσιμο"
+
+#: includes/Admin/AdminDashboard.php:116
+msgid "Hoch"
+msgstr "Υψηλό"
+
+#: includes/Admin/AdminDashboard.php:117
+msgid "Mittel"
+msgstr "Μεσαίο"
+
+#: includes/Admin/AdminDashboard.php:118
+msgid "Niedrig"
+msgstr "Χαμηλό"
+
+#: includes/Admin/AdminDashboard.php:119 includes/Admin/AdminDashboard.php:180
+#: includes/Admin/AdminDashboard.php:532
+#: includes/Frontend/EcosystemIntegration.php:83
+msgid "Nicht bewertet"
+msgstr "Μη αξιολογημένο"
+
+#: includes/Admin/AdminDashboard.php:120
+msgid "Unbekannt"
+msgstr "Άγνωστο"
+
+#: includes/Admin/AdminDashboard.php:131
+msgid "WM LkSG Supply Auditor"
+msgstr "WM LkSG Supply Auditor"
+
+#: includes/Admin/AdminDashboard.php:146
+msgid "Die Lieferantentabelle fehlt"
+msgstr "Ο πίνακας προμηθευτών λείπει"
+
+#: includes/Admin/AdminDashboard.php:147
+msgid "Das Plugin einmal deaktivieren und wieder aktivieren."
+msgstr "Απενεργοποιήστε και ενεργοποιήστε ξανά το πρόσθετο μία φορά."
+
+#: includes/Admin/AdminDashboard.php:150
+msgid "Noch keine Lieferanten im Register"
+msgstr "Δεν υπάρχουν ακόμη προμηθευτές στο μητρώο"
+
+#: includes/Admin/AdminDashboard.php:151
+msgid ""
+"Lieferanten über den Rechner, POST /suppliers oder das "
+"Selbstauskunftsformular erfassen."
+msgstr ""
+"Καταχωρίστε προμηθευτές μέσω του υπολογιστή, της διαδρομής POST /suppliers ή "
+"της φόρμας αυτοδήλωσης."
+
+#. translators: %d: number of self-disclosures nobody has assessed
+#: includes/Admin/AdminDashboard.php:155
+#, php-format
+msgid "%d Selbstauskunft nicht bewertet"
+msgid_plural "%d Selbstauskünfte nicht bewertet"
+msgstr[0] "%d αυτοδήλωση μη αξιολογημένη"
+msgstr[1] "%d αυτοδηλώσεις μη αξιολογημένες"
+
+#: includes/Admin/AdminDashboard.php:156 includes/Admin/AdminDashboard.php:161
+msgid ""
+"Die Punktzahl ist eine Heuristik; das Register ersetzt keine Risikoanalyse."
+msgstr ""
+"Η βαθμολογία είναι ευρετική· το μητρώο δεν αντικαθιστά ανάλυση κινδύνου."
+
+#. translators: %d: number of suppliers in the register
+#: includes/Admin/AdminDashboard.php:160
+#, php-format
+msgid "%d Lieferant im Register"
+msgid_plural "%d Lieferanten im Register"
+msgstr[0] "%d προμηθευτής στο μητρώο"
+msgstr[1] "%d προμηθευτές στο μητρώο"
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lieferanten"
+msgstr "Προμηθευτές"
+
+#: includes/Admin/AdminDashboard.php:184 includes/Admin/AdminDashboard.php:537
+#: includes/Frontend/EcosystemIntegration.php:87
+msgid "Hoch oder kritisch"
+msgstr "Υψηλό ή κρίσιμο"
+
+#: includes/Admin/AdminDashboard.php:190
+msgid "Register öffnen"
+msgstr "Άνοιγμα μητρώου"
+
+#: includes/Admin/AdminDashboard.php:209 includes/Admin/AdminDashboard.php:442
+msgid "LkSG Supply Chain Auditor"
+msgstr "LkSG Supply Chain Auditor"
+
+#: includes/Admin/AdminDashboard.php:210
+msgid "LkSG-Lieferanten"
+msgstr "Προμηθευτές LkSG"
+
+#: includes/Admin/AdminDashboard.php:244
+msgid "Keine Berechtigung."
+msgstr "Δεν έχετε δικαίωμα πρόσβασης."
+
+#: includes/Admin/AdminDashboard.php:361
+msgid "Die Sicherheitsprüfung ist fehlgeschlagen. Bitte die Seite neu laden."
+msgstr "Ο έλεγχος ασφαλείας απέτυχε. Παρακαλούμε επαναφορτώστε τη σελίδα."
+
+#: includes/Admin/AdminDashboard.php:378 includes/API/RestController.php:225
+msgid "Der Lieferantenname fehlt."
+msgstr "Λείπει η επωνυμία του προμηθευτή."
+
+#: includes/Admin/AdminDashboard.php:380 includes/API/RestController.php:122
+msgid ""
+"Das Land fehlt oder ist kein ISO-3166-1-Alpha-2-Code (zum Beispiel DE, CN, "
+"BD)."
+msgstr ""
+"Λείπει η χώρα ή δεν είναι κωδικός ISO 3166-1 alpha-2 (π.χ. DE, CN, BD)."
+
+#: includes/Admin/AdminDashboard.php:382 includes/API/RestController.php:231
+#: includes/API/RestController.php:339
+msgid "Die Lieferantenstufe muss 1, 2 oder 3 sein."
+msgstr "Η βαθμίδα προμηθευτή πρέπει να είναι 1, 2 ή 3."
+
+#: includes/Admin/AdminDashboard.php:419
+msgid "Register"
+msgstr "Μητρώο"
+
+#: includes/Admin/AdminDashboard.php:420
+msgid "Rechner"
+msgstr "Υπολογιστής"
+
+#: includes/Admin/AdminDashboard.php:421 includes/Admin/AdminDashboard.php:851
+msgid "Jahresübersicht"
+msgstr "Ετήσια σύνοψη"
+
+#: includes/Admin/AdminDashboard.php:422 includes/Admin/AdminDashboard.php:810
+msgid "Einstellungen"
+msgstr "Ρυθμίσεις"
+
+#: includes/Admin/AdminDashboard.php:423
+msgid "Begriffe"
+msgstr "Όροι"
+
+#: includes/Admin/AdminDashboard.php:443
+msgid ""
+"Lieferantenregister mit heuristischer Risikopunktzahl, "
+"Selbstauskunftsformular und Jahresübersicht der Registerzahlen."
+msgstr ""
+"Μητρώο προμηθευτών με ευρετική βαθμολογία κινδύνου, φόρμα αυτοδήλωσης και "
+"ετήσια σύνοψη των μετρήσεων του μητρώου."
+
+#: includes/Admin/AdminDashboard.php:447
+msgid "Teil der WM-Suite-Pluginfamilie"
+msgstr "Μέλος της οικογένειας προσθέτων WM Suite"
+
+#: includes/Admin/AdminDashboard.php:449
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:450
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:450
+msgid "Standalone"
+msgstr "Αυτόνομο"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Keine externen Anfragen"
+msgstr "Χωρίς εξωτερικά αιτήματα"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche"
+msgstr "Ενότητες"
+
+#: includes/Admin/AdminDashboard.php:493
+msgid "Keine Beispiel-Lieferanten angelegt: Sie stehen schon im Register."
+msgstr "Δεν προστέθηκαν ενδεικτικοί προμηθευτές: βρίσκονται ήδη στο μητρώο."
+
+#. translators: %d: number of demo suppliers added
+#: includes/Admin/AdminDashboard.php:495
+#, php-format
+msgid "%d Beispiel-Lieferant angelegt."
+msgid_plural "%d Beispiel-Lieferanten angelegt."
+msgstr[0] "Προστέθηκε %d ενδεικτικός προμηθευτής."
+msgstr[1] "Προστέθηκαν %d ενδεικτικοί προμηθευτές."
+
+#: includes/Admin/AdminDashboard.php:499
+msgid "Einstellungen gespeichert."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#. translators: 1: lowest year, 2: highest year
+#: includes/Admin/AdminDashboard.php:503
+#, php-format
+msgid ""
+"Das Jahr wurde nicht gespeichert: bitte eine Jahreszahl zwischen %1$d und "
+"%2$d eingeben."
+msgstr "Το έτος δεν αποθηκεύτηκε: εισαγάγετε έτος μεταξύ %1$d και %2$d."
+
+#: includes/Admin/AdminDashboard.php:511 includes/API/RestController.php:181
+msgid ""
+"Die Lieferantentabelle fehlt. Das Plugin einmal deaktivieren und wieder "
+"aktivieren."
+msgstr ""
+"Ο πίνακας προμηθευτών λείπει. Απενεργοποιήστε και ενεργοποιήστε ξανά το "
+"πρόσθετο μία φορά."
+
+#: includes/Admin/AdminDashboard.php:522
+#: includes/Frontend/EcosystemIntegration.php:75
+msgid "Im Register"
+msgstr "Στο μητρώο"
+
+#: includes/Admin/AdminDashboard.php:524
+msgid "alle Einträge"
+msgstr "όλες οι εγγραφές"
+
+#: includes/Admin/AdminDashboard.php:527
+#: includes/Frontend/EcosystemIntegration.php:79
+msgid "Bewertet"
+msgstr "Αξιολογημένοι"
+
+#: includes/Admin/AdminDashboard.php:529
+msgid "über den Rechner oder POST /suppliers"
+msgstr "μέσω του υπολογιστή ή POST /suppliers"
+
+#: includes/Admin/AdminDashboard.php:534
+msgid "Selbstauskünfte"
+msgstr "Αυτοδηλώσεις"
+
+#: includes/Admin/AdminDashboard.php:539
+msgid "aktuelle Stufe"
+msgstr "τρέχον επίπεδο"
+
+#: includes/Admin/AdminDashboard.php:544
+msgid "Lieferantenregister"
+msgstr "Μητρώο προμηθευτών"
+
+#: includes/Admin/AdminDashboard.php:545
+msgid ""
+"Nicht bewertete Selbstauskünfte stehen oben. Eine Selbstauskunft lässt sich "
+"hier nicht bewerten: Eine Bewertung über den Rechner oder POST /suppliers "
+"legt einen neuen Eintrag an."
+msgstr ""
+"Οι μη αξιολογημένες αυτοδηλώσεις εμφανίζονται πρώτες. Μια αυτοδήλωση δεν "
+"αξιολογείται επί τόπου εδώ: η αξιολόγηση μέσω υπολογιστή ή POST /suppliers "
+"δημιουργεί νέα εγγραφή."
+
+#: includes/Admin/AdminDashboard.php:548
+msgid "Noch keine Lieferanten im Register."
+msgstr "Δεν υπάρχουν ακόμη προμηθευτές στο μητρώο."
+
+#: includes/Admin/AdminDashboard.php:554
+msgid "Lieferant"
+msgstr "Προμηθευτής"
+
+#: includes/Admin/AdminDashboard.php:555 includes/Admin/AdminDashboard.php:633
+msgid "Land"
+msgstr "Χώρα"
+
+#: includes/Admin/AdminDashboard.php:556 includes/Admin/AdminDashboard.php:647
+msgid "Branche"
+msgstr "Κλάδος"
+
+#: includes/Admin/AdminDashboard.php:557
+msgid "Stufe"
+msgstr "Βαθμίδα"
+
+#: includes/Admin/AdminDashboard.php:558
+msgid "Punktzahl"
+msgstr "Βαθμολογία"
+
+#: includes/Admin/AdminDashboard.php:559
+msgid "Einstufung"
+msgstr "Κατάταξη"
+
+#: includes/Admin/AdminDashboard.php:560
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/Admin/AdminDashboard.php:581
+msgid "Seiten des Registers"
+msgstr "Σελίδες μητρώου"
+
+#. translators: 1: current page, 2: number of pages
+#: includes/Admin/AdminDashboard.php:586
+#, php-format
+msgid "Seite %1$d von %2$d"
+msgstr "Σελίδα %1$d από %2$d"
+
+#: includes/Admin/AdminDashboard.php:590
+msgid "Vorherige Seite"
+msgstr "Προηγούμενη σελίδα"
+
+#: includes/Admin/AdminDashboard.php:593
+msgid "Nächste Seite"
+msgstr "Επόμενη σελίδα"
+
+#: includes/Admin/AdminDashboard.php:603
+msgid "Beispiel-Lieferanten anlegen (erfundene Namen, berechnete Punktzahlen)"
+msgstr ""
+"Δημιουργία ενδεικτικών προμηθευτών (φανταστικές επωνυμίες, υπολογισμένες "
+"βαθμολογίες)"
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Lieferanten bewerten"
+msgstr "Αξιολόγηση προμηθευτή"
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Abstrakte Stufe aus Land und Branche, konkrete Stufe aus Schwere, "
+"Wahrscheinlichkeit, Abhängigkeit vom Lieferanten und eigenem "
+"Verursachungsbeitrag, abzüglich Zertifizierungen. Gewichte und Grenzen sind "
+"Heuristiken von WM Suite."
+msgstr ""
+"Αφηρημένο επίπεδο από χώρα και κλάδο, συγκεκριμένο επίπεδο από σοβαρότητα, "
+"πιθανότητα, εξάρτηση από τον προμηθευτή και ίδια αιτιώδη συμβολή μείον "
+"πιστοποιήσεις. Τα βάρη και τα όρια είναι ευρετικές τιμές της WM Suite."
+
+#: includes/Admin/AdminDashboard.php:628
+msgid "Name des Lieferanten"
+msgstr "Επωνυμία προμηθευτή"
+
+#. translators: 1: country name, 2: ISO code, 3: country tier 0-100
+#: includes/Admin/AdminDashboard.php:639
+#, php-format
+msgid "%1$s (%2$s), Länderstufe %3$s"
+msgstr "%1$s (%2$s), βαθμίδα χώρας %3$s"
+
+#. translators: 1: sector name, 2: sector risk 0-100, 3: product risk 0-100
+#: includes/Admin/AdminDashboard.php:654
+#, php-format
+msgid "%1$s (Sektor %2$s, Produkt %3$s)"
+msgstr "%1$s (τομέας %2$s, προϊόν %3$s)"
+
+#: includes/Admin/AdminDashboard.php:662
+msgid "Lieferantenstufe"
+msgstr "Βαθμίδα προμηθευτή"
+
+#: includes/Admin/AdminDashboard.php:664
+msgid "1 (unmittelbarer Zulieferer)"
+msgstr "1 (άμεσος προμηθευτής)"
+
+#: includes/Admin/AdminDashboard.php:665
+msgid "2 (mittelbarer Zulieferer)"
+msgstr "2 (έμμεσος προμηθευτής)"
+
+#: includes/Admin/AdminDashboard.php:666
+msgid "3 oder weiter"
+msgstr "3 ή βαθύτερα"
+
+#: includes/Admin/AdminDashboard.php:671
+msgid "Konkrete Stufe, jeweils 0 bis 100"
+msgstr "Συγκεκριμένο επίπεδο, 0 έως 100 έκαστο"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eine Schwere ab 85 ist für sich allein kritisch."
+msgstr "Σοβαρότητα 85 ή άνω είναι από μόνη της κρίσιμη."
+
+#: includes/Admin/AdminDashboard.php:675
+msgid "Schwere"
+msgstr "Σοβαρότητα"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "Wahrscheinlichkeit"
+msgstr "Πιθανότητα"
+
+#: includes/Admin/AdminDashboard.php:683
+msgid "Abhängigkeit vom Lieferanten"
+msgstr "Εξάρτηση από τον προμηθευτή"
+
+#: includes/Admin/AdminDashboard.php:687
+msgid "Eigener Verursachungsbeitrag"
+msgstr "Ίδια αιτιώδης συμβολή"
+
+#: includes/Admin/AdminDashboard.php:694
+msgid "Zertifizierungen des Lieferanten"
+msgstr "Πιστοποιήσεις προμηθευτή"
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "ISO 14001 (minus 10 Punkte auf der konkreten Stufe)"
+msgstr "ISO 14001 (μείον 10 μονάδες στο συγκεκριμένο επίπεδο)"
+
+#: includes/Admin/AdminDashboard.php:696
+msgid "SA 8000 (minus 15 Punkte auf der konkreten Stufe)"
+msgstr "SA 8000 (μείον 15 μονάδες στο συγκεκριμένο επίπεδο)"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Ergebnis im Register speichern"
+msgstr "Αποθήκευση αποτελέσματος στο μητρώο"
+
+#: includes/Admin/AdminDashboard.php:703
+msgid "Punktzahl berechnen"
+msgstr "Υπολογισμός βαθμολογίας"
+
+#: includes/Admin/AdminDashboard.php:708
+msgid "Ergebnis"
+msgstr "Αποτέλεσμα"
+
+#: includes/Admin/AdminDashboard.php:710
+msgid "Noch keine Berechnung."
+msgstr "Δεν υπάρχει ακόμη υπολογισμός."
+
+#. translators: 1: abstract score, 2: country risk, 3: sector risk, 4: product risk, 5: concrete score, 6: severity, 7: probability, 8: dependency, 9: causality
+#: includes/Admin/AdminDashboard.php:725
+#, php-format
+msgid ""
+"Abstrakte Stufe %1$s (Land %2$s, Sektor %3$s, Produkt %4$s) · konkrete Stufe "
+"%5$s (Schwere %6$s, Wahrscheinlichkeit %7$s, Abhängigkeit %8$s, "
+"Verursachungsbeitrag %9$s)"
+msgstr ""
+"Αφηρημένο επίπεδο %1$s (χώρα %2$s, τομέας %3$s, προϊόν %4$s) · συγκεκριμένο "
+"επίπεδο %5$s (σοβαρότητα %6$s, πιθανότητα %7$s, εξάρτηση %8$s, αιτιώδης "
+"συμβολή %9$s)"
+
+#: includes/Admin/AdminDashboard.php:739
+msgid "Hinweise:"
+msgstr "Επισημάνσεις:"
+
+#: includes/Admin/AdminDashboard.php:743
+msgid "Im Register gespeichert, mit der Bewertung im Verlauf."
+msgstr "Αποθηκεύτηκε στο μητρώο μαζί με την αξιολόγηση στο ιστορικό."
+
+#: includes/Admin/AdminDashboard.php:745
+msgid ""
+"Dieses Formular wurde schon gespeichert (die Seite wurde neu geladen); es "
+"wurde kein zweiter Eintrag angelegt."
+msgstr ""
+"Αυτή η φόρμα έχει ήδη αποθηκευτεί (η σελίδα επαναφορτώθηκε)· δεν "
+"δημιουργήθηκε δεύτερη εγγραφή."
+
+#: includes/Admin/AdminDashboard.php:747
+msgid ""
+"Nicht im Register gespeichert. Die Bewertung wird angezeigt, ist aber nicht "
+"festgehalten."
+msgstr ""
+"Δεν αποθηκεύτηκε στο μητρώο. Η αξιολόγηση εμφανίζεται αλλά δεν καταγράφηκε."
+
+#: includes/Admin/AdminDashboard.php:750
+msgid "Einordnung"
+msgstr "Ερμηνεία"
+
+#: includes/Admin/AdminDashboard.php:752
+msgid ""
+"§ 3 Abs. 2 und § 5 Abs. 2 LkSG nennen Kriterien, aber keine Gewichte. Welche "
+"Präventions- oder Abhilfemaßnahmen angemessen sind, entscheidet das "
+"Unternehmen, nicht diese Zahl."
+msgstr ""
+"Τα § 3 παρ. 2 και § 5 παρ. 2 LkSG αναφέρουν κριτήρια, όχι βάρη. Ποια "
+"προληπτικά ή διορθωτικά μέτρα είναι κατάλληλα το αποφασίζει η επιχείρηση, "
+"όχι αυτός ο αριθμός."
+
+#: includes/Admin/AdminDashboard.php:766
+msgid ""
+"Kritisch: Punktzahl ab 75 oder Schwere ab 85. Das Plugin ordnet dem den "
+"Auslöser CAPA_REQUIRED zu. Abhilfemaßnahmen nach § 7 LkSG knüpfen an eine "
+"festgestellte oder unmittelbar bevorstehende Verletzung an, nicht an eine "
+"Punktzahl."
+msgstr ""
+"Κρίσιμο: βαθμολογία από 75 ή σοβαρότητα από 85. Το πρόσθετο αποδίδει το "
+"ερέθισμα CAPA_REQUIRED. Τα διορθωτικά μέτρα του § 7 LkSG συνδέονται με "
+"διαπιστωμένη ή άμεσα επικείμενη παράβαση, όχι με βαθμολογία."
+
+#: includes/Admin/AdminDashboard.php:767
+msgid ""
+"Hoch: Punktzahl 50 bis unter 75. Das Plugin ordnet dem den Auslöser "
+"AUDIT_REQUIRED zu."
+msgstr ""
+"Υψηλό: βαθμολογία από 50 έως κάτω από 75. Το πρόσθετο αποδίδει το ερέθισμα "
+"AUDIT_REQUIRED."
+
+#: includes/Admin/AdminDashboard.php:768
+msgid ""
+"Mittel: Punktzahl 25 bis unter 50. Das Plugin ordnet dem den Auslöser "
+"QUESTIONNAIRE_REQUIRED zu."
+msgstr ""
+"Μεσαίο: βαθμολογία από 25 έως κάτω από 50. Το πρόσθετο αποδίδει το ερέθισμα "
+"QUESTIONNAIRE_REQUIRED."
+
+#: includes/Admin/AdminDashboard.php:769
+msgid ""
+"Niedrig: Punktzahl unter 25. Das Plugin ordnet dem den Auslöser NO_ACTION "
+"zu. Eine niedrige Punktzahl belegt nicht, dass keine Risiken bestehen; sie "
+"kann ganz auf Standardwerten beruhen."
+msgstr ""
+"Χαμηλό: βαθμολογία κάτω από 25. Το πρόσθετο αποδίδει το ερέθισμα NO_ACTION. "
+"Χαμηλή βαθμολογία δεν αποδεικνύει απουσία κινδύνων· μπορεί να βασίζεται "
+"αποκλειστικά σε προεπιλογές."
+
+#: includes/Admin/AdminDashboard.php:770
+msgid "Unbekannte Stufe."
+msgstr "Άγνωστο επίπεδο."
+
+#. translators: %d: calendar year
+#: includes/Admin/AdminDashboard.php:788
+#, php-format
+msgid "Jahresübersicht %d"
+msgstr "Ετήσια σύνοψη %d"
+
+#. translators: %d: calendar year
+#: includes/Admin/AdminDashboard.php:794
+#, php-format
+msgid ""
+"Zählt, was das Register für das Kalenderjahr %d enthält (UTC). Das ist kein "
+"Bericht nach § 10 Abs. 2 LkSG und kein BAFA-Formular. Das Jahr stellen Sie "
+"unter Einstellungen ein."
+msgstr ""
+"Καταμετρά το περιεχόμενο του μητρώου για το ημερολογιακό έτος %d (UTC). Δεν "
+"αποτελεί έκθεση κατά το § 10 παρ. 2 LkSG ούτε έντυπο BAFA. Ρυθμίστε το έτος "
+"στις Ρυθμίσεις."
+
+#: includes/Admin/AdminDashboard.php:798
+msgid "JSON öffnen"
+msgstr "Άνοιγμα JSON"
+
+#: includes/Admin/AdminDashboard.php:799
+msgid ""
+"Nicht erfasst werden: die Zuständigkeit (§ 4 Abs. 3 LkSG), die "
+"Grundsatzerklärung (§ 6 Abs. 2), Präventionsmaßnahmen (§ 6), "
+"Abhilfemaßnahmen (§ 7), das Beschwerdeverfahren (§ 8) und die Bewertung der "
+"Wirksamkeit der Maßnahmen."
+msgstr ""
+"Δεν καταγράφονται: η εσωτερική αρμοδιότητα (§ 4 παρ. 3 LkSG), η δήλωση αρχών "
+"(§ 6 παρ. 2), τα προληπτικά μέτρα (§ 6), τα διορθωτικά μέτρα (§ 7), η "
+"διαδικασία καταγγελιών (§ 8) και η αξιολόγηση αποτελεσματικότητας."
+
+#: includes/Admin/AdminDashboard.php:815
+#: includes/Frontend/EcosystemIntegration.php:91
+msgid "Jahr der Jahresübersicht"
+msgstr "Έτος ετήσιας σύνοψης"
+
+#: includes/Admin/AdminDashboard.php:816
+msgid ""
+"Kalenderjahr, das die Jahresübersicht, WP-CLI und die Route /bafa-report "
+"ohne Jahresangabe zählen. Ohne Eintrag gilt das Vorjahr."
+msgstr ""
+"Ημερολογιακό έτος που καταμετρούν η ετήσια σύνοψη, το WP-CLI και η διαδρομή /"
+"bafa-report χωρίς παράμετρο έτους. Προεπιλογή: το προηγούμενο ημερολογιακό "
+"έτος."
+
+#: includes/Admin/AdminDashboard.php:822
+msgid ""
+"Alle Plugin-Tabellen und Einstellungen beim Löschen des Plugins "
+"unwiderruflich entfernen"
+msgstr ""
+"Αμετάκλητη διαγραφή όλων των πινάκων και ρυθμίσεων του προσθέτου κατά τη "
+"διαγραφή του προσθέτου"
+
+#: includes/Admin/AdminDashboard.php:824
+msgid ""
+"Standardmäßig bleiben Lieferantenregister, Bewertungsverlauf und "
+"Selbstauskünfte beim Löschen des Plugins erhalten (§ 10 Abs. 1 LkSG sieht "
+"eine Aufbewahrung von mindestens sieben Jahren vor). Nur aktivieren, wenn "
+"sämtliche Daten endgültig entfernt werden sollen."
+msgstr ""
+"Από προεπιλογή, το μητρώο προμηθευτών, το ιστορικό αξιολογήσεων και οι "
+"αυτοδηλώσεις διατηρούνται κατά τη διαγραφή του προσθέτου (το § 10 παρ. 1 "
+"LkSG προβλέπει διατήρηση τουλάχιστον επτά ετών). Ενεργοποιήστε μόνο αν "
+"θέλετε οριστική διαγραφή όλων των δεδομένων."
+
+#: includes/Admin/AdminDashboard.php:826
+msgid "Speichern"
+msgstr "Αποθήκευση"
+
+#: includes/Admin/AdminDashboard.php:828
+msgid ""
+"Einen eigenen Schwellenwert gibt es nicht: Die Stufen folgen festen Grenzen "
+"(kritisch ab 75 Punkten oder ab einer Schwere von 85, hoch ab 50, mittel ab "
+"25). Das frühere Schwellenwert-Feld wurde von nichts gelesen."
+msgstr ""
+"Δεν υπάρχει προσαρμοσμένο όριο: τα επίπεδα ακολουθούν σταθερά όρια (κρίσιμο "
+"από 75 μονάδες ή σοβαρότητα 85, υψηλό από 50, μεσαίο από 25). Το παλαιότερο "
+"πεδίο ορίου δεν διαβαζόταν πουθενά."
+
+#: includes/Admin/AdminDashboard.php:839
+msgid "Zwei Stufen, feste Gewichte"
+msgstr "Δύο επίπεδα, σταθερά βάρη"
+
+#: includes/Admin/AdminDashboard.php:840
+msgid ""
+"Abstrakte Stufe: 0,40 × Land + 0,40 × Sektor + 0,20 × Produkt. Konkrete "
+"Stufe: 0,40 × Schwere + 0,40 × Wahrscheinlichkeit + 0,10 × Abhängigkeit + "
+"0,10 × Verursachungsbeitrag, minus 10 für ISO 14001 und 15 für SA 8000. "
+"Gesamt: 0,30 × abstrakt + 0,70 × konkret. Länderstufen (DE 15 bis BD 85) und "
+"Sektorprofile sind Heuristiken von WM Suite, kein Korruptionsindex."
+msgstr ""
+"Αφηρημένο επίπεδο: 0,40 × χώρα + 0,40 × τομέας + 0,20 × προϊόν. Συγκεκριμένο "
+"επίπεδο: 0,40 × σοβαρότητα + 0,40 × πιθανότητα + 0,10 × εξάρτηση + 0,10 × "
+"αιτιώδης συμβολή, μείον 10 για ISO 14001 και 15 για SA 8000. Σύνολο: 0,30 × "
+"αφηρημένο + 0,70 × συγκεκριμένο. Οι βαθμίδες χωρών (DE 15 έως BD 85) και τα "
+"προφίλ κλάδων είναι ευρετικές τιμές της WM Suite, όχι δείκτης διαφθοράς."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid "§ 3 Abs. 2 LkSG"
+msgstr "§ 3 παρ. 2 LkSG"
+
+#: includes/Admin/AdminDashboard.php:844
+msgid ""
+"Die angemessene Weise eines Handelns bestimmt sich nach Art und Umfang der "
+"Geschäftstätigkeit, dem Einflussvermögen auf den unmittelbaren Verursacher, "
+"der typischerweise zu erwartenden Schwere, der Umkehrbarkeit und der "
+"Wahrscheinlichkeit der Verletzung sowie der Art des Verursachungsbeitrags. "
+"Der Rechner fragt Schwere, Wahrscheinlichkeit, Abhängigkeit vom Lieferanten "
+"und Verursachungsbeitrag ab; Art und Umfang der Geschäftstätigkeit, "
+"Einflussvermögen und Umkehrbarkeit fragt er nicht ab."
+msgstr ""
+"Η κατάλληλη δράση καθορίζεται από το είδος και το εύρος δραστηριότητας, τη "
+"δυνατότητα επιρροής στον άμεσο υπαίτιο, την αναμενόμενη σοβαρότητα, "
+"αναστρεψιμότητα και πιθανότητα παράβασης καθώς και το είδος της αιτιώδους "
+"συμβολής. Ο υπολογιστής ζητά σοβαρότητα, πιθανότητα, εξάρτηση και αιτιώδη "
+"συμβολή· δεν ζητά εύρος δραστηριότητας, επιρροή ή αναστρεψιμότητα."
+
+#: includes/Admin/AdminDashboard.php:847
+msgid "Selbstauskunft"
+msgstr "Αυτοδήλωση"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid ""
+"Das Formular [wm_lksg_supplier_portal] speichert Firmenname, Land, Branche, "
+"Stufe, die angekreuzten Zertifizierungen und den bestätigten Wortlaut, mit "
+"einer HMAC-Signatur. Wer absendet, wird nicht identifiziert. Eine "
+"Selbstauskunft bleibt „nicht bewertet“."
+msgstr ""
+"Η φόρμα [wm_lksg_supplier_portal] αποθηκεύει επωνυμία, χώρα, κλάδο, βαθμίδα, "
+"επιλεγμένες πιστοποιήσεις και το επιβεβαιωμένο κείμενο με υπογραφή HMAC. Ο "
+"αποστολέας δεν ταυτοποιείται. Η αυτοδήλωση παραμένει «μη αξιολογημένη»."
+
+#: includes/Admin/AdminDashboard.php:852
+msgid ""
+"Zählt die Einträge des Registers für ein Kalenderjahr. Sie ist kein Bericht "
+"nach § 10 Abs. 2 LkSG und kein BAFA-Formular."
+msgstr ""
+"Καταμετρά τις εγγραφές του μητρώου για ένα ημερολογιακό έτος. Δεν αποτελεί "
+"έκθεση κατά το § 10 παρ. 2 LkSG ούτε έντυπο BAFA."
+
+#: includes/Admin/AdminDashboard.php:855
+msgid "Aufbewahrung"
+msgstr "Διατήρηση"
+
+#: includes/Admin/AdminDashboard.php:856
+msgid ""
+"§ 10 Abs. 1 LkSG: „Die Dokumentation ist ab ihrer Erstellung mindestens "
+"sieben Jahre lang aufzubewahren.“ Standardmäßig bleiben alle Tabellen und "
+"Einstellungen beim Löschen des Plugins erhalten, sofern unter Einstellungen "
+"nicht ausdrücklich das endgültige Löschen aktiviert wurde."
+msgstr ""
+"§ 10 παρ. 1 LkSG: «Η τεκμηρίωση φυλάσσεται για τουλάχιστον επτά έτη από τη "
+"σύνταξή της.» Από προεπιλογή όλοι οι πίνακες και οι ρυθμίσεις διατηρούνται "
+"κατά τη διαγραφή του προσθέτου, εκτός εάν ενεργοποιηθεί ρητά στις Ρυθμίσεις."
+
+#: includes/API/RestController.php:126
+msgid ""
+"Zu viele Übermittlungen von dieser Adresse. Bitte versuchen Sie es später "
+"erneut."
+msgstr "Πάρα πολλές υποβολές από αυτή τη διεύθυνση. Δοκιμάστε ξανά αργότερα."
+
+#: includes/API/RestController.php:263
+msgid "Der Lieferant konnte nicht gespeichert werden."
+msgstr "Δεν ήταν δυνατή η αποθήκευση του προμηθευτή."
+
+#: includes/API/RestController.php:270
+msgid ""
+"Die Bewertung konnte nicht protokolliert werden; der Lieferant wurde deshalb "
+"nicht gespeichert."
+msgstr ""
+"Δεν ήταν δυνατή η καταγραφή της αξιολόγησης· επομένως ο προμηθευτής δεν "
+"αποθηκεύτηκε."
+
+#: includes/API/RestController.php:330
+msgid "Der Unternehmensname fehlt."
+msgstr "Λείπει η επωνυμία της εταιρείας."
+
+#: includes/API/RestController.php:336
+msgid "Die Branche ist keine der Auswahlmöglichkeiten des Formulars."
+msgstr "Ο κλάδος δεν περιλαμβάνεται στις επιλογές της φόρμας."
+
+#: includes/API/RestController.php:344
+msgid "Die Erklärung wurde nicht bestätigt."
+msgstr "Η δήλωση δεν επιβεβαιώθηκε."
+
+#: includes/API/RestController.php:372 includes/API/RestController.php:402
+msgid "Die Übermittlung konnte nicht gespeichert werden."
+msgstr "Δεν ήταν δυνατή η αποθήκευση της υποβολής."
+
+#: includes/API/RestController.php:414
+msgid ""
+"Ihre Selbstauskunft wurde übermittelt und gespeichert. Die Risikobewertung "
+"nimmt der Auftraggeber vor."
+msgstr ""
+"Η αυτοδήλωσή σας υποβλήθηκε και αποθηκεύτηκε. Η αξιολόγηση κινδύνου "
+"διενεργείται από τον εντολέα."
+
+#: includes/API/RestController.php:431
+msgid ""
+"Ich bestätige, dass in unserer Betriebsstätte und unserer Lieferkette kein "
+"Verstoß gegen die Verbote der Kinderarbeit und der Zwangsarbeit (§ 2 Abs. 2 "
+"Nr. 1 bis 3 LkSG) und gegen die umweltbezogenen Verbote des § 2 Abs. 3 LkSG "
+"vorliegt."
+msgstr ""
+"Επιβεβαιώνω ότι στις εγκαταστάσεις μας και στην εφοδιαστική μας αλυσίδα δεν "
+"υφίσταται καμία παράβαση των απαγορεύσεων παιδικής και αναγκαστικής εργασίας "
+"(§ 2 παρ. 2 αρ. 1 έως 3 LkSG) ούτε των περιβαλλοντικών απαγορεύσεων του § 2 "
+"παρ. 3 LkSG."
+
+#: includes/API/RestController.php:499
+msgid "Das Jahr liegt außerhalb des zulässigen Bereichs."
+msgstr "Το έτος βρίσκεται εκτός του επιτρεπόμενου εύρους."
+
+#: includes/Frontend/EcosystemIntegration.php:45
+msgid "LkSG-Registerkennzahlen"
+msgstr "Δείκτες μητρώου LkSG"
+
+#: includes/Frontend/EcosystemIntegration.php:62
+msgid "LkSG-Registerkennzahl"
+msgstr "Δείκτης μητρώου LkSG"
+
+#: includes/Frontend/EcosystemIntegration.php:66
+msgid "Gibt eine Zählung aus dem LkSG-Lieferantenregister aus."
+msgstr "Εμφανίζει καταμέτρηση από το μητρώο προμηθευτών LkSG."
+
+#: includes/Frontend/EcosystemIntegration.php:70
+msgid "Kennzahl"
+msgstr "Δείκτης"
+
+#: includes/Frontend/SupplierPortal.php:92
+msgid "Fertigung und Produktion"
+msgstr "Μεταποίηση και παραγωγή"
+
+#: includes/Frontend/SupplierPortal.php:93
+msgid "Elektronik und Halbleiter"
+msgstr "Ηλεκτρονικά και ημιαγωγοί"
+
+#: includes/Frontend/SupplierPortal.php:94
+msgid "Textil- und Bekleidungsindustrie"
+msgstr "Βιομηχανία κλωστοϋφαντουργίας και ένδυσης"
+
+#: includes/Frontend/SupplierPortal.php:95
+msgid "Rohstoffgewinnung und Bergbau"
+msgstr "Εξόρυξη πρώτων υλών και μεταλλεία"
+
+#: includes/Frontend/SupplierPortal.php:96
+msgid "IT- und Cloud-Dienstleistungen"
+msgstr "Υπηρεσίες πληροφορικής και cloud"
+
+#: includes/Frontend/SupplierPortal.php:97
+msgid "Transport und Logistik"
+msgstr "Μεταφορές και εφοδιαστική"
+
+#: includes/Frontend/SupplierPortal.php:123
+msgid "Lieferanten-Selbstauskunft"
+msgstr "Αυτοδήλωση προμηθευτή"
+
+#: includes/Frontend/SupplierPortal.php:124
+msgid "Selbstauskunft für Lieferanten"
+msgstr "Αυτοδήλωση για προμηθευτές"
+
+#: includes/Frontend/SupplierPortal.php:126
+msgid ""
+"Ihre Angaben gehen an den Betreiber dieser Website und werden in dessen "
+"Lieferantenregister als nicht bewertete Selbstauskunft gespeichert. Die "
+"Risikobewertung nimmt der Auftraggeber vor. Eine Meldung an eine Behörde "
+"erfolgt hierdurch nicht."
+msgstr ""
+"Τα στοιχεία σας αποστέλλονται στον διαχειριστή αυτού του ιστότοπου και "
+"αποθηκεύονται στο μητρώο προμηθευτών του ως μη αξιολογημένη αυτοδήλωση. Η "
+"αξιολόγηση κινδύνου γίνεται από τον εντολέα. Δεν πραγματοποιείται καμία "
+"αναφορά σε αρχή."
+
+#: includes/Frontend/SupplierPortal.php:131
+msgid "Wird übermittelt …"
+msgstr "Υποβολή σε εξέλιξη …"
+
+#: includes/Frontend/SupplierPortal.php:132
+msgid ""
+"Die Übermittlung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+msgstr "Η υποβολή απέτυχε. Η δήλωσή σας ΔΕΝ κατατέθηκε."
+
+#: includes/Frontend/SupplierPortal.php:133
+msgid ""
+"Die Verbindung ist fehlgeschlagen. Ihre Erklärung wurde NICHT eingereicht."
+msgstr "Η σύνδεση απέτυχε. Η δήλωσή σας ΔΕΝ κατατέθηκε."
+
+#: includes/Frontend/SupplierPortal.php:136
+msgid "Unternehmensname *"
+msgstr "Επωνυμία επιχείρησης *"
+
+#: includes/Frontend/SupplierPortal.php:140
+msgid "Standortland (ISO-3166-1-Code, zum Beispiel DE) *"
+msgstr "Χώρα εγκατάστασης (κωδικός ISO 3166-1, π.χ. DE) *"
+
+#: includes/Frontend/SupplierPortal.php:147
+msgid "Branche *"
+msgstr "Κλάδος *"
+
+#: includes/Frontend/SupplierPortal.php:155
+msgid "Lieferantenstufe *"
+msgstr "Βαθμίδα προμηθευτή *"
+
+#: includes/Frontend/SupplierPortal.php:157 blocks-src/index.js:37
+msgid "Stufe 1 (unmittelbarer Vertragslieferant)"
+msgstr "Βαθμίδα 1 (άμεσος συμβατικός προμηθευτής)"
+
+#: includes/Frontend/SupplierPortal.php:158 blocks-src/index.js:41
+msgid "Stufe 2 (Vorlieferant)"
+msgstr "Βαθμίδα 2 (υποπρομηθευτής)"
+
+#: includes/Frontend/SupplierPortal.php:159 blocks-src/index.js:45
+msgid "Stufe 3 oder weiter (Rohstoff- oder Komponentenquelle)"
+msgstr "Βαθμίδα 3 ή βαθύτερα (πηγή πρώτων υλών ή εξαρτημάτων)"
+
+#: includes/Frontend/SupplierPortal.php:165
+msgid "Vorhandene Zertifizierungen"
+msgstr "Υφιστάμενες πιστοποιήσεις"
+
+#: includes/Frontend/SupplierPortal.php:166
+msgid "ISO 14001 (Umweltmanagement)"
+msgstr "ISO 14001 (περιβαλλοντική διαχείριση)"
+
+#: includes/Frontend/SupplierPortal.php:167
+msgid "SA8000 (Sozialstandard)"
+msgstr "SA8000 (κοινωνικό πρότυπο)"
+
+#: includes/Frontend/SupplierPortal.php:168
+msgid "ISO 45001 (Arbeitsschutzmanagement)"
+msgstr "ISO 45001 (υγεία και ασφάλεια στην εργασία)"
+
+#: includes/Frontend/SupplierPortal.php:177
+msgid "Selbstauskunft übermitteln"
+msgstr "Υποβολή αυτοδήλωσης"
+
+#: includes/Frontend/SupplierPortal.php:181
+msgid "Selbstauskunft übermittelt"
+msgstr "Η αυτοδήλωση υποβλήθηκε"
+
+#: includes/Frontend/SupplierPortal.php:183
+msgid "Ihre Angaben wurden gespeichert. Vorgangsnummer:"
+msgstr "Τα στοιχεία σας αποθηκεύτηκαν. Αριθμός αναφοράς:"
+
+#: includes/Frontend/SupplierPortal.php:190
+msgid ""
+"Die Risikobewertung nimmt der Auftraggeber vor; Ihre Angaben sind die "
+"Grundlage dafür und stehen bis dahin als nicht bewertet im "
+"Lieferantenregister. Eine Meldung an die BAFA erfolgt hierdurch nicht."
+msgstr ""
+"Η αξιολόγηση κινδύνου διενεργείται από τον εντολέα· τα στοιχεία σας "
+"αποτελούν τη βάση της και παραμένουν έως τότε μη αξιολογημένα στο μητρώο "
+"προμηθευτών. Δεν γίνεται καμία αναφορά στην BAFA."
+
+#: blocks-src/index.js:22
+msgid "Formulareinstellungen"
+msgstr "Ρυθμίσεις φόρμας"
+
+#: blocks-src/index.js:26
+msgid "Einführungstext anzeigen"
+msgstr "Εμφάνιση εισαγωγικού κειμένου"
+
+#: blocks-src/index.js:32
+msgid "Vorausgewählte Lieferantenstufe"
+msgstr "Προεπιλεγμένη βαθμίδα προμηθευτή"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block title"
+msgid "LkSG-Lieferanten-Selbstauskunft"
+msgstr "Αυτοδήλωση προμηθευτή LkSG"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block description"
+msgid ""
+"Öffentliches Selbstauskunftsformular für Lieferanten mit Pflichtbestätigung "
+"und HMAC-Signatur."
+msgstr ""
+"Δημόσια φόρμα αυτοδήλωσης προμηθευτών με υποχρεωτική επιβεβαίωση και "
+"υπογραφή HMAC."
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "lksg"
+msgstr "lksg"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "lieferanten"
+msgstr "προμηθευτές"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "selbstauskunft"
+msgstr "αυτοδήλωση"
+
+#: blocks/supplier-portal/block.json
+msgctxt "block keyword"
+msgid "register"
+msgstr "μητρώο"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"
